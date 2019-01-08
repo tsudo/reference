@@ -2,21 +2,21 @@
 *curated by tsudo*
 Last Modified: 20190108
 
-* cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]
+*cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]*
 
 ## General Stats
-50% of breaches carried out by organized criminal groups - NeedsAnno
-External Actors: Organized Crime 70%, Unaffiliated 215 - NeedsAnno
-Phishing and pretexting represent 98% of social incidents and 93% of breaches - NeedsAnno
-Average user receives 16 malicious emails a month - 2018ISTR
-92.4% of malware is delivered via email - 2018DBIR
-58% of attack victims are SMB
-92.4% of malware is delivered via email 
+* 50% of breaches carried out by organized criminal groups - NeedsAnno
+* External Actors: Organized Crime 70%, Unaffiliated 215 - NeedsAnno
+* Phishing and pretexting represent 98% of social incidents and 93% of breaches - NeedsAnno
+* Average user receives 16 malicious emails a month - 2018ISTR
+* 92.4% of malware is delivered via email - 2018DBIR
+* 58% of attack victims are SMB
+* 92.4% of malware is delivered via email 
 
 ## Targeted Attacks
-Most widely used vector: Spear phishing
-2nd Watering holes: Compromise forums, or industry groups
-Increase in malicious URLs vs malicious attachments
+* Most widely used vector: Spear phishing
+* 2nd Watering holes: Compromise forums, or industry groups
+* Increase in malicious URLs vs malicious attachments
 
 ## Statements
   - In 2017, spear-phishing emails were the most widely used infection vector, employed by 71 percent of those groups that staged cyber attacks
