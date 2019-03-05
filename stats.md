@@ -1,6 +1,6 @@
 # CyberSecurity Statistics & Statements
 *curated by tsudo*
-Last Modified: 20190212
+Last Modified: 20190305
 
 *cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]*
 
@@ -14,6 +14,13 @@ Last Modified: 20190212
 * 92.4% of malware is delivered via email 
 * The average cost of breach notification in the US is $740,000 – [Ponemon2018]
 * The mean time to identify a breach (MTTI) is 197 days. That’s a little over 6 months to even detect a breach. Then it takes 69 days to contain it. – [Ponemon2018]
+
+## Phishing
+* Phishing attacks increased 36%, with the number of phishing sites growing 220% over the course of 2018 - [Webroot2019]
+* 77% percent of phishing attacks impersonated financial institutions, and were much more likely to use HTTPS than other types of targets. In fact, for some of the targeted financial institutions, over 80% of the phishing pages used HTTPS. - [Webroot2019]
+* 
+## Web Security
+* 40% of malicious URLs were found on "good" domains - [Webroot2019]
 
 
 ## Targeted Attacks
@@ -32,3 +39,4 @@ Last Modified: 20190212
    [2018DBIR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2018.pdf>
    [2018ISTR]: <https://github.com/tsudo/reference/raw/master/Symantec_ISTR/Symantec_ISTR23_2018.pdf>
    [Ponemon2018]: <https://github.com/tsudo/reference/raw/master/Ponemon/Ponemon_CostofDataBreach_2018.pdf>
+   [Webroot2019]: <https://github.com/tsudo/reference/raw/master/Webroot/2019_Webroot_Threat_Report_US_Online.pdf>
