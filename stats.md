@@ -1,6 +1,6 @@
-# CyberSecurity Statistics & Statements
+# Cybersecurity Statistics & Statements
 *curated by tsudo*
-Last Modified: 20190715
+Last Modified: 20190919
 
 *cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]*
 
@@ -12,8 +12,16 @@ Last Modified: 20190715
 * 92.4% of malware is delivered via email - [2018DBIR]
 * 58% of attack victims are SMB - [2018DBIR]
 * 92.4% of malware is delivered via email 
+* The mean time to identify a breach (MTTI) is 206 days, The mean time to contain a breach (MTTC) is 279 days. Up from 197/69 in 2019 to 206/73 in 2019 – [Ponemon2019]
+
+
+## Breach Costs
+* Avg cost of breach to org with less than 500 employees $2.74M – [Ponemon2019]
+* Avg cost of breach to org with 500-1000 employees $2.65M – [Ponemon2019]
+* Avg cost of breach to org with 1000+ employees $3.63M – [Ponemon2019]
 * The average cost of breach notification in the US is $740,000 – [Ponemon2018]
-* The mean time to identify a breach (MTTI) is 197 days. That’s a little over 6 months to even detect a breach. Then it takes 69 days to contain it. – [Ponemon2018]
+* Customer/Patient churn or turnover more than 3% increases recovery costs significantly. – [Ponemon2019]
+* Top 4 factors that DECREASE cost: forming an IR team, extensive use of encryption, extensive testing of IR plan, Business Continuity Management  – [Ponemon2019]
 
 ## Phishing
 * Phishing attacks increased 36%, with the number of phishing sites growing 220% over the course of 2018 - [Webroot2019]
@@ -40,5 +48,6 @@ Last Modified: 20190715
    [2018DBIR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2018.pdf>
    [2018ISTR]: <https://github.com/tsudo/reference/raw/master/Symantec_ISTR/Symantec_ISTR23_2018.pdf>
    [Ponemon2018]: <https://github.com/tsudo/reference/raw/master/Ponemon/Ponemon_CostofDataBreach_2018.pdf>
+   [Ponemon2019]: <https://github.com/tsudo/reference/blob/master/Ponemon/Ponemon_CostofDataBreach_2019.pdf>
    [Webroot2019]: <https://github.com/tsudo/reference/raw/master/Webroot/2019_Webroot_Threat_Report_US_Online.pdf>
    [2019ISTR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2019.pdf>
