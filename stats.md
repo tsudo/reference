@@ -1,6 +1,6 @@
 # Cybersecurity Statistics & Statements
 *curated by tsudo*
-Last Modified: 20190919
+Last Modified: 20200807
 
 *cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]*
 
@@ -16,13 +16,14 @@ Last Modified: 20190919
 * MFA blocks 99.9% of account comprimise attacks - [Microsoft](https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/)
 
 
-## Breach Costs
+## Breach Stats
 * Avg cost of breach to org with less than 500 employees $2.74M – [Ponemon2019]
 * Avg cost of breach to org with 500-1000 employees $2.65M – [Ponemon2019]
 * Avg cost of breach to org with 1000+ employees $3.63M – [Ponemon2019]
 * The average cost of breach notification in the US is $740,000 – [Ponemon2018]
 * Customer/Patient churn or turnover more than 3% increases recovery costs significantly. – [Ponemon2019]
 * Top 4 factors that DECREASE cost: forming an IR team, extensive use of encryption, extensive testing of IR plan, Business Continuity Management  – [Ponemon2019]
+* 80% of end-point attacks were zero-day attacks – with the frequency of zero-day attacks expected to increase to 42% next year." - [2020PonemonEndpoint]
 
 ## Phishing
 * Phishing attacks increased 36%, with the number of phishing sites growing 220% over the course of 2018 - [Webroot2019]
@@ -31,7 +32,6 @@ Last Modified: 20190919
 * 
 ## Web Security
 * 40% of malicious URLs were found on "good" domains - [Webroot2019]
-
 
 ## Targeted Attacks
 * Most widely used vector: Spear phishing
@@ -52,3 +52,4 @@ Last Modified: 20190919
    [Ponemon2019]: <https://github.com/tsudo/reference/blob/master/Ponemon/Ponemon_CostofDataBreach_2019.pdf>
    [Webroot2019]: <https://github.com/tsudo/reference/raw/master/Webroot/2019_Webroot_Threat_Report_US_Online.pdf>
    [2019ISTR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2019.pdf>
+   [2020PonemonEndpoint]: <https://github.com/tsudo/reference/raw/master/Ponemon/Ponemon_StateofEndpointSecurity_2020.pdf>
