@@ -54,4 +54,4 @@ Last Modified: 20200807
    [Webroot2019]: <https://github.com/tsudo/reference/raw/master/Webroot/2019_Webroot_Threat_Report_US_Online.pdf>
    [2019ISTR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2019.pdf>
    [2020PonemonEndpoint]: <https://github.com/tsudo/reference/raw/master/Ponemon/Ponemon_StateofEndpointSecurity_2020.pdf>
-   [PONEMON2020] <https://github.com/tsudo/reference/blob/master/Ponemon/Ponemon_CostofDataBreach_2020.pdf>
+   [PONEMON2020]: <https://github.com/tsudo/reference/blob/master/Ponemon/Ponemon_CostofDataBreach_2020.pdf>
