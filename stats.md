@@ -17,6 +17,7 @@ Last Modified: 20200807
 
 
 ## Breach Stats
+* Avg cost of a data breach in 2020 for Healthcare Industry was $7.13M. - [Ponemon2020]
 * Avg cost of breach to org with less than 500 employees $2.74M – [Ponemon2019]
 * Avg cost of breach to org with 500-1000 employees $2.65M – [Ponemon2019]
 * Avg cost of breach to org with 1000+ employees $3.63M – [Ponemon2019]
@@ -53,3 +54,4 @@ Last Modified: 20200807
    [Webroot2019]: <https://github.com/tsudo/reference/raw/master/Webroot/2019_Webroot_Threat_Report_US_Online.pdf>
    [2019ISTR]: <https://github.com/tsudo/reference/raw/master/Verizon_DBIR/Verizon_DBIR_2019.pdf>
    [2020PonemonEndpoint]: <https://github.com/tsudo/reference/raw/master/Ponemon/Ponemon_StateofEndpointSecurity_2020.pdf>
+   [PONEMON2020] <https://github.com/tsudo/reference/blob/master/Ponemon/Ponemon_CostofDataBreach_2020.pdf>
