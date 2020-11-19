@@ -1,6 +1,6 @@
 # Cybersecurity Statistics & Statements
 *curated by tsudo*
-Last Modified: 20200807
+Last Modified: 20201119
 
 *cached copies of referenced reports are hosted on [my "reference" Github Repo][refrepo]*
 
@@ -13,7 +13,7 @@ Last Modified: 20200807
 * 58% of attack victims are SMB - [2018DBIR]
 * 92.4% of malware is delivered via email 
 * The mean time to identify a breach (MTTI) is 206 days, The mean time to contain a breach (MTTC) is 279 days. Up from 197/69 in 2019 to 206/73 in 2019 – [Ponemon2019]
-* MFA blocks 99.9% of account comprimise attacks - [Microsoft](https://www.microsoft.com/security/blog/2019/08/20/one-simple-action-you-can-take-to-prevent-99-9-percent-of-account-attacks/)
+* MFA blocks 99.9% of account comprimise attacks - [Microsoft](https://bit.ly/msmfa99)
 
 
 ## Breach Stats
