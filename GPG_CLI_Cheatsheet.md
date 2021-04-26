@@ -1,4 +1,4 @@
-# THE GPG CHEATSHEET
+# THE Windows GPG CLI CHEATSHEET
 
 ---
 Last Updated: **20210426**
@@ -16,7 +16,9 @@ The majority of these commands require you to specifiy the key to act upon. That
 
 Note that the :80 at the end of the server address specifies HTTP as the outbound port and will often resolve issues. It is  advisable to use the long Key ID (fingerprint) when searching or importing keys from a keyserver.
 `gpg --keyserver keys.riseup.net --recv-key 0xEF6E286DDA85EA2A4BA7DE684E2C6E8793298290`
+
 `gpg --keyserver sks-keyservers.net:80 --recv-key 0xEF6E286DDA85EA2A4BA7DE684E2C6E8793298290`
+
 `gpg ---keyserver x-hkp://pool.sks-keyservers.net --recv-keys 0x4E2C6E8793298290`
 
 #### Import a Public Key
@@ -33,8 +35,11 @@ This adds the public key in the file "public.key" to your public key ring.
 
 #### Export/Backup PRIVATE key:
 `gpg --armor --export-secret-key 0x4E2C6E8793298290  > filename.key`
+
 `gpg --armor --export-secret-key 0x4E2C6E8793298290  > filename.gpg`
+
 `gpg --armor --export-secret-key 0x4E2C6E8793298290  > filename.txt`
+
 
 #### Export/Backup PRIVATE SUBkey(s):
 `gpg --export-secret-subkeys 0x4E2C6E8793298290 > filename.key`
@@ -49,12 +54,14 @@ This adds the public key in the file "public.key" to your public key ring.
 ####  Get fingerprint of an on-disk armored key without importing it
 `gpg --with-fingerprint [filename.key or filename.asc]`
 
+## Signing Keys and Files
 #### See who has trusted (signed) a key
 `gpg --list-sigs 0xEF6E286DDA85EA2A4BA7DE684E2C6E8793298290`
 
 #### Verify a signed file
 Notes: Put both the file and the signature file (.asc) in the same folder. You'll want to import the public key prior to running the verification.
 `gpg --verify file.exe.asc file.exe`
+
 `gpg --verify file.exe.sig file.exe`
 
 Output should say "Good signature from..." & "Signature made DATE by KEYID", don't worry about the warning about the trusted signature. That is related to the trust level of the Key not the validity of the signature.
@@ -63,6 +70,7 @@ Output should say "Good signature from..." & "Signature made DATE by KEYID", don
 This is best for signing a binary/executable file as it creates a new (detached) .sig signature file
 `gpg --detach-sign filename`
 
+## Key Management
 #### Change the passphrase of the secret key
 `gpg --edit-key YOUR_KEYID_HERE`
 `gpg> passwd`
