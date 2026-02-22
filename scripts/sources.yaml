@@ -161,3 +161,11 @@ sources:
     latest_known_year: 2012
     cadence: ad-hoc
     notes: "Not yet in collection — add. Rev 3 in draft."
+
+  - org: Vendor Security Alliance
+    name: VSA Questionnaire
+    content_type: tool-template
+    url_pattern: https://vsa-questionnaire-bucket-docs.s3.us-west-2.amazonaws.com/CurrentVSA.zip
+    latest_known_year: 2025
+    cadence: annual
+    notes: "Stable 'Current' URL always points to latest ZIP. Contains 2 XLSXs. SCRM/TPRM assessment tool."

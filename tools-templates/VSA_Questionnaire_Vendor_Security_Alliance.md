@@ -3,7 +3,7 @@ title: "VSA Questionnaire (Vendor Security Alliance)"
 organization: "Vendor Security Alliance"
 content_type: tool-template
 year: ongoing
-tags: ["vendor-assessment questionnaire tprm third-party-risk vsa security-assessment"]
+tags: ["vendor-assessment", "questionnaire", "tprm", "third-party-risk", "scrm", "supply-chain-risk", "vsa", "security-assessment"]
 source_url: "https://vendorsecurityalliance.org/"
 description: "Annual vendor security assessment questionnaire used by major technology companies to evaluate third-party security posture. Covers governance, access control, data protection, incident response, and more. Updated annually; current version downloadable at https://vsa-questionnaire-bucket-docs.s3.us-west-2.amazonaws.com/CurrentVSA.zip"
 format: link

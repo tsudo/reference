@@ -62,7 +62,9 @@ def guess_content_type(stem, src_folder_name=""):
         return "framework"
     if any(k in s for k in ["sp_800", "sp800", "fips", "nist_sp", "standard"]):
         return "standard"
-    if any(k in s for k in ["checklist", "playbook", "template", "cheatsheet", "password", "passphrase"]):
+    if any(k in s for k in ["checklist", "playbook", "template", "cheatsheet", "password", "passphrase",
+                             "questionnaire", "vsa", "caiq", "vsaq", "tprm", "scrm", "vendor_assessment",
+                             "third_party", "supply_chain"]):
         return "tool-template"
     return "threat-intel"  # default for vendor reports
 
