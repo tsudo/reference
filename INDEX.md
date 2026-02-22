@@ -1,6 +1,6 @@
 # Reference Library Index
 
-_Auto-generated 2026-02-22 — 93 documents_
+_Auto-generated 2026-02-22 — 112 documents_
 
 ## Contents
 
@@ -161,15 +161,34 @@ _External sources indexed for AI discovery -- not stored locally._
 | [MITRE D3FEND](https://d3fend.mitre.org/) | MITRE | framework | mitre,d3fend,defense,countermeasures,detection |
 | [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) | NIST | framework | nist,csf,framework,risk,governance |
 | [NIST OSCAL (Open Security Controls Assessment Language)](https://github.com/usnistgov/OSCAL) | NIST | framework | oscal,nist,automation,controls,compliance,json |
+| [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) | Open Policy Agent / CNCF | framework | opa,rego,policy-as-code,authorization,compliance,kubernetes,admission |
 | [CISA Cybersecurity Advisories (Live Feed)](https://www.cisa.gov/news-events/cybersecurity-advisories) | CISA | government | cisa,advisory,ics,malware,vulnerability,joint-advisory |
 | [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | CISA | government | cisa,kev,cve,vulnerability,exploited,patch |
 | [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) | NIST | government | nist,nvd,cve,cvss,vulnerability,database |
 | [ENISA Threat Landscape Report (Annual)](https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape) | ENISA | research | enisa,europe,threat-landscape,annual,ransomware,supply-chain |
+| [Wiz Security Research](https://github.com/wiz-sec) | Wiz | research | wiz,cloud,cve,research,kubernetes,aws,azure,gcp,container |
 | [WEF Global Cybersecurity Outlook (Annual)](https://www.weforum.org/topics/cybersecurity/) | World Economic Forum | research | wef,cyber-resilience,risk,executive,annual |
+| [SPDX SBOM Specification](https://github.com/spdx/spdx-spec) | Linux Foundation / SPDX | standard | sbom,spdx,supply-chain,license,software-composition,iso |
+| [NIST macOS Security Compliance Project](https://github.com/usnistgov/macos_security) | NIST | standard | nist,macos,baseline,800-53,cis,cmmc,compliance,hardening |
+| [NIST OSCAL Content Library (800-53 Controls in JSON/YAML)](https://github.com/usnistgov/oscal-content) | NIST | standard | oscal,nist,800-53,controls,json,yaml,machine-readable |
 | [NIST SP 800-53 Rev 5 (Security and Privacy Controls)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) | NIST | standard | nist,sp800-53,controls,rmf,federal,fisma |
 | [NIST Special Publications 800 Series](https://csrc.nist.gov/publications/sp800) | NIST | standard | nist,sp800,standard,controls,incident-response,cryptography |
+| [CycloneDX SBOM Specification](https://github.com/CycloneDX/specification) | OWASP / CycloneDX | standard | sbom,cyclonedx,supply-chain,owasp,bom,vulnerability,vex |
+| [AWS Security Automation Samples](https://github.com/aws-samples) | Amazon Web Services | tool-template | aws,cloud,security,automation,lambda,config,reference-implementation |
+| [AWS Security Services Best Practices](https://github.com/aws-samples/aws-security-services-best-practices) | Amazon Web Services | tool-template | aws,cloud,security,best-practices,config,guardduty,securityhub |
+| [Checkov -- IaC Security and Compliance Scanner](https://github.com/bridgecrewio/checkov) | Bridgecrew / Prisma Cloud | tool-template | checkov,iac,terraform,cloudformation,kubernetes,cis,nist,soc2 |
+| [CIS-CAT Centralized Compliance Reporting](https://github.com/CISecurity/CIS-CAT-Centralized-Reporting) | Center for Internet Security | tool-template | cis,benchmark,compliance,reporting,dashboard |
+| [CIS-CAT Pro Assessor v4](https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4) | Center for Internet Security | tool-template | cis,benchmark,assessment,compliance,hardening,scanner |
+| [Cloud Custodian -- Multi-Cloud Governance as Code](https://github.com/cloud-custodian/cloud-custodian) | Cloud Custodian / CNCF | tool-template | cloud-custodian,aws,azure,gcp,governance,compliance,policy-as-code |
+| [Cloudflare Documentation (Markdown)](https://github.com/cloudflare/cloudflare-docs) | Cloudflare | tool-template | cloudflare,docs,waf,zero-trust,workers,access,configuration |
+| [Cloudflare Terraform Provider](https://github.com/cloudflare/terraform-provider-cloudflare) | Cloudflare | tool-template | cloudflare,terraform,iac,infrastructure-as-code,waf,dns,security |
+| [CrowdStrike GitHub Organization](https://github.com/CrowdStrike) | CrowdStrike | tool-template | crowdstrike,falcon,api,threat-intel,edr,integration,sdk |
 | [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) | MITRE | tool-template | mitre,car,analytics,detection,splunk,sigma |
+| [Azure Policy Definitions (JSON)](https://github.com/Azure/azure-policy) | Microsoft | tool-template | azure,microsoft,cloud,policy-as-code,compliance,json,governance |
+| [Microsoft Security Code Samples](https://github.com/microsoft/security-code-samples) | Microsoft | tool-template | microsoft,security,automation,code-samples,defender,sentinel |
+| [NIST OSCAL CLI Tool](https://github.com/usnistgov/oscal-cli) | NIST | tool-template | oscal,nist,cli,validation,conversion,compliance-automation |
 | [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
+| [pyTenable -- Tenable Python SDK](https://github.com/tenable/pyTenable) | Tenable | tool-template | tenable,vulnerability,api,sdk,python,scan,automation |
 
 ---
 
@@ -184,15 +203,34 @@ _External sources indexed for AI discovery -- not stored locally._
 | [MITRE D3FEND](https://d3fend.mitre.org/) | MITRE | framework | mitre,d3fend,defense,countermeasures,detection |
 | [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) | NIST | framework | nist,csf,framework,risk,governance |
 | [NIST OSCAL (Open Security Controls Assessment Language)](https://github.com/usnistgov/OSCAL) | NIST | framework | oscal,nist,automation,controls,compliance,json |
+| [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) | Open Policy Agent / CNCF | framework | opa,rego,policy-as-code,authorization,compliance,kubernetes,admission |
 | [CISA Cybersecurity Advisories (Live Feed)](https://www.cisa.gov/news-events/cybersecurity-advisories) | CISA | government | cisa,advisory,ics,malware,vulnerability,joint-advisory |
 | [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | CISA | government | cisa,kev,cve,vulnerability,exploited,patch |
 | [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) | NIST | government | nist,nvd,cve,cvss,vulnerability,database |
 | [ENISA Threat Landscape Report (Annual)](https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape) | ENISA | research | enisa,europe,threat-landscape,annual,ransomware,supply-chain |
+| [Wiz Security Research](https://github.com/wiz-sec) | Wiz | research | wiz,cloud,cve,research,kubernetes,aws,azure,gcp,container |
 | [WEF Global Cybersecurity Outlook (Annual)](https://www.weforum.org/topics/cybersecurity/) | World Economic Forum | research | wef,cyber-resilience,risk,executive,annual |
+| [SPDX SBOM Specification](https://github.com/spdx/spdx-spec) | Linux Foundation / SPDX | standard | sbom,spdx,supply-chain,license,software-composition,iso |
+| [NIST macOS Security Compliance Project](https://github.com/usnistgov/macos_security) | NIST | standard | nist,macos,baseline,800-53,cis,cmmc,compliance,hardening |
+| [NIST OSCAL Content Library (800-53 Controls in JSON/YAML)](https://github.com/usnistgov/oscal-content) | NIST | standard | oscal,nist,800-53,controls,json,yaml,machine-readable |
 | [NIST SP 800-53 Rev 5 (Security and Privacy Controls)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) | NIST | standard | nist,sp800-53,controls,rmf,federal,fisma |
 | [NIST Special Publications 800 Series](https://csrc.nist.gov/publications/sp800) | NIST | standard | nist,sp800,standard,controls,incident-response,cryptography |
+| [CycloneDX SBOM Specification](https://github.com/CycloneDX/specification) | OWASP / CycloneDX | standard | sbom,cyclonedx,supply-chain,owasp,bom,vulnerability,vex |
+| [AWS Security Automation Samples](https://github.com/aws-samples) | Amazon Web Services | tool-template | aws,cloud,security,automation,lambda,config,reference-implementation |
+| [AWS Security Services Best Practices](https://github.com/aws-samples/aws-security-services-best-practices) | Amazon Web Services | tool-template | aws,cloud,security,best-practices,config,guardduty,securityhub |
+| [Checkov -- IaC Security and Compliance Scanner](https://github.com/bridgecrewio/checkov) | Bridgecrew / Prisma Cloud | tool-template | checkov,iac,terraform,cloudformation,kubernetes,cis,nist,soc2 |
+| [CIS-CAT Centralized Compliance Reporting](https://github.com/CISecurity/CIS-CAT-Centralized-Reporting) | Center for Internet Security | tool-template | cis,benchmark,compliance,reporting,dashboard |
+| [CIS-CAT Pro Assessor v4](https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4) | Center for Internet Security | tool-template | cis,benchmark,assessment,compliance,hardening,scanner |
+| [Cloud Custodian -- Multi-Cloud Governance as Code](https://github.com/cloud-custodian/cloud-custodian) | Cloud Custodian / CNCF | tool-template | cloud-custodian,aws,azure,gcp,governance,compliance,policy-as-code |
+| [Cloudflare Documentation (Markdown)](https://github.com/cloudflare/cloudflare-docs) | Cloudflare | tool-template | cloudflare,docs,waf,zero-trust,workers,access,configuration |
+| [Cloudflare Terraform Provider](https://github.com/cloudflare/terraform-provider-cloudflare) | Cloudflare | tool-template | cloudflare,terraform,iac,infrastructure-as-code,waf,dns,security |
+| [CrowdStrike GitHub Organization](https://github.com/CrowdStrike) | CrowdStrike | tool-template | crowdstrike,falcon,api,threat-intel,edr,integration,sdk |
 | [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) | MITRE | tool-template | mitre,car,analytics,detection,splunk,sigma |
+| [Azure Policy Definitions (JSON)](https://github.com/Azure/azure-policy) | Microsoft | tool-template | azure,microsoft,cloud,policy-as-code,compliance,json,governance |
+| [Microsoft Security Code Samples](https://github.com/microsoft/security-code-samples) | Microsoft | tool-template | microsoft,security,automation,code-samples,defender,sentinel |
+| [NIST OSCAL CLI Tool](https://github.com/usnistgov/oscal-cli) | NIST | tool-template | oscal,nist,cli,validation,conversion,compliance-automation |
 | [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
+| [pyTenable -- Tenable Python SDK](https://github.com/tenable/pyTenable) | Tenable | tool-template | tenable,vulnerability,api,sdk,python,scan,automation |
 
 ---
 
@@ -206,9 +244,18 @@ _External sources indexed for AI discovery -- not stored locally._
 - Accenture CyberThreatscape ExecSummary 2017 (2017) — `threat-intel/Accenture_CyberThreatscape_ExecSummary_2017.pdf`
 - Accenture CyberThreatscape 2018 (2018) — `threat-intel/Accenture_CyberThreatscape_2018.pdf`
 
+### Amazon Web Services
+
+- [LINK] AWS Security Automation Samples -- https://github.com/aws-samples
+- [LINK] AWS Security Services Best Practices -- https://github.com/aws-samples/aws-security-services-best-practices
+
 ### Anthem
 
 - Anthem 20161201 (unknown) — `breach-reports/Anthem_20161201.pdf`
+
+### Bridgecrew / Prisma Cloud
+
+- [LINK] Checkov -- IaC Security and Compliance Scanner -- https://github.com/bridgecrewio/checkov
 
 ### CISA
 
@@ -219,17 +266,32 @@ _External sources indexed for AI discovery -- not stored locally._
 ### Center for Internet Security
 
 - [LINK] CIS Controls v8 -- https://www.cisecurity.org/controls
+- [LINK] CIS-CAT Centralized Compliance Reporting -- https://github.com/CISecurity/CIS-CAT-Centralized-Reporting
+- [LINK] CIS-CAT Pro Assessor v4 -- https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4
 
 ### Cisco
 
 - Cisco AnnualCyberSecurityReport 201802 (unknown) — `threat-intel/Cisco_AnnualCyberSecurityReport_201802.pdf`
 - Cisco SpecialReport SMB Cybersecurity 201807 (unknown) — `threat-intel/Cisco_SpecialReport_SMB_Cybersecurity_201807.pdf`
 
+### Cloud Custodian / CNCF
+
+- [LINK] Cloud Custodian -- Multi-Cloud Governance as Code -- https://github.com/cloud-custodian/cloud-custodian
+
+### Cloudflare
+
+- [LINK] Cloudflare Documentation (Markdown) -- https://github.com/cloudflare/cloudflare-docs
+- [LINK] Cloudflare Terraform Provider -- https://github.com/cloudflare/terraform-provider-cloudflare
+
 ### Coveware
 
 - Coveware RansomwareReport 2020Q3 (2020) — `threat-intel/Coveware_RansomwareReport_2020Q3.pdf`
 - Coveware RansomwareReport 2020Q4 (2020) — `threat-intel/Coveware_RansomwareReport_2020Q4.pdf`
 - Coveware RansomewareReport 2022Q2 (2022) — `threat-intel/Coveware_RansomewareReport_2022Q2.pdf`
+
+### CrowdStrike
+
+- [LINK] CrowdStrike GitHub Organization -- https://github.com/CrowdStrike
 
 ### ENISA
 
@@ -255,19 +317,39 @@ _External sources indexed for AI discovery -- not stored locally._
 - Cost of Data Breach Report 2023 (2023) — `breach-reports/Cost-of-Data-Breach-Report-2023.pdf`
 - IBM Cost of a Data Breach Report 2023 (2023) — `breach-reports/IBM_Cost-of-a-Data-Breach-Report-2023.pdf`
 
+### Linux Foundation / SPDX
+
+- [LINK] SPDX SBOM Specification -- https://github.com/spdx/spdx-spec
+
 ### MITRE
 
-- [LINK] MITRE Cyber Analytics Repository (CAR) -- https://car.mitre.org/
 - [LINK] MITRE ATT&CK Framework -- https://attack.mitre.org/
 - [LINK] MITRE D3FEND -- https://d3fend.mitre.org/
+- [LINK] MITRE Cyber Analytics Repository (CAR) -- https://car.mitre.org/
+
+### Microsoft
+
+- [LINK] Azure Policy Definitions (JSON) -- https://github.com/Azure/azure-policy
+- [LINK] Microsoft Security Code Samples -- https://github.com/microsoft/security-code-samples
 
 ### NIST
 
 - [LINK] NIST SP 800-53 Rev 5 (Security and Privacy Controls) -- https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
 - [LINK] NIST Cybersecurity Framework 2.0 -- https://www.nist.gov/cyberframework
 - [LINK] NIST National Vulnerability Database (NVD) -- https://nvd.nist.gov/
-- [LINK] NIST Special Publications 800 Series -- https://csrc.nist.gov/publications/sp800
 - [LINK] NIST OSCAL (Open Security Controls Assessment Language) -- https://github.com/usnistgov/OSCAL
+- [LINK] NIST macOS Security Compliance Project -- https://github.com/usnistgov/macos_security
+- [LINK] NIST OSCAL Content Library (800-53 Controls in JSON/YAML) -- https://github.com/usnistgov/oscal-content
+- [LINK] NIST Special Publications 800 Series -- https://csrc.nist.gov/publications/sp800
+- [LINK] NIST OSCAL CLI Tool -- https://github.com/usnistgov/oscal-cli
+
+### OWASP / CycloneDX
+
+- [LINK] CycloneDX SBOM Specification -- https://github.com/CycloneDX/specification
+
+### Open Policy Agent / CNCF
+
+- [LINK] Open Policy Agent (OPA) -- https://github.com/open-policy-agent/opa
 
 ### Proofpoint
 
@@ -295,6 +377,10 @@ _External sources indexed for AI discovery -- not stored locally._
 - Symantec ISTR23 2018 (2018) — `threat-intel/Symantec_ISTR23_2018.pdf`
 - Symantec ISTR24 2019 (2019) — `threat-intel/Symantec_ISTR24_2019.pdf`
 
+### Tenable
+
+- [LINK] pyTenable -- Tenable Python SDK -- https://github.com/tenable/pyTenable
+
 ### US Intelligence Community
 
 - ATA 2018 Unclassified Report (2018) — `government/ATA-2018-Unclassified-Report.pdf`
@@ -312,9 +398,6 @@ _External sources indexed for AI discovery -- not stored locally._
 - 191028 MWB CTNT 2019 Healthcare FINAL (2019) — `z_misc/191028-MWB-CTNT_2019_Healthcare_FINAL.pdf`
 - Checkpoint cyber security report 2020 (2020) — `z_misc/Checkpoint_cyber-security-report-2020.pdf`
 - Gone Phishing Tournament Global Benchmark Report 2020 (2020) — `z_misc/Gone_Phishing_Tournament_Global_Benchmark_Report_2020.pdf`
-- GPG CLI Cheatsheet (unknown) — `tools-templates/GPG_CLI_Cheatsheet.md` [MD]
-- Microsoft PasswordGuidance (unknown) — `tools-templates/Microsoft_PasswordGuidance.pdf`
-- STUDY UsabilityofPassphrases 20120711 (unknown) — `tools-templates/STUDY_UsabilityofPassphrases_20120711.pdf`
 - CSIS SignificantCyberEventsList 201812 (unknown) — `z_misc/CSIS_SignificantCyberEventsList_201812.pdf`
 - DamageControl CybeInsuranceebook (unknown) — `z_misc/DamageControl_CybeInsuranceebook.pdf`
 - FBI Flash ChinaAPT10 20190102 TLPWHITE (unknown) — `z_misc/FBI_Flash_ChinaAPT10_20190102_TLPWHITE.pdf`
@@ -322,6 +405,9 @@ _External sources indexed for AI discovery -- not stored locally._
 - PedagogicCyberSecurityFramework 201810 (unknown) — `z_misc/PedagogicCyberSecurityFramework_201810.pdf`
 - Switchfast SMBCybersecurityReport 20180827 (unknown) — `z_misc/Switchfast_SMBCybersecurityReport_20180827.pdf`
 - USFED WorldwideThreatAssessment 20170511 (unknown) — `z_misc/USFED_WorldwideThreatAssessment_20170511.pdf`
+- GPG CLI Cheatsheet (unknown) — `tools-templates/GPG_CLI_Cheatsheet.md` [MD]
+- Microsoft PasswordGuidance (unknown) — `tools-templates/Microsoft_PasswordGuidance.pdf`
+- STUDY UsabilityofPassphrases 20120711 (unknown) — `tools-templates/STUDY_UsabilityofPassphrases_20120711.pdf`
 
 ### Verizon
 
@@ -343,6 +429,10 @@ _External sources indexed for AI discovery -- not stored locally._
 ### Webroot
 
 - 2019 Webroot Threat Report US Online (2019) — `threat-intel/2019_Webroot_Threat_Report_US_Online.pdf`
+
+### Wiz
+
+- [LINK] Wiz Security Research -- https://github.com/wiz-sec
 
 ### World Economic Forum
 
