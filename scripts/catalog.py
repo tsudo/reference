@@ -231,8 +231,10 @@ def build_catalog(repo_root: Path) -> list[dict]:
                 "year": str(meta.get("year", "unknown")),
                 "tags": tags_str,
                 "source_url": meta.get("source_url", ""),
-                "format": item.suffix.lstrip(".").upper(),
-                "md_available": "yes" if md_available else "no",
+                "format": str(meta.get("format", item.suffix.lstrip(".").upper())).upper(),
+                "md_available": "yes" if md_available else (
+                    "link" if str(meta.get("format", "")).lower() == "link" else "no"
+                ),
                 "date_ingested": str(meta.get("date_ingested", "")),
             }
             records.append(record)
@@ -289,7 +291,9 @@ def write_index(records: list[dict], output: Path):
         lines.append("| Title | Organization | Year | Format | MD |")
         lines.append("|-------|-------------|------|--------|----|")
         for r in sorted(items, key=lambda x: (x["organization"], x["year"])):
-            md_flag = "✓" if r["md_available"] == "yes" else ""
+            if r["format"] == "LINK":
+                continue
+            md_flag = "yes" if r["md_available"] == "yes" else ""
             title = r["title"]
             if r["source_url"]:
                 title = f"[{title}]({r['source_url']})"
@@ -305,6 +309,42 @@ def write_index(records: list[dict], output: Path):
         lines.append("|-------|------|--------|")
         for r in sorted(misc_items, key=lambda x: x["year"]):
             lines.append(f"| {r['title']} | {r['year']} | {r['format']} |")
+        lines.append("")
+
+    # External Resources section
+    link_records = [r for r in records if r["format"] == "LINK"]
+    if link_records:
+        lines += [
+            "---",
+            "",
+            "## External Resources",
+            "",
+            "_External sources indexed for AI discovery -- not stored locally._",
+            "",
+            "| Resource | Organization | Type | Tags |",
+            "|----------|-------------|------|------|",
+        ]
+        for r in sorted(link_records, key=lambda x: (x["content_type"], x["organization"])):
+            title = f"[{r['title']}]({r['source_url']})" if r["source_url"] else r["title"]
+            lines.append(f"| {title} | {r['organization']} | {r['content_type']} | {r['tags']} |")
+        lines.append("")
+
+    # External Resources section
+    link_records = [r for r in records if r["format"] == "LINK"]
+    if link_records:
+        lines += [
+            "---",
+            "",
+            "## External Resources",
+            "",
+            "_External sources indexed for AI discovery -- not stored locally._",
+            "",
+            "| Resource | Organization | Type | Tags |",
+            "|----------|-------------|------|------|",
+        ]
+        for r in sorted(link_records, key=lambda x: (x["content_type"], x["organization"])):
+            title = "[" + r["title"] + "](" + r["source_url"] + ")" if r["source_url"] else r["title"]
+            lines.append("| " + title + " | " + r["organization"] + " | " + r["content_type"] + " | " + r["tags"] + " |")
         lines.append("")
 
     lines += [
@@ -323,8 +363,12 @@ def write_index(records: list[dict], output: Path):
         lines.append(f"### {org}")
         lines.append("")
         for r in sorted(items, key=lambda x: x["year"]):
-            md_flag = " [MD]" if r["md_available"] == "yes" else ""
-            lines.append(f"- {r['title']} ({r['year']}) — `{r['folder']}/{r['filename']}`{md_flag}")
+            if r["format"] == "LINK":
+                url_part = " -- " + r["source_url"] if r["source_url"] else ""
+                lines.append("- [LINK] " + r["title"] + url_part)
+            else:
+                md_flag = " [MD]" if r["md_available"] == "yes" else ""
+                lines.append(f"- {r['title']} ({r['year']}) — `{r['folder']}/{r['filename']}`{md_flag}")
         lines.append("")
 
     output.write_text("\n".join(lines) + "\n", encoding="utf-8")

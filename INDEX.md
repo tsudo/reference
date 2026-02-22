@@ -1,6 +1,6 @@
 # Reference Library Index
 
-_Auto-generated 2026-02-21 — 79 documents_
+_Auto-generated 2026-02-22 — 93 documents_
 
 ## Contents
 
@@ -94,11 +94,21 @@ _Auto-generated 2026-02-21 — 79 documents_
 | WEF The Global Risks Report 2021 | World Economic Forum | 2021 | PDF |  |
 | WEF The Global Risks Report 2024 | World Economic Forum | 2024 | PDF |  |
 
+### Frameworks
+
+| Title | Organization | Year | Format | MD |
+|-------|-------------|------|--------|----|
+
+### Standards
+
+| Title | Organization | Year | Format | MD |
+|-------|-------------|------|--------|----|
+
 ### Tools & Templates
 
 | Title | Organization | Year | Format | MD |
 |-------|-------------|------|--------|----|
-| GPG CLI Cheatsheet | Various | unknown | MD | ✓ |
+| GPG CLI Cheatsheet | Various | unknown | MD | yes |
 | Microsoft PasswordGuidance | Various | unknown | PDF |  |
 | STUDY UsabilityofPassphrases 20120711 | Various | unknown | PDF |  |
 
@@ -140,6 +150,52 @@ _Auto-generated 2026-02-21 — 79 documents_
 
 ---
 
+## External Resources
+
+_External sources indexed for AI discovery -- not stored locally._
+
+| Resource | Organization | Type | Tags |
+|----------|-------------|------|------|
+| [CIS Controls v8](https://www.cisecurity.org/controls) | Center for Internet Security | framework | cis,controls,hardening,safeguards,benchmark |
+| [MITRE ATT&CK Framework](https://attack.mitre.org/) | MITRE | framework | mitre,attck,ttp,threat,tactics,techniques,procedures |
+| [MITRE D3FEND](https://d3fend.mitre.org/) | MITRE | framework | mitre,d3fend,defense,countermeasures,detection |
+| [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) | NIST | framework | nist,csf,framework,risk,governance |
+| [NIST OSCAL (Open Security Controls Assessment Language)](https://github.com/usnistgov/OSCAL) | NIST | framework | oscal,nist,automation,controls,compliance,json |
+| [CISA Cybersecurity Advisories (Live Feed)](https://www.cisa.gov/news-events/cybersecurity-advisories) | CISA | government | cisa,advisory,ics,malware,vulnerability,joint-advisory |
+| [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | CISA | government | cisa,kev,cve,vulnerability,exploited,patch |
+| [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) | NIST | government | nist,nvd,cve,cvss,vulnerability,database |
+| [ENISA Threat Landscape Report (Annual)](https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape) | ENISA | research | enisa,europe,threat-landscape,annual,ransomware,supply-chain |
+| [WEF Global Cybersecurity Outlook (Annual)](https://www.weforum.org/topics/cybersecurity/) | World Economic Forum | research | wef,cyber-resilience,risk,executive,annual |
+| [NIST SP 800-53 Rev 5 (Security and Privacy Controls)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) | NIST | standard | nist,sp800-53,controls,rmf,federal,fisma |
+| [NIST Special Publications 800 Series](https://csrc.nist.gov/publications/sp800) | NIST | standard | nist,sp800,standard,controls,incident-response,cryptography |
+| [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) | MITRE | tool-template | mitre,car,analytics,detection,splunk,sigma |
+| [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
+
+---
+
+## External Resources
+
+_External sources indexed for AI discovery -- not stored locally._
+
+| Resource | Organization | Type | Tags |
+|----------|-------------|------|------|
+| [CIS Controls v8](https://www.cisecurity.org/controls) | Center for Internet Security | framework | cis,controls,hardening,safeguards,benchmark |
+| [MITRE ATT&CK Framework](https://attack.mitre.org/) | MITRE | framework | mitre,attck,ttp,threat,tactics,techniques,procedures |
+| [MITRE D3FEND](https://d3fend.mitre.org/) | MITRE | framework | mitre,d3fend,defense,countermeasures,detection |
+| [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) | NIST | framework | nist,csf,framework,risk,governance |
+| [NIST OSCAL (Open Security Controls Assessment Language)](https://github.com/usnistgov/OSCAL) | NIST | framework | oscal,nist,automation,controls,compliance,json |
+| [CISA Cybersecurity Advisories (Live Feed)](https://www.cisa.gov/news-events/cybersecurity-advisories) | CISA | government | cisa,advisory,ics,malware,vulnerability,joint-advisory |
+| [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) | CISA | government | cisa,kev,cve,vulnerability,exploited,patch |
+| [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) | NIST | government | nist,nvd,cve,cvss,vulnerability,database |
+| [ENISA Threat Landscape Report (Annual)](https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape) | ENISA | research | enisa,europe,threat-landscape,annual,ransomware,supply-chain |
+| [WEF Global Cybersecurity Outlook (Annual)](https://www.weforum.org/topics/cybersecurity/) | World Economic Forum | research | wef,cyber-resilience,risk,executive,annual |
+| [NIST SP 800-53 Rev 5 (Security and Privacy Controls)](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) | NIST | standard | nist,sp800-53,controls,rmf,federal,fisma |
+| [NIST Special Publications 800 Series](https://csrc.nist.gov/publications/sp800) | NIST | standard | nist,sp800,standard,controls,incident-response,cryptography |
+| [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org/) | MITRE | tool-template | mitre,car,analytics,detection,splunk,sigma |
+| [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
+
+---
+
 ## By Organization
 
 ### Accenture
@@ -156,7 +212,13 @@ _Auto-generated 2026-02-21 — 79 documents_
 
 ### CISA
 
+- [LINK] CISA Cybersecurity Advisories (Live Feed) -- https://www.cisa.gov/news-events/cybersecurity-advisories
+- [LINK] CISA Known Exploited Vulnerabilities Catalog -- https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 - Chinese Cyber Activity Targeting Managed Service Providers (unknown) — `government/Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf`
+
+### Center for Internet Security
+
+- [LINK] CIS Controls v8 -- https://www.cisecurity.org/controls
 
 ### Cisco
 
@@ -168,6 +230,10 @@ _Auto-generated 2026-02-21 — 79 documents_
 - Coveware RansomwareReport 2020Q3 (2020) — `threat-intel/Coveware_RansomwareReport_2020Q3.pdf`
 - Coveware RansomwareReport 2020Q4 (2020) — `threat-intel/Coveware_RansomwareReport_2020Q4.pdf`
 - Coveware RansomewareReport 2022Q2 (2022) — `threat-intel/Coveware_RansomewareReport_2022Q2.pdf`
+
+### ENISA
+
+- [LINK] ENISA Threat Landscape Report (Annual) -- https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape
 
 ### Equifax
 
@@ -189,6 +255,20 @@ _Auto-generated 2026-02-21 — 79 documents_
 - Cost of Data Breach Report 2023 (2023) — `breach-reports/Cost-of-Data-Breach-Report-2023.pdf`
 - IBM Cost of a Data Breach Report 2023 (2023) — `breach-reports/IBM_Cost-of-a-Data-Breach-Report-2023.pdf`
 
+### MITRE
+
+- [LINK] MITRE Cyber Analytics Repository (CAR) -- https://car.mitre.org/
+- [LINK] MITRE ATT&CK Framework -- https://attack.mitre.org/
+- [LINK] MITRE D3FEND -- https://d3fend.mitre.org/
+
+### NIST
+
+- [LINK] NIST SP 800-53 Rev 5 (Security and Privacy Controls) -- https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
+- [LINK] NIST Cybersecurity Framework 2.0 -- https://www.nist.gov/cyberframework
+- [LINK] NIST National Vulnerability Database (NVD) -- https://nvd.nist.gov/
+- [LINK] NIST Special Publications 800 Series -- https://csrc.nist.gov/publications/sp800
+- [LINK] NIST OSCAL (Open Security Controls Assessment Language) -- https://github.com/usnistgov/OSCAL
+
 ### Proofpoint
 
 - Proofpoint HumanFactor 2018 (2018) — `threat-intel/Proofpoint_HumanFactor_2018.pdf`
@@ -197,6 +277,10 @@ _Auto-generated 2026-02-21 — 79 documents_
 - Proofpoint QuarterlyThreatReport Q3 2018 (2018) — `threat-intel/Proofpoint_QuarterlyThreatReport_Q3_2018.pdf`
 - pfpt us tr data loss landscape report 2024 (2024) — `threat-intel/pfpt-us-tr-data-loss-landscape-report-2024.pdf`
 - pfpt us tr state of the phish 2024 (2024) — `threat-intel/pfpt-us-tr-state-of-the-phish-2024.pdf`
+
+### SANS
+
+- [LINK] SANS Internet Storm Center -- https://isc.sans.edu/
 
 ### SecurityScorecard
 
@@ -265,4 +349,5 @@ _Auto-generated 2026-02-21 — 79 documents_
 - WEF Global Risks Report 2019 (2019) — `research/WEF_Global_Risks_Report_2019.pdf`
 - WEF The Global Risks Report 2021 (2021) — `research/WEF_The_Global_Risks_Report_2021.pdf`
 - WEF The Global Risks Report 2024 (2024) — `research/WEF_The_Global_Risks_Report_2024.pdf`
+- [LINK] WEF Global Cybersecurity Outlook (Annual) -- https://www.weforum.org/topics/cybersecurity/
 

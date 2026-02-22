@@ -1,4 +1,39 @@
 filename,folder,organization,content_type,title,year,tags,source_url,format,md_available,date_ingested
+GPG_CLI_Cheatsheet.md,tools-templates,Various,tool-template,GPG CLI Cheatsheet,unknown,,,MD,yes,
+Microsoft_PasswordGuidance.pdf,tools-templates,Various,tool-template,Microsoft PasswordGuidance,unknown,,,PDF,no,
+MITRE_CAR.md,tools-templates,MITRE,tool-template,MITRE Cyber Analytics Repository (CAR),ongoing,"mitre,car,analytics,detection,splunk,sigma",https://car.mitre.org/,LINK,yes,2026-02-22
+SANS_ISC.md,tools-templates,SANS,tool-template,SANS Internet Storm Center,ongoing,"sans,isc,threat-intel,daily-brief,honeypot",https://isc.sans.edu/,LINK,yes,2026-02-22
+STUDY_UsabilityofPassphrases_20120711.pdf,tools-templates,Various,tool-template,STUDY UsabilityofPassphrases 20120711,unknown,,,PDF,no,
+ATA-2018-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2018 Unclassified Report,2018,,,PDF,no,
+ATA-2019-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2019 Unclassified Report,2019,,,PDF,no,
+ATA-2021-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2021 Unclassified Report,2021,,,PDF,no,
+ATA-2022-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2022 Unclassified Report,2022,,,PDF,no,
+ATA-2023-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2023 Unclassified Report,2023,,,PDF,no,
+Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf,government,CISA,government,Chinese Cyber Activity Targeting Managed Service Providers,unknown,,,PDF,no,
+CISA_Advisories_Feed.md,government,CISA,government,CISA Cybersecurity Advisories (Live Feed),ongoing,"cisa,advisory,ics,malware,vulnerability,joint-advisory",https://www.cisa.gov/news-events/cybersecurity-advisories,LINK,yes,2026-02-22
+CISA_KEV.md,government,CISA,government,CISA Known Exploited Vulnerabilities Catalog,ongoing,"cisa,kev,cve,vulnerability,exploited,patch",https://www.cisa.gov/known-exploited-vulnerabilities-catalog,LINK,yes,2026-02-22
+NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"nist,nvd,cve,cvss,vulnerability,database",https://nvd.nist.gov/,LINK,yes,2026-02-22
+USNI_WWTA_2019.pdf,government,US Intelligence Community,government,USNI WWTA 2019,2019,,,PDF,no,
+NIST_SP800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 (Security and Privacy Controls),2020,"nist,sp800-53,controls,rmf,federal,fisma",https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final,LINK,yes,2026-02-22
+NIST_SP800_Series.md,standards,NIST,standard,NIST Special Publications 800 Series,ongoing,"nist,sp800,standard,controls,incident-response,cryptography",https://csrc.nist.gov/publications/sp800,LINK,yes,2026-02-22
+191028-MWB-CTNT_2019_Healthcare_FINAL.pdf,z_misc,Various,misc,191028 MWB CTNT 2019 Healthcare FINAL,2019,,,PDF,no,
+BBB_StateofCyberSecuritySMB_2017.pdf,z_misc,Various,misc,BBB StateofCyberSecuritySMB 2017,2017,,,PDF,no,
+Checkpoint_cyber-security-report-2020.pdf,z_misc,Various,misc,Checkpoint cyber security report 2020,2020,,,PDF,no,
+CSIS_SignificantCyberEventsList_201812.pdf,z_misc,Various,misc,CSIS SignificantCyberEventsList 201812,unknown,,,PDF,no,
+DamageControl_CybeInsuranceebook.pdf,z_misc,Various,misc,DamageControl CybeInsuranceebook,unknown,,,PDF,no,
+FBI_Flash_ChinaAPT10_20190102_TLPWHITE.pdf,z_misc,Various,misc,FBI Flash ChinaAPT10 20190102 TLPWHITE,unknown,,,PDF,no,
+Gone_Phishing_Tournament_Global_Benchmark_Report_2020.pdf,z_misc,Various,misc,Gone Phishing Tournament Global Benchmark Report 2020,2020,,,PDF,no,
+NCSA_SMBCyberSecurityAwarenessToolkit_20180824.pdf,z_misc,Various,misc,NCSA SMBCyberSecurityAwarenessToolkit 20180824,unknown,,,PDF,no,
+NTTSecurity_GTIR_KeyFindings_2017.pdf,z_misc,Various,misc,NTTSecurity GTIR KeyFindings 2017,2017,,,PDF,no,
+PedagogicCyberSecurityFramework_201810.pdf,z_misc,Various,misc,PedagogicCyberSecurityFramework 201810,unknown,,,PDF,no,
+Switchfast_SMBCybersecurityReport_20180827.pdf,z_misc,Various,misc,Switchfast SMBCybersecurityReport 20180827,unknown,,,PDF,no,
+UK_DCMS_CyberSecurityBreachesSurvey_2017.pdf,z_misc,Various,misc,UK DCMS CyberSecurityBreachesSurvey 2017,2017,,,PDF,no,
+USFED_WorldwideThreatAssessment_20170511.pdf,z_misc,Various,misc,USFED WorldwideThreatAssessment 20170511,unknown,,,PDF,no,
+ENISA_Threat_Landscape.md,research,ENISA,research,ENISA Threat Landscape Report (Annual),ongoing,"enisa,europe,threat-landscape,annual,ransomware,supply-chain",https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape,LINK,yes,2026-02-22
+WEF_Cybersecurity_Outlook.md,research,World Economic Forum,research,WEF Global Cybersecurity Outlook (Annual),ongoing,"wef,cyber-resilience,risk,executive,annual",https://www.weforum.org/topics/cybersecurity/,LINK,yes,2026-02-22
+WEF_Global_Risks_Report_2019.pdf,research,World Economic Forum,research,WEF Global Risks Report 2019,2019,,,PDF,no,
+WEF_The_Global_Risks_Report_2021.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2021,2021,,,PDF,no,
+WEF_The_Global_Risks_Report_2024.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2024,2024,,,PDF,no,
 Anthem_20161201.pdf,breach-reports,Anthem,breach-report,Anthem 20161201,unknown,,,PDF,no,
 Cost-of-Data-Breach-Report-2023.pdf,breach-reports,IBM/Ponemon,breach-report,Cost of Data Breach Report 2023,2023,,,PDF,no,
 CostofDataBreach_2022.pdf,breach-reports,IBM/Ponemon,breach-report,CostofDataBreach 2022,2022,,,PDF,no,
@@ -28,32 +63,6 @@ Verizon_DBIR_2023.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2023,202
 Verizon_DBIR_2024_data-breach-investigations-report.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 data breach investigations report,2024,,,PDF,no,
 Verizon_DBIR_2024_executive-summary.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 executive summary,2024,,,PDF,no,
 Verizon_DBIR_2024_infographic.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 infographic,2024,,,PDF,no,
-ATA-2018-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2018 Unclassified Report,2018,,,PDF,no,
-ATA-2019-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2019 Unclassified Report,2019,,,PDF,no,
-ATA-2021-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2021 Unclassified Report,2021,,,PDF,no,
-ATA-2022-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2022 Unclassified Report,2022,,,PDF,no,
-ATA-2023-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2023 Unclassified Report,2023,,,PDF,no,
-Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf,government,CISA,government,Chinese Cyber Activity Targeting Managed Service Providers,unknown,,,PDF,no,
-USNI_WWTA_2019.pdf,government,US Intelligence Community,government,USNI WWTA 2019,2019,,,PDF,no,
-GPG_CLI_Cheatsheet.md,tools-templates,Various,tool-template,GPG CLI Cheatsheet,unknown,,,MD,yes,
-Microsoft_PasswordGuidance.pdf,tools-templates,Various,tool-template,Microsoft PasswordGuidance,unknown,,,PDF,no,
-STUDY_UsabilityofPassphrases_20120711.pdf,tools-templates,Various,tool-template,STUDY UsabilityofPassphrases 20120711,unknown,,,PDF,no,
-WEF_Global_Risks_Report_2019.pdf,research,World Economic Forum,research,WEF Global Risks Report 2019,2019,,,PDF,no,
-WEF_The_Global_Risks_Report_2021.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2021,2021,,,PDF,no,
-WEF_The_Global_Risks_Report_2024.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2024,2024,,,PDF,no,
-191028-MWB-CTNT_2019_Healthcare_FINAL.pdf,z_misc,Various,misc,191028 MWB CTNT 2019 Healthcare FINAL,2019,,,PDF,no,
-BBB_StateofCyberSecuritySMB_2017.pdf,z_misc,Various,misc,BBB StateofCyberSecuritySMB 2017,2017,,,PDF,no,
-Checkpoint_cyber-security-report-2020.pdf,z_misc,Various,misc,Checkpoint cyber security report 2020,2020,,,PDF,no,
-CSIS_SignificantCyberEventsList_201812.pdf,z_misc,Various,misc,CSIS SignificantCyberEventsList 201812,unknown,,,PDF,no,
-DamageControl_CybeInsuranceebook.pdf,z_misc,Various,misc,DamageControl CybeInsuranceebook,unknown,,,PDF,no,
-FBI_Flash_ChinaAPT10_20190102_TLPWHITE.pdf,z_misc,Various,misc,FBI Flash ChinaAPT10 20190102 TLPWHITE,unknown,,,PDF,no,
-Gone_Phishing_Tournament_Global_Benchmark_Report_2020.pdf,z_misc,Various,misc,Gone Phishing Tournament Global Benchmark Report 2020,2020,,,PDF,no,
-NCSA_SMBCyberSecurityAwarenessToolkit_20180824.pdf,z_misc,Various,misc,NCSA SMBCyberSecurityAwarenessToolkit 20180824,unknown,,,PDF,no,
-NTTSecurity_GTIR_KeyFindings_2017.pdf,z_misc,Various,misc,NTTSecurity GTIR KeyFindings 2017,2017,,,PDF,no,
-PedagogicCyberSecurityFramework_201810.pdf,z_misc,Various,misc,PedagogicCyberSecurityFramework 201810,unknown,,,PDF,no,
-Switchfast_SMBCybersecurityReport_20180827.pdf,z_misc,Various,misc,Switchfast SMBCybersecurityReport 20180827,unknown,,,PDF,no,
-UK_DCMS_CyberSecurityBreachesSurvey_2017.pdf,z_misc,Various,misc,UK DCMS CyberSecurityBreachesSurvey 2017,2017,,,PDF,no,
-USFED_WorldwideThreatAssessment_20170511.pdf,z_misc,Various,misc,USFED WorldwideThreatAssessment 20170511,unknown,,,PDF,no,
 2019_Webroot_Threat_Report_US_Online.pdf,threat-intel,Webroot,threat-intel,2019 Webroot Threat Report US Online,2019,,,PDF,no,
 Accenture_CyberSecurityConundrum_2016.pdf,threat-intel,Accenture,threat-intel,Accenture CyberSecurityConundrum 2016,2016,,,PDF,no,
 Accenture_CyberThreatscape_2017.pdf,threat-intel,Accenture,threat-intel,Accenture CyberThreatscape 2017,2017,,,PDF,no,
@@ -78,3 +87,8 @@ Symantec_ISTR22_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR22 2017
 Symantec_ISTR23_2018.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR23 2018,2018,,,PDF,no,
 Symantec_ISTR24_2019.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR24 2019,2019,,,PDF,no,
 Symantec_ISTR_SpecialReport_EmailThreats_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR SpecialReport EmailThreats 2017,2017,,,PDF,no,
+CIS_Controls.md,frameworks,Center for Internet Security,framework,CIS Controls v8,2021,"cis,controls,hardening,safeguards,benchmark",https://www.cisecurity.org/controls,LINK,yes,2026-02-22
+MITRE_ATTACK.md,frameworks,MITRE,framework,MITRE ATT&CK Framework,ongoing,"mitre,attck,ttp,threat,tactics,techniques,procedures",https://attack.mitre.org/,LINK,yes,2026-02-22
+MITRE_D3FEND.md,frameworks,MITRE,framework,MITRE D3FEND,ongoing,"mitre,d3fend,defense,countermeasures,detection",https://d3fend.mitre.org/,LINK,yes,2026-02-22
+NIST_CSF_2.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"nist,csf,framework,risk,governance",https://www.nist.gov/cyberframework,LINK,yes,2026-02-22
+NIST_OSCAL.md,frameworks,NIST,framework,NIST OSCAL (Open Security Controls Assessment Language),ongoing,"oscal,nist,automation,controls,compliance,json",https://github.com/usnistgov/OSCAL,LINK,yes,2026-02-22
