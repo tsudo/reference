@@ -1,6 +1,6 @@
 # Reference Library Index
 
-_Auto-generated 2026-02-22 — 112 documents_
+_Auto-generated 2026-02-22 — 113 documents_
 
 ## Contents
 
@@ -189,6 +189,7 @@ _External sources indexed for AI discovery -- not stored locally._
 | [NIST OSCAL CLI Tool](https://github.com/usnistgov/oscal-cli) | NIST | tool-template | oscal,nist,cli,validation,conversion,compliance-automation |
 | [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
 | [pyTenable -- Tenable Python SDK](https://github.com/tenable/pyTenable) | Tenable | tool-template | tenable,vulnerability,api,sdk,python,scan,automation |
+| [VSA Questionnaire (Vendor Security Alliance)](https://vendorsecurityalliance.org/) | Vendor Security Alliance | tool-template | vendor-assessment questionnaire tprm third-party-risk vsa security-assessment |
 
 ---
 
@@ -231,6 +232,7 @@ _External sources indexed for AI discovery -- not stored locally._
 | [NIST OSCAL CLI Tool](https://github.com/usnistgov/oscal-cli) | NIST | tool-template | oscal,nist,cli,validation,conversion,compliance-automation |
 | [SANS Internet Storm Center](https://isc.sans.edu/) | SANS | tool-template | sans,isc,threat-intel,daily-brief,honeypot |
 | [pyTenable -- Tenable Python SDK](https://github.com/tenable/pyTenable) | Tenable | tool-template | tenable,vulnerability,api,sdk,python,scan,automation |
+| [VSA Questionnaire (Vendor Security Alliance)](https://vendorsecurityalliance.org/) | Vendor Security Alliance | tool-template | vendor-assessment questionnaire tprm third-party-risk vsa security-assessment |
 
 ---
 
@@ -336,12 +338,12 @@ _External sources indexed for AI discovery -- not stored locally._
 
 - [LINK] NIST SP 800-53 Rev 5 (Security and Privacy Controls) -- https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final
 - [LINK] NIST Cybersecurity Framework 2.0 -- https://www.nist.gov/cyberframework
-- [LINK] NIST National Vulnerability Database (NVD) -- https://nvd.nist.gov/
-- [LINK] NIST OSCAL (Open Security Controls Assessment Language) -- https://github.com/usnistgov/OSCAL
 - [LINK] NIST macOS Security Compliance Project -- https://github.com/usnistgov/macos_security
 - [LINK] NIST OSCAL Content Library (800-53 Controls in JSON/YAML) -- https://github.com/usnistgov/oscal-content
 - [LINK] NIST Special Publications 800 Series -- https://csrc.nist.gov/publications/sp800
+- [LINK] NIST OSCAL (Open Security Controls Assessment Language) -- https://github.com/usnistgov/OSCAL
 - [LINK] NIST OSCAL CLI Tool -- https://github.com/usnistgov/oscal-cli
+- [LINK] NIST National Vulnerability Database (NVD) -- https://nvd.nist.gov/
 
 ### OWASP / CycloneDX
 
@@ -398,6 +400,9 @@ _External sources indexed for AI discovery -- not stored locally._
 - 191028 MWB CTNT 2019 Healthcare FINAL (2019) — `z_misc/191028-MWB-CTNT_2019_Healthcare_FINAL.pdf`
 - Checkpoint cyber security report 2020 (2020) — `z_misc/Checkpoint_cyber-security-report-2020.pdf`
 - Gone Phishing Tournament Global Benchmark Report 2020 (2020) — `z_misc/Gone_Phishing_Tournament_Global_Benchmark_Report_2020.pdf`
+- GPG CLI Cheatsheet (unknown) — `tools-templates/GPG_CLI_Cheatsheet.md` [MD]
+- Microsoft PasswordGuidance (unknown) — `tools-templates/Microsoft_PasswordGuidance.pdf`
+- STUDY UsabilityofPassphrases 20120711 (unknown) — `tools-templates/STUDY_UsabilityofPassphrases_20120711.pdf`
 - CSIS SignificantCyberEventsList 201812 (unknown) — `z_misc/CSIS_SignificantCyberEventsList_201812.pdf`
 - DamageControl CybeInsuranceebook (unknown) — `z_misc/DamageControl_CybeInsuranceebook.pdf`
 - FBI Flash ChinaAPT10 20190102 TLPWHITE (unknown) — `z_misc/FBI_Flash_ChinaAPT10_20190102_TLPWHITE.pdf`
@@ -405,9 +410,10 @@ _External sources indexed for AI discovery -- not stored locally._
 - PedagogicCyberSecurityFramework 201810 (unknown) — `z_misc/PedagogicCyberSecurityFramework_201810.pdf`
 - Switchfast SMBCybersecurityReport 20180827 (unknown) — `z_misc/Switchfast_SMBCybersecurityReport_20180827.pdf`
 - USFED WorldwideThreatAssessment 20170511 (unknown) — `z_misc/USFED_WorldwideThreatAssessment_20170511.pdf`
-- GPG CLI Cheatsheet (unknown) — `tools-templates/GPG_CLI_Cheatsheet.md` [MD]
-- Microsoft PasswordGuidance (unknown) — `tools-templates/Microsoft_PasswordGuidance.pdf`
-- STUDY UsabilityofPassphrases 20120711 (unknown) — `tools-templates/STUDY_UsabilityofPassphrases_20120711.pdf`
+
+### Vendor Security Alliance
+
+- [LINK] VSA Questionnaire (Vendor Security Alliance) -- https://vendorsecurityalliance.org/
 
 ### Verizon
 

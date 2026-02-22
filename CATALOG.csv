@@ -28,16 +28,43 @@ Verizon_DBIR_2023.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2023,202
 Verizon_DBIR_2024_data-breach-investigations-report.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 data breach investigations report,2024,,,PDF,no,
 Verizon_DBIR_2024_executive-summary.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 executive summary,2024,,,PDF,no,
 Verizon_DBIR_2024_infographic.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 infographic,2024,,,PDF,no,
-ATA-2018-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2018 Unclassified Report,2018,,,PDF,no,
-ATA-2019-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2019 Unclassified Report,2019,,,PDF,no,
-ATA-2021-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2021 Unclassified Report,2021,,,PDF,no,
-ATA-2022-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2022 Unclassified Report,2022,,,PDF,no,
-ATA-2023-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2023 Unclassified Report,2023,,,PDF,no,
-Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf,government,CISA,government,Chinese Cyber Activity Targeting Managed Service Providers,unknown,,,PDF,no,
-CISA_Advisories_Feed.md,government,CISA,government,CISA Cybersecurity Advisories (Live Feed),ongoing,"cisa,advisory,ics,malware,vulnerability,joint-advisory",https://www.cisa.gov/news-events/cybersecurity-advisories,LINK,yes,2026-02-22
-CISA_KEV.md,government,CISA,government,CISA Known Exploited Vulnerabilities Catalog,ongoing,"cisa,kev,cve,vulnerability,exploited,patch",https://www.cisa.gov/known-exploited-vulnerabilities-catalog,LINK,yes,2026-02-22
-NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"nist,nvd,cve,cvss,vulnerability,database",https://nvd.nist.gov/,LINK,yes,2026-02-22
-USNI_WWTA_2019.pdf,government,US Intelligence Community,government,USNI WWTA 2019,2019,,,PDF,no,
+CycloneDX_Specification.md,standards,OWASP / CycloneDX,standard,CycloneDX SBOM Specification,ongoing,"sbom,cyclonedx,supply-chain,owasp,bom,vulnerability,vex",https://github.com/CycloneDX/specification,LINK,yes,2026-02-22
+NIST_macOS_Security.md,standards,NIST,standard,NIST macOS Security Compliance Project,ongoing,"nist,macos,baseline,800-53,cis,cmmc,compliance,hardening",https://github.com/usnistgov/macos_security,LINK,yes,2026-02-22
+NIST_OSCAL_Content.md,standards,NIST,standard,NIST OSCAL Content Library (800-53 Controls in JSON/YAML),ongoing,"oscal,nist,800-53,controls,json,yaml,machine-readable",https://github.com/usnistgov/oscal-content,LINK,yes,2026-02-22
+NIST_SP800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 (Security and Privacy Controls),2020,"nist,sp800-53,controls,rmf,federal,fisma",https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final,LINK,yes,2026-02-22
+NIST_SP800_Series.md,standards,NIST,standard,NIST Special Publications 800 Series,ongoing,"nist,sp800,standard,controls,incident-response,cryptography",https://csrc.nist.gov/publications/sp800,LINK,yes,2026-02-22
+SPDX_Specification.md,standards,Linux Foundation / SPDX,standard,SPDX SBOM Specification,ongoing,"sbom,spdx,supply-chain,license,software-composition,iso",https://github.com/spdx/spdx-spec,LINK,yes,2026-02-22
+CIS_Controls.md,frameworks,Center for Internet Security,framework,CIS Controls v8,2021,"cis,controls,hardening,safeguards,benchmark",https://www.cisecurity.org/controls,LINK,yes,2026-02-22
+MITRE_ATTACK.md,frameworks,MITRE,framework,MITRE ATT&CK Framework,ongoing,"mitre,attck,ttp,threat,tactics,techniques,procedures",https://attack.mitre.org/,LINK,yes,2026-02-22
+MITRE_D3FEND.md,frameworks,MITRE,framework,MITRE D3FEND,ongoing,"mitre,d3fend,defense,countermeasures,detection",https://d3fend.mitre.org/,LINK,yes,2026-02-22
+NIST_CSF_2.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"nist,csf,framework,risk,governance",https://www.nist.gov/cyberframework,LINK,yes,2026-02-22
+NIST_OSCAL.md,frameworks,NIST,framework,NIST OSCAL (Open Security Controls Assessment Language),ongoing,"oscal,nist,automation,controls,compliance,json",https://github.com/usnistgov/OSCAL,LINK,yes,2026-02-22
+OPA_Open_Policy_Agent.md,frameworks,Open Policy Agent / CNCF,framework,Open Policy Agent (OPA),ongoing,"opa,rego,policy-as-code,authorization,compliance,kubernetes,admission",https://github.com/open-policy-agent/opa,LINK,yes,2026-02-22
+ENISA_Threat_Landscape.md,research,ENISA,research,ENISA Threat Landscape Report (Annual),ongoing,"enisa,europe,threat-landscape,annual,ransomware,supply-chain",https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape,LINK,yes,2026-02-22
+WEF_Cybersecurity_Outlook.md,research,World Economic Forum,research,WEF Global Cybersecurity Outlook (Annual),ongoing,"wef,cyber-resilience,risk,executive,annual",https://www.weforum.org/topics/cybersecurity/,LINK,yes,2026-02-22
+WEF_Global_Risks_Report_2019.pdf,research,World Economic Forum,research,WEF Global Risks Report 2019,2019,,,PDF,no,
+WEF_The_Global_Risks_Report_2021.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2021,2021,,,PDF,no,
+WEF_The_Global_Risks_Report_2024.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2024,2024,,,PDF,no,
+Wiz_Security_Research.md,research,Wiz,research,Wiz Security Research,ongoing,"wiz,cloud,cve,research,kubernetes,aws,azure,gcp,container",https://github.com/wiz-sec,LINK,yes,2026-02-22
+AWS_Security_Samples.md,tools-templates,Amazon Web Services,tool-template,AWS Security Automation Samples,ongoing,"aws,cloud,security,automation,lambda,config,reference-implementation",https://github.com/aws-samples,LINK,yes,2026-02-22
+AWS_Security_Services_Best_Practices.md,tools-templates,Amazon Web Services,tool-template,AWS Security Services Best Practices,ongoing,"aws,cloud,security,best-practices,config,guardduty,securityhub",https://github.com/aws-samples/aws-security-services-best-practices,LINK,yes,2026-02-22
+Azure_Policy_Definitions.md,tools-templates,Microsoft,tool-template,Azure Policy Definitions (JSON),ongoing,"azure,microsoft,cloud,policy-as-code,compliance,json,governance",https://github.com/Azure/azure-policy,LINK,yes,2026-02-22
+Checkov_IaC_Scanner.md,tools-templates,Bridgecrew / Prisma Cloud,tool-template,Checkov -- IaC Security and Compliance Scanner,ongoing,"checkov,iac,terraform,cloudformation,kubernetes,cis,nist,soc2",https://github.com/bridgecrewio/checkov,LINK,yes,2026-02-22
+CIS_CAT_Centralized_Reporting.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Centralized Compliance Reporting,ongoing,"cis,benchmark,compliance,reporting,dashboard",https://github.com/CISecurity/CIS-CAT-Centralized-Reporting,LINK,yes,2026-02-22
+CIS_CAT_Pro_Assessor.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Pro Assessor v4,ongoing,"cis,benchmark,assessment,compliance,hardening,scanner",https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4,LINK,yes,2026-02-22
+Cloud_Custodian.md,tools-templates,Cloud Custodian / CNCF,tool-template,Cloud Custodian -- Multi-Cloud Governance as Code,ongoing,"cloud-custodian,aws,azure,gcp,governance,compliance,policy-as-code",https://github.com/cloud-custodian/cloud-custodian,LINK,yes,2026-02-22
+Cloudflare_Docs.md,tools-templates,Cloudflare,tool-template,Cloudflare Documentation (Markdown),ongoing,"cloudflare,docs,waf,zero-trust,workers,access,configuration",https://github.com/cloudflare/cloudflare-docs,LINK,yes,2026-02-22
+Cloudflare_Terraform_Provider.md,tools-templates,Cloudflare,tool-template,Cloudflare Terraform Provider,ongoing,"cloudflare,terraform,iac,infrastructure-as-code,waf,dns,security",https://github.com/cloudflare/terraform-provider-cloudflare,LINK,yes,2026-02-22
+CrowdStrike_GitHub_Org.md,tools-templates,CrowdStrike,tool-template,CrowdStrike GitHub Organization,ongoing,"crowdstrike,falcon,api,threat-intel,edr,integration,sdk",https://github.com/CrowdStrike,LINK,yes,2026-02-22
+GPG_CLI_Cheatsheet.md,tools-templates,Various,tool-template,GPG CLI Cheatsheet,unknown,,,MD,yes,
+Microsoft_PasswordGuidance.pdf,tools-templates,Various,tool-template,Microsoft PasswordGuidance,unknown,,,PDF,no,
+Microsoft_Security_Code_Samples.md,tools-templates,Microsoft,tool-template,Microsoft Security Code Samples,ongoing,"microsoft,security,automation,code-samples,defender,sentinel",https://github.com/microsoft/security-code-samples,LINK,yes,2026-02-22
+MITRE_CAR.md,tools-templates,MITRE,tool-template,MITRE Cyber Analytics Repository (CAR),ongoing,"mitre,car,analytics,detection,splunk,sigma",https://car.mitre.org/,LINK,yes,2026-02-22
+NIST_OSCAL_CLI.md,tools-templates,NIST,tool-template,NIST OSCAL CLI Tool,ongoing,"oscal,nist,cli,validation,conversion,compliance-automation",https://github.com/usnistgov/oscal-cli,LINK,yes,2026-02-22
+SANS_ISC.md,tools-templates,SANS,tool-template,SANS Internet Storm Center,ongoing,"sans,isc,threat-intel,daily-brief,honeypot",https://isc.sans.edu/,LINK,yes,2026-02-22
+STUDY_UsabilityofPassphrases_20120711.pdf,tools-templates,Various,tool-template,STUDY UsabilityofPassphrases 20120711,unknown,,,PDF,no,
+Tenable_Python_SDK.md,tools-templates,Tenable,tool-template,pyTenable -- Tenable Python SDK,ongoing,"tenable,vulnerability,api,sdk,python,scan,automation",https://github.com/tenable/pyTenable,LINK,yes,2026-02-22
+VSA_Questionnaire_Vendor_Security_Alliance.md,tools-templates,Vendor Security Alliance,tool-template,VSA Questionnaire (Vendor Security Alliance),ongoing,vendor-assessment questionnaire tprm third-party-risk vsa security-assessment,https://vendorsecurityalliance.org/,LINK,yes,2026-02-22
 191028-MWB-CTNT_2019_Healthcare_FINAL.pdf,z_misc,Various,misc,191028 MWB CTNT 2019 Healthcare FINAL,2019,,,PDF,no,
 BBB_StateofCyberSecuritySMB_2017.pdf,z_misc,Various,misc,BBB StateofCyberSecuritySMB 2017,2017,,,PDF,no,
 Checkpoint_cyber-security-report-2020.pdf,z_misc,Various,misc,Checkpoint cyber security report 2020,2020,,,PDF,no,
@@ -51,12 +78,16 @@ PedagogicCyberSecurityFramework_201810.pdf,z_misc,Various,misc,PedagogicCyberSec
 Switchfast_SMBCybersecurityReport_20180827.pdf,z_misc,Various,misc,Switchfast SMBCybersecurityReport 20180827,unknown,,,PDF,no,
 UK_DCMS_CyberSecurityBreachesSurvey_2017.pdf,z_misc,Various,misc,UK DCMS CyberSecurityBreachesSurvey 2017,2017,,,PDF,no,
 USFED_WorldwideThreatAssessment_20170511.pdf,z_misc,Various,misc,USFED WorldwideThreatAssessment 20170511,unknown,,,PDF,no,
-CIS_Controls.md,frameworks,Center for Internet Security,framework,CIS Controls v8,2021,"cis,controls,hardening,safeguards,benchmark",https://www.cisecurity.org/controls,LINK,yes,2026-02-22
-MITRE_ATTACK.md,frameworks,MITRE,framework,MITRE ATT&CK Framework,ongoing,"mitre,attck,ttp,threat,tactics,techniques,procedures",https://attack.mitre.org/,LINK,yes,2026-02-22
-MITRE_D3FEND.md,frameworks,MITRE,framework,MITRE D3FEND,ongoing,"mitre,d3fend,defense,countermeasures,detection",https://d3fend.mitre.org/,LINK,yes,2026-02-22
-NIST_CSF_2.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"nist,csf,framework,risk,governance",https://www.nist.gov/cyberframework,LINK,yes,2026-02-22
-NIST_OSCAL.md,frameworks,NIST,framework,NIST OSCAL (Open Security Controls Assessment Language),ongoing,"oscal,nist,automation,controls,compliance,json",https://github.com/usnistgov/OSCAL,LINK,yes,2026-02-22
-OPA_Open_Policy_Agent.md,frameworks,Open Policy Agent / CNCF,framework,Open Policy Agent (OPA),ongoing,"opa,rego,policy-as-code,authorization,compliance,kubernetes,admission",https://github.com/open-policy-agent/opa,LINK,yes,2026-02-22
+ATA-2018-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2018 Unclassified Report,2018,,,PDF,no,
+ATA-2019-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2019 Unclassified Report,2019,,,PDF,no,
+ATA-2021-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2021 Unclassified Report,2021,,,PDF,no,
+ATA-2022-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2022 Unclassified Report,2022,,,PDF,no,
+ATA-2023-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2023 Unclassified Report,2023,,,PDF,no,
+Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf,government,CISA,government,Chinese Cyber Activity Targeting Managed Service Providers,unknown,,,PDF,no,
+CISA_Advisories_Feed.md,government,CISA,government,CISA Cybersecurity Advisories (Live Feed),ongoing,"cisa,advisory,ics,malware,vulnerability,joint-advisory",https://www.cisa.gov/news-events/cybersecurity-advisories,LINK,yes,2026-02-22
+CISA_KEV.md,government,CISA,government,CISA Known Exploited Vulnerabilities Catalog,ongoing,"cisa,kev,cve,vulnerability,exploited,patch",https://www.cisa.gov/known-exploited-vulnerabilities-catalog,LINK,yes,2026-02-22
+NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"nist,nvd,cve,cvss,vulnerability,database",https://nvd.nist.gov/,LINK,yes,2026-02-22
+USNI_WWTA_2019.pdf,government,US Intelligence Community,government,USNI WWTA 2019,2019,,,PDF,no,
 2019_Webroot_Threat_Report_US_Online.pdf,threat-intel,Webroot,threat-intel,2019 Webroot Threat Report US Online,2019,,,PDF,no,
 Accenture_CyberSecurityConundrum_2016.pdf,threat-intel,Accenture,threat-intel,Accenture CyberSecurityConundrum 2016,2016,,,PDF,no,
 Accenture_CyberThreatscape_2017.pdf,threat-intel,Accenture,threat-intel,Accenture CyberThreatscape 2017,2017,,,PDF,no,
@@ -81,33 +112,3 @@ Symantec_ISTR22_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR22 2017
 Symantec_ISTR23_2018.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR23 2018,2018,,,PDF,no,
 Symantec_ISTR24_2019.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR24 2019,2019,,,PDF,no,
 Symantec_ISTR_SpecialReport_EmailThreats_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR SpecialReport EmailThreats 2017,2017,,,PDF,no,
-ENISA_Threat_Landscape.md,research,ENISA,research,ENISA Threat Landscape Report (Annual),ongoing,"enisa,europe,threat-landscape,annual,ransomware,supply-chain",https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape,LINK,yes,2026-02-22
-WEF_Cybersecurity_Outlook.md,research,World Economic Forum,research,WEF Global Cybersecurity Outlook (Annual),ongoing,"wef,cyber-resilience,risk,executive,annual",https://www.weforum.org/topics/cybersecurity/,LINK,yes,2026-02-22
-WEF_Global_Risks_Report_2019.pdf,research,World Economic Forum,research,WEF Global Risks Report 2019,2019,,,PDF,no,
-WEF_The_Global_Risks_Report_2021.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2021,2021,,,PDF,no,
-WEF_The_Global_Risks_Report_2024.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2024,2024,,,PDF,no,
-Wiz_Security_Research.md,research,Wiz,research,Wiz Security Research,ongoing,"wiz,cloud,cve,research,kubernetes,aws,azure,gcp,container",https://github.com/wiz-sec,LINK,yes,2026-02-22
-CycloneDX_Specification.md,standards,OWASP / CycloneDX,standard,CycloneDX SBOM Specification,ongoing,"sbom,cyclonedx,supply-chain,owasp,bom,vulnerability,vex",https://github.com/CycloneDX/specification,LINK,yes,2026-02-22
-NIST_macOS_Security.md,standards,NIST,standard,NIST macOS Security Compliance Project,ongoing,"nist,macos,baseline,800-53,cis,cmmc,compliance,hardening",https://github.com/usnistgov/macos_security,LINK,yes,2026-02-22
-NIST_OSCAL_Content.md,standards,NIST,standard,NIST OSCAL Content Library (800-53 Controls in JSON/YAML),ongoing,"oscal,nist,800-53,controls,json,yaml,machine-readable",https://github.com/usnistgov/oscal-content,LINK,yes,2026-02-22
-NIST_SP800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 (Security and Privacy Controls),2020,"nist,sp800-53,controls,rmf,federal,fisma",https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final,LINK,yes,2026-02-22
-NIST_SP800_Series.md,standards,NIST,standard,NIST Special Publications 800 Series,ongoing,"nist,sp800,standard,controls,incident-response,cryptography",https://csrc.nist.gov/publications/sp800,LINK,yes,2026-02-22
-SPDX_Specification.md,standards,Linux Foundation / SPDX,standard,SPDX SBOM Specification,ongoing,"sbom,spdx,supply-chain,license,software-composition,iso",https://github.com/spdx/spdx-spec,LINK,yes,2026-02-22
-AWS_Security_Samples.md,tools-templates,Amazon Web Services,tool-template,AWS Security Automation Samples,ongoing,"aws,cloud,security,automation,lambda,config,reference-implementation",https://github.com/aws-samples,LINK,yes,2026-02-22
-AWS_Security_Services_Best_Practices.md,tools-templates,Amazon Web Services,tool-template,AWS Security Services Best Practices,ongoing,"aws,cloud,security,best-practices,config,guardduty,securityhub",https://github.com/aws-samples/aws-security-services-best-practices,LINK,yes,2026-02-22
-Azure_Policy_Definitions.md,tools-templates,Microsoft,tool-template,Azure Policy Definitions (JSON),ongoing,"azure,microsoft,cloud,policy-as-code,compliance,json,governance",https://github.com/Azure/azure-policy,LINK,yes,2026-02-22
-Checkov_IaC_Scanner.md,tools-templates,Bridgecrew / Prisma Cloud,tool-template,Checkov -- IaC Security and Compliance Scanner,ongoing,"checkov,iac,terraform,cloudformation,kubernetes,cis,nist,soc2",https://github.com/bridgecrewio/checkov,LINK,yes,2026-02-22
-CIS_CAT_Centralized_Reporting.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Centralized Compliance Reporting,ongoing,"cis,benchmark,compliance,reporting,dashboard",https://github.com/CISecurity/CIS-CAT-Centralized-Reporting,LINK,yes,2026-02-22
-CIS_CAT_Pro_Assessor.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Pro Assessor v4,ongoing,"cis,benchmark,assessment,compliance,hardening,scanner",https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4,LINK,yes,2026-02-22
-Cloud_Custodian.md,tools-templates,Cloud Custodian / CNCF,tool-template,Cloud Custodian -- Multi-Cloud Governance as Code,ongoing,"cloud-custodian,aws,azure,gcp,governance,compliance,policy-as-code",https://github.com/cloud-custodian/cloud-custodian,LINK,yes,2026-02-22
-Cloudflare_Docs.md,tools-templates,Cloudflare,tool-template,Cloudflare Documentation (Markdown),ongoing,"cloudflare,docs,waf,zero-trust,workers,access,configuration",https://github.com/cloudflare/cloudflare-docs,LINK,yes,2026-02-22
-Cloudflare_Terraform_Provider.md,tools-templates,Cloudflare,tool-template,Cloudflare Terraform Provider,ongoing,"cloudflare,terraform,iac,infrastructure-as-code,waf,dns,security",https://github.com/cloudflare/terraform-provider-cloudflare,LINK,yes,2026-02-22
-CrowdStrike_GitHub_Org.md,tools-templates,CrowdStrike,tool-template,CrowdStrike GitHub Organization,ongoing,"crowdstrike,falcon,api,threat-intel,edr,integration,sdk",https://github.com/CrowdStrike,LINK,yes,2026-02-22
-GPG_CLI_Cheatsheet.md,tools-templates,Various,tool-template,GPG CLI Cheatsheet,unknown,,,MD,yes,
-Microsoft_PasswordGuidance.pdf,tools-templates,Various,tool-template,Microsoft PasswordGuidance,unknown,,,PDF,no,
-Microsoft_Security_Code_Samples.md,tools-templates,Microsoft,tool-template,Microsoft Security Code Samples,ongoing,"microsoft,security,automation,code-samples,defender,sentinel",https://github.com/microsoft/security-code-samples,LINK,yes,2026-02-22
-MITRE_CAR.md,tools-templates,MITRE,tool-template,MITRE Cyber Analytics Repository (CAR),ongoing,"mitre,car,analytics,detection,splunk,sigma",https://car.mitre.org/,LINK,yes,2026-02-22
-NIST_OSCAL_CLI.md,tools-templates,NIST,tool-template,NIST OSCAL CLI Tool,ongoing,"oscal,nist,cli,validation,conversion,compliance-automation",https://github.com/usnistgov/oscal-cli,LINK,yes,2026-02-22
-SANS_ISC.md,tools-templates,SANS,tool-template,SANS Internet Storm Center,ongoing,"sans,isc,threat-intel,daily-brief,honeypot",https://isc.sans.edu/,LINK,yes,2026-02-22
-STUDY_UsabilityofPassphrases_20120711.pdf,tools-templates,Various,tool-template,STUDY UsabilityofPassphrases 20120711,unknown,,,PDF,no,
-Tenable_Python_SDK.md,tools-templates,Tenable,tool-template,pyTenable -- Tenable Python SDK,ongoing,"tenable,vulnerability,api,sdk,python,scan,automation",https://github.com/tenable/pyTenable,LINK,yes,2026-02-22
