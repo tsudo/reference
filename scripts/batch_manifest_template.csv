@@ -1,0 +1,14 @@
+# batch_manifest.csv -- Template for batch ingestion into tsudo/reference
+# Fill in one row per file, then run: python scripts/batch_ingest.py --manifest this_file.csv
+#
+# REQUIRED: file_path, content_type
+# OPTIONAL (auto-guessed from filename if blank): title, organization, year
+# OPTIONAL (leave blank if unknown): tags, source_url
+#
+# content_type choices: threat-intel | breach-report | government | research | framework | standard | tool-template | misc
+#
+file_path,title,organization,content_type,year,tags,source_url
+# Example rows (delete these before using):
+# /path/to/CrowdStrike_GTR_2025.pdf,2025 Global Threat Report,CrowdStrike,threat-intel,2025,crowdstrike annual ransomware,https://www.crowdstrike.com/global-threat-report/
+# /path/to/NIST_SP800-207.pdf,NIST SP 800-207 Zero Trust Architecture,NIST,standard,2020,nist zero-trust architecture,https://csrc.nist.gov/publications/detail/sp/800-207/final
+# /path/to/SomeReport.pdf,,Mandiant,threat-intel,,mandiant annual,
