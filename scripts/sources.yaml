@@ -1,0 +1,163 @@
+# sources.yaml — Registry of publicly-downloadable cybersecurity reference sources
+# Used by update_routine.py to check for newer versions
+#
+# Fields:
+#   org: Publishing organization
+#   name: Report/document name
+#   content_type: bucket type (threat-intel, breach-report, government, research, etc.)
+#   url_pattern: Direct URL or URL with {year} placeholder
+#   latest_known_year: Last version confirmed in this collection
+#   cadence: annual | quarterly | ad-hoc | ongoing
+#   notes: Release timing, access notes, etc.
+
+sources:
+
+  # ── Breach Reports ──────────────────────────────────────────────────────────
+  - org: Verizon
+    name: Data Breach Investigations Report (DBIR)
+    content_type: breach-report
+    url_pattern: https://www.verizon.com/business/resources/reports/dbir/
+    latest_known_year: 2024
+    cadence: annual
+    notes: "Released April-May each year. Full report + executive summary available."
+
+  - org: IBM/Ponemon
+    name: Cost of a Data Breach Report
+    content_type: breach-report
+    url_pattern: https://www.ibm.com/reports/data-breach
+    latest_known_year: 2023
+    cadence: annual
+    notes: "Released July-August. IBM sponsors, Ponemon Institute conducts research."
+
+  # ── Threat Intelligence ──────────────────────────────────────────────────────
+  - org: Cisco
+    name: Annual Cybersecurity Report
+    content_type: threat-intel
+    url_pattern: https://www.cisco.com/c/en/us/products/security/security-reports.html
+    latest_known_year: 2018
+    cadence: annual
+    notes: "Cisco restructured reporting — check for current equivalent."
+
+  - org: Proofpoint
+    name: State of the Phish
+    content_type: threat-intel
+    url_pattern: https://www.proofpoint.com/us/resources/threat-reports/state-of-phish
+    latest_known_year: 2024
+    cadence: annual
+    notes: "Released early in the year. Free registration may be required."
+
+  - org: Proofpoint
+    name: Human Factor Report
+    content_type: threat-intel
+    url_pattern: https://www.proofpoint.com/us/resources/threat-reports/human-factor
+    latest_known_year: 2018
+    cadence: annual
+    notes: "Annual. Check for current year version."
+
+  - org: Proofpoint
+    name: Data Loss Landscape Report
+    content_type: threat-intel
+    url_pattern: https://www.proofpoint.com/us/resources/threat-reports/data-loss-landscape
+    latest_known_year: 2024
+    cadence: annual
+    notes: "Annual."
+
+  - org: CrowdStrike
+    name: Global Threat Report
+    content_type: threat-intel
+    url_pattern: https://www.crowdstrike.com/global-threat-report/
+    latest_known_year: null
+    cadence: annual
+    notes: "Not yet in collection — add. Released Feb-March each year."
+
+  - org: Mandiant
+    name: M-Trends Report
+    content_type: threat-intel
+    url_pattern: https://www.mandiant.com/resources/m-trends
+    latest_known_year: null
+    cadence: annual
+    notes: "Not yet in collection — add. Released March each year."
+
+  - org: Coveware
+    name: Ransomware Quarterly Reports
+    content_type: threat-intel
+    url_pattern: https://www.coveware.com/ransomware-quarterly-reports
+    latest_known_year: 2022
+    cadence: quarterly
+    notes: "Collection has Q3/Q4 2020, Q2 2022. Check for newer quarters."
+
+  # ── Government & Regulatory ──────────────────────────────────────────────────
+  - org: CISA
+    name: Cybersecurity Advisories (Joint Advisories)
+    content_type: government
+    url_pattern: https://www.cisa.gov/resources-tools/resources/cybersecurity-advisories
+    latest_known_year: null
+    cadence: ongoing
+    notes: "Ad hoc. Add key joint advisories (AA series) on significant threats."
+
+  - org: CISA
+    name: Known Exploited Vulnerabilities Catalog
+    content_type: government
+    url_pattern: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+    latest_known_year: null
+    cadence: ongoing
+    notes: "Live catalog — export CSV for machine-readable version."
+
+  - org: US Intelligence Community
+    name: Annual Threat Assessment (WWTA)
+    content_type: government
+    url_pattern: https://www.dni.gov/index.php/newsroom/reports-publications
+    latest_known_year: 2023
+    cadence: annual
+    notes: "Released Feb-March. Collection has 2018-2023. Check for 2024/2025."
+
+  # ── Research ─────────────────────────────────────────────────────────────────
+  - org: World Economic Forum
+    name: Global Risks Report
+    content_type: research
+    url_pattern: https://www.weforum.org/reports/global-risks-report-{year}
+    latest_known_year: 2024
+    cadence: annual
+    notes: "Released Jan. Collection has 2019, 2021, 2024. Missing 2020, 2022, 2023."
+
+  - org: World Economic Forum
+    name: Global Cybersecurity Outlook
+    content_type: research
+    url_pattern: https://www.weforum.org/publications/global-cybersecurity-outlook-{year}/
+    latest_known_year: null
+    cadence: annual
+    notes: "Not yet in collection — add. Annual report on cyber risk."
+
+  # ── Frameworks ───────────────────────────────────────────────────────────────
+  - org: NIST
+    name: Cybersecurity Framework (CSF) 2.0
+    content_type: framework
+    url_pattern: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+    latest_known_year: 2024
+    cadence: ad-hoc
+    notes: "Not yet in collection — add. CSF 2.0 released Feb 2024."
+
+  - org: CIS
+    name: CIS Controls v8
+    content_type: framework
+    url_pattern: https://www.cisecurity.org/controls/cis-controls-list
+    latest_known_year: null
+    cadence: ad-hoc
+    notes: "Not yet in collection — free registration required."
+
+  # ── Standards ────────────────────────────────────────────────────────────────
+  - org: NIST
+    name: SP 800-53 Rev 5 (Security Controls)
+    content_type: standard
+    url_pattern: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf
+    latest_known_year: 2020
+    cadence: ad-hoc
+    notes: "Not yet in collection — add."
+
+  - org: NIST
+    name: SP 800-61 Rev 2 (Incident Response)
+    content_type: standard
+    url_pattern: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf
+    latest_known_year: 2012
+    cadence: ad-hoc
+    notes: "Not yet in collection — add. Rev 3 in draft."
