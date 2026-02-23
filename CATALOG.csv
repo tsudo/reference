@@ -1,243 +1,288 @@
 filename,folder,organization,content_type,title,year,tags,source_url,format,md_available,date_ingested
-191028-MWB-CTNT_2019_Healthcare_FINAL.pdf,z_misc,Various,misc,191028 MWB CTNT 2019 Healthcare FINAL,2019,,,PDF,no,
-BBB_StateofCyberSecuritySMB_2017.pdf,z_misc,Various,misc,BBB StateofCyberSecuritySMB 2017,2017,,,PDF,no,
-Checkpoint_cyber-security-report-2020.pdf,z_misc,Various,misc,Checkpoint cyber security report 2020,2020,,,PDF,no,
-CSIS_SignificantCyberEventsList_201812.pdf,z_misc,Various,misc,CSIS SignificantCyberEventsList 201812,unknown,,,PDF,no,
-DamageControl_CybeInsuranceebook.pdf,z_misc,Various,misc,DamageControl CybeInsuranceebook,unknown,,,PDF,no,
-FBI_Flash_ChinaAPT10_20190102_TLPWHITE.pdf,z_misc,Various,misc,FBI Flash ChinaAPT10 20190102 TLPWHITE,unknown,,,PDF,no,
-Gone_Phishing_Tournament_Global_Benchmark_Report_2020.pdf,z_misc,Various,misc,Gone Phishing Tournament Global Benchmark Report 2020,2020,,,PDF,no,
-NCSA_SMBCyberSecurityAwarenessToolkit_20180824.pdf,z_misc,Various,misc,NCSA SMBCyberSecurityAwarenessToolkit 20180824,unknown,,,PDF,no,
-NTTSecurity_GTIR_KeyFindings_2017.pdf,z_misc,Various,misc,NTTSecurity GTIR KeyFindings 2017,2017,,,PDF,no,
-PedagogicCyberSecurityFramework_201810.pdf,z_misc,Various,misc,PedagogicCyberSecurityFramework 201810,unknown,,,PDF,no,
-Switchfast_SMBCybersecurityReport_20180827.pdf,z_misc,Various,misc,Switchfast SMBCybersecurityReport 20180827,unknown,,,PDF,no,
-UK_DCMS_CyberSecurityBreachesSurvey_2017.pdf,z_misc,Various,misc,UK DCMS CyberSecurityBreachesSurvey 2017,2017,,,PDF,no,
-USFED_WorldwideThreatAssessment_20170511.pdf,z_misc,Various,misc,USFED WorldwideThreatAssessment 20170511,unknown,,,PDF,no,
-2019_Webroot_Threat_Report_US_Online.pdf,threat-intel,Webroot,threat-intel,2019 Webroot Threat Report US Online,2019,,,PDF,no,
-Accenture_CyberSecurityConundrum_2016.pdf,threat-intel,Accenture,threat-intel,Accenture CyberSecurityConundrum 2016,2016,,,PDF,no,
-Accenture_CyberThreatscape_2017.pdf,threat-intel,Accenture,threat-intel,Accenture CyberThreatscape 2017,2017,,,PDF,no,
-Accenture_CyberThreatscape_2018.pdf,threat-intel,Accenture,threat-intel,Accenture CyberThreatscape 2018,2018,,,PDF,no,
-Accenture_CyberThreatscape_ExecSummary_2017.pdf,threat-intel,Accenture,threat-intel,Accenture CyberThreatscape ExecSummary 2017,2017,,,PDF,no,
-Accenture_RebootingPublicSectorCyberSecurity_2016.pdf,threat-intel,Accenture,threat-intel,Accenture RebootingPublicSectorCyberSecurity 2016,2016,,,PDF,no,
-Cisco_AnnualCyberSecurityReport_201802.pdf,threat-intel,Cisco,threat-intel,Cisco AnnualCyberSecurityReport 201802,unknown,,,PDF,no,
-Cisco_SpecialReport_SMB_Cybersecurity_201807.pdf,threat-intel,Cisco,threat-intel,Cisco SpecialReport SMB Cybersecurity 201807,unknown,,,PDF,no,
-Coveware_RansomewareReport_2022Q2.pdf,threat-intel,Coveware,threat-intel,Coveware RansomewareReport 2022Q2,2022,,,PDF,no,
-Coveware_RansomwareReport_2020Q3.pdf,threat-intel,Coveware,threat-intel,Coveware RansomwareReport 2020Q3,2020,,,PDF,no,
-Coveware_RansomwareReport_2020Q4.pdf,threat-intel,Coveware,threat-intel,Coveware RansomwareReport 2020Q4,2020,,,PDF,no,
-pfpt-us-tr-data-loss-landscape-report-2024.pdf,threat-intel,Proofpoint,threat-intel,pfpt us tr data loss landscape report 2024,2024,,,PDF,no,
-pfpt-us-tr-state-of-the-phish-2024.pdf,threat-intel,Proofpoint,threat-intel,pfpt us tr state of the phish 2024,2024,,,PDF,no,
-Proofpoint_HumanFactor_2018.pdf,threat-intel,Proofpoint,threat-intel,Proofpoint HumanFactor 2018,2018,,,PDF,no,
-Proofpoint_QuarterlyThreatReport_Q1_2018.pdf,threat-intel,Proofpoint,threat-intel,Proofpoint QuarterlyThreatReport Q1 2018,2018,,,PDF,no,
-Proofpoint_QuarterlyThreatReport_Q2_2018.pdf,threat-intel,Proofpoint,threat-intel,Proofpoint QuarterlyThreatReport Q2 2018,2018,,,PDF,no,
-Proofpoint_QuarterlyThreatReport_Q3_2018.pdf,threat-intel,Proofpoint,threat-intel,Proofpoint QuarterlyThreatReport Q3 2018,2018,,,PDF,no,
-SSC-2018Healthcare-Report-c06.pdf,threat-intel,SecurityScorecard,threat-intel,SSC 2018Healthcare Report c06,2018,,,PDF,no,
-SSC-2019-Healthcare-Report.pdf,threat-intel,SecurityScorecard,threat-intel,SSC 2019 Healthcare Report,2019,,,PDF,no,
-Symantec_ISTR20_2015.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR20 2015,2015,,,PDF,no,
-Symantec_ISTR22_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR22 2017,2017,,,PDF,no,
-Symantec_ISTR23_2018.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR23 2018,2018,,,PDF,no,
-Symantec_ISTR24_2019.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR24 2019,2019,,,PDF,no,
-Symantec_ISTR_SpecialReport_EmailThreats_2017.pdf,threat-intel,Symantec,threat-intel,Symantec ISTR SpecialReport EmailThreats 2017,2017,,,PDF,no,
-Anthem_20161201.pdf,breach-reports,Anthem,breach-report,Anthem 20161201,unknown,,,PDF,no,
-Cost-of-Data-Breach-Report-2023.pdf,breach-reports,IBM/Ponemon,breach-report,Cost of Data Breach Report 2023,2023,,,PDF,no,
-CostofDataBreach_2022.pdf,breach-reports,IBM/Ponemon,breach-report,CostofDataBreach 2022,2022,,,PDF,no,
-Equifax_EX99_StatementofRecord.pdf,breach-reports,Equifax,breach-report,Equifax EX99 StatementofRecord,unknown,,,PDF,no,
-Equifax_GAO_ 20180906.pdf,breach-reports,Equifax,breach-report,Equifax GAO  20180906,unknown,,,PDF,no,
-Equifax_SenateReport_201903.pdf,breach-reports,Equifax,breach-report,Equifax SenateReport 201903,unknown,,,PDF,no,
-IBM_Cost-of-a-Data-Breach-Report-2023.pdf,breach-reports,IBM/Ponemon,breach-report,IBM Cost of a Data Breach Report 2023,2023,,,PDF,no,
-Ponemon_CostofDataBreach_2018.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CostofDataBreach 2018,2018,,,PDF,no,
-Ponemon_CostofDataBreach_2019.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CostofDataBreach 2019,2019,,,PDF,no,
-Ponemon_CostofDataBreach_2020.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CostofDataBreach 2020,2020,,,PDF,no,
-Ponemon_CostofDataBreach_2021.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CostofDataBreach 2021,2021,,,PDF,no,
-Ponemon_CyberResilientOrganizationReport_2019.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CyberResilientOrganizationReport 2019,2019,,,PDF,no,
-Ponemon_CyberResilientOrganizationReport_2020.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon CyberResilientOrganizationReport 2020,2020,,,PDF,no,
-Ponemon_StateofEndpointSecurity_2020.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon StateofEndpointSecurity 2020,2020,,,PDF,no,
-Ponemon_StateofSMBCybersecurity_2017.pdf,breach-reports,IBM/Ponemon,breach-report,Ponemon StateofSMBCybersecurity 2017,2017,,,PDF,no,
-Verizon_DBIR_2015.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2015,2015,,,PDF,no,
-Verizon_DBIR_2016.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2016,2016,,,PDF,no,
-Verizon_DBIR_2017.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2017,2017,,,PDF,no,
-Verizon_DBIR_2018.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2018,2018,,,PDF,no,
-Verizon_DBIR_2019.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2019,2019,,,PDF,no,
-Verizon_DBIR_2019_ExecBrief.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2019 ExecBrief,2019,,,PDF,no,
-Verizon_DBIR_2020.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2020,2020,,,PDF,no,
-Verizon_DBIR_2020_ExecutiveBrief.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2020 ExecutiveBrief,2020,,,PDF,no,
-Verizon_DBIR_2021.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2021,2021,,,PDF,no,
-Verizon_DBIR_2022.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2022,2022,,,PDF,no,
-Verizon_DBIR_2023.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2023,2023,,,PDF,no,
-Verizon_DBIR_2024_data-breach-investigations-report.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 data breach investigations report,2024,,,PDF,no,
-Verizon_DBIR_2024_executive-summary.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 executive summary,2024,,,PDF,no,
-Verizon_DBIR_2024_infographic.pdf,breach-reports,Verizon,breach-report,Verizon DBIR 2024 infographic,2024,,,PDF,no,
-Do_No_Harm_2.0_2019-10-16_144807_NhxCEwn.pdf,research,Future of Privacy Forum,research,Do No Harm 2.0 - Data Practices and Vulnerable People,2019,privacy;data-ethics;health-data;research,,PDF,yes,2026-02-22
-ENISA_Threat_Landscape.md,research,ENISA,research,ENISA Threat Landscape Report (Annual),ongoing,"enisa,europe,threat-landscape,annual,ransomware,supply-chain",https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape,LINK,yes,2026-02-22
-Illustrative-Cybersercurity-risk-management-report.pdf,research,AICPA,research,Illustrative Cybersecurity Risk Management Report,2020,risk-management;cybersecurity;aicpa;illustrative,,PDF,yes,2026-02-22
-Introduction to the FAIR Controls Analytics Model (FAIR-CAM™)_.pdf,research,FAIR Institute,research,Introduction to the FAIR Controls Analytics Model (FAIR-CAM),2021,fair;fair-cam;controls-analytics;risk-quantification,https://www.fairinstitute.org/,PDF,yes,2026-02-22
-Minimum_Viable_Information_Risk_Management_Program.pdf,research,multiple,research,Minimum Viable Information Risk Management Program,2019,risk-management;information-risk;minimum-viable,,PDF,yes,2026-02-22
-Ransomware_History.pdf,research,multiple,research,Ransomware History and Evolution,2020,ransomware;history;evolution;threat-intel,,PDF,yes,2026-02-22
-WEF_Cybersecurity_Outlook.md,research,World Economic Forum,research,WEF Global Cybersecurity Outlook (Annual),ongoing,"wef,cyber-resilience,risk,executive,annual",https://www.weforum.org/topics/cybersecurity/,LINK,yes,2026-02-22
-WEF_Global_Risks_Report_2019.pdf,research,World Economic Forum,research,WEF Global Risks Report 2019,2019,,,PDF,no,
-WEF_The_Global_Risks_Report_2021.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2021,2021,,,PDF,no,
-WEF_The_Global_Risks_Report_2024.pdf,research,World Economic Forum,research,WEF The Global Risks Report 2024,2024,,,PDF,no,
-WEIS_2019_paper_53.pdf,research,WEIS,research,WEIS 2019 - Vulnerability Management Economics Paper,2019,vulnerability-management;economics;research;weis,,PDF,yes,2026-02-22
-20_CRI_Ransomware_Playbook.pdf,tools-templates,CRI,tool-template,Cyber Readiness Institute Ransomware Playbook,2020,ransomware;playbook;incident-response;cri,https://cyberreadinessinstitute.org/,PDF,yes,2026-02-22
-_FFIEC_CCAT_v0.2_20190124.csv,tools-templates,Various,tool-template, FFIEC CCAT v0.2 20190124,unknown,,,CSV,no,
-_FFIEC_CCAT_v0.2_20190124.xlsx,tools-templates,Various,tool-template, FFIEC CCAT v0.2 20190124,unknown,,,XLSX,no,
-ActiveDirectoryDesignGuide.pdf,tools-templates,Microsoft,tool-template,Active Directory Design Guide,2012,active-directory;ad;design;microsoft,,PDF,yes,2026-02-22
-AuditScripts_Critical_Security_Control_Executive_Assessment_Tool_v7.0c.csv,tools-templates,Various,tool-template,AuditScripts Critical Security Control Executive Assessment Tool v7.0c,unknown,,,CSV,no,
-AuditScripts_Critical_Security_Control_Executive_Assessment_Tool_v7.0c.xlsx,tools-templates,Various,tool-template,AuditScripts Critical Security Control Executive Assessment Tool v7.0c,unknown,,,XLSX,no,
-AuditScripts_Critical_Security_Control_Manual_Assessment_Tool_v7.0b.csv,tools-templates,Various,tool-template,AuditScripts Critical Security Control Manual Assessment Tool v7.0b,unknown,,,CSV,no,
-AuditScripts_Critical_Security_Control_Manual_Assessment_Tool_v7.0b.xlsx,tools-templates,Various,tool-template,AuditScripts Critical Security Control Manual Assessment Tool v7.0b,unknown,,,XLSX,no,
-AuditScripts_Critical_Security_Control_Master_Mappings_v7.0d.csv,tools-templates,Various,tool-template,AuditScripts Critical Security Control Master Mappings v7.0d,unknown,,,CSV,no,
-AuditScripts_Critical_Security_Control_Master_Mappings_v7.0d.xlsx,tools-templates,Various,tool-template,AuditScripts Critical Security Control Master Mappings v7.0d,unknown,,,XLSX,no,
-CISO_Mindmap_SANS.pdf,tools-templates,SANS,tool-template,CISO Mind Map,2019,ciso;mind-map;security-program;sans,,PDF,yes,2026-02-22
-FFIEC_CCAT_v2.csv,tools-templates,Various,tool-template,FFIEC CCAT v2,unknown,,,CSV,no,
-FFIEC_CCAT_v2.xlsx,tools-templates,Various,tool-template,FFIEC CCAT v2,unknown,,,XLSX,no,
-FFIEC_Cyber_Assessment_Tool_v2.1_locked.csv,tools-templates,Various,tool-template,FFIEC Cyber Assessment Tool v2.1 locked,unknown,,,CSV,no,
-FFIEC_Cyber_Assessment_Tool_v2.1_locked.xlsx,tools-templates,Various,tool-template,FFIEC Cyber Assessment Tool v2.1 locked,unknown,,,XLSX,no,
-FSSCC_ACAT_November_2015_V1_0_TLP_WHITE.csv,tools-templates,Various,tool-template,FSSCC ACAT November 2015 V1 0 TLP WHITE,2015,,,CSV,no,
-FSSCC_ACAT_November_2015_V1_0_TLP_WHITE.xlsx,tools-templates,Various,tool-template,FSSCC ACAT November 2015 V1 0 TLP WHITE,2015,,,XLSX,no,
-GPG_CLI_Cheatsheet.md,tools-templates,Various,tool-template,GPG CLI Cheatsheet,unknown,,,MD,yes,
-HIPAA_Compliance_Checklist_Download.pdf,tools-templates,multiple,tool-template,HIPAA Compliance Checklist,2020,hipaa;checklist;compliance,,PDF,yes,2026-02-22
-hipaajournal.com-HIPAA Encryption Requirements.pdf,tools-templates,HIPAA Journal,tool-template,HIPAA Encryption Requirements Guide,2020,hipaa;encryption;requirements,,PDF,yes,2026-02-22
-Microsoft_PasswordGuidance.pdf,tools-templates,Various,tool-template,Microsoft PasswordGuidance,unknown,,,PDF,no,
-MITRE_CAR.md,tools-templates,MITRE,tool-template,MITRE Cyber Analytics Repository (CAR),ongoing,"mitre,car,analytics,detection,splunk,sigma",https://car.mitre.org/,LINK,yes,2026-02-22
-NIST_CSF_GapAssessment_TEMPLATE.csv,tools-templates,Various,tool-template,NIST CSF GapAssessment TEMPLATE,unknown,,,CSV,no,
-NIST_CSF_GapAssessment_TEMPLATE.xlsx,tools-templates,Various,tool-template,NIST CSF GapAssessment TEMPLATE,unknown,,,XLSX,no,
-Office_365___Customer_Security_Considerations_Workbook.csv,tools-templates,Various,tool-template,Office 365   Customer Security Considerations Workbook,unknown,,,CSV,no,
-Office_365___Customer_Security_Considerations_Workbook.xlsx,tools-templates,Various,tool-template,Office 365   Customer Security Considerations Workbook,unknown,,,XLSX,no,
-PCI___DSS_Version_3.2__Feb_2018__PCIDSS_QRGv3_2.pdf,tools-templates,PCI SSC,tool-template,PCI DSS v3.2 Quick Reference Guide,2018,pci-dss;v3.2;quick-reference,https://www.pcisecuritystandards.org/document_library/,PDF,yes,2026-02-22
-RiskRegister_ControlsLibrary_TEMPLATE.csv,tools-templates,Various,tool-template,RiskRegister ControlsLibrary TEMPLATE,unknown,,,CSV,no,
-RiskRegister_ControlsLibrary_TEMPLATE.xlsx,tools-templates,Various,tool-template,RiskRegister ControlsLibrary TEMPLATE,unknown,,,XLSX,no,
-SANS_ISC.md,tools-templates,SANS,tool-template,SANS Internet Storm Center,ongoing,"sans,isc,threat-intel,daily-brief,honeypot",https://isc.sans.edu/,LINK,yes,2026-02-22
-SAP-AA-FedRAMP-High-Security-Test-Case-Procedures-Template.csv,tools-templates,Various,tool-template,SAP AA FedRAMP High Security Test Case Procedures Template,unknown,,,CSV,no,
-SAP-AA-FedRAMP-High-Security-Test-Case-Procedures-Template.xlsx,tools-templates,Various,tool-template,SAP AA FedRAMP High Security Test Case Procedures Template,unknown,,,XLSX,no,
-SAQ_InstrGuidelines_v3_2_1.pdf,tools-templates,PCI SSC,tool-template,PCI DSS SAQ Instructions and Guidelines v3.2.1,2018,pci-dss;saq;self-assessment;v3.2.1,https://www.pcisecuritystandards.org/document_library/,PDF,yes,2026-02-22
-SAR-AA-FedRAMP-Risk-Exposure-Table-Template.csv,tools-templates,Various,tool-template,SAR AA FedRAMP Risk Exposure Table Template,unknown,,,CSV,no,
-SAR-AA-FedRAMP-Risk-Exposure-Table-Template.xlsx,tools-templates,Various,tool-template,SAR AA FedRAMP Risk Exposure Table Template,unknown,,,XLSX,no,
-small_business_budget_implementation_20_security_controls_33744.pdf,tools-templates,CIS,tool-template,CIS Small Business Budget for Implementing CIS Controls,2019,cis-controls;small-business;budget,,PDF,yes,2026-02-22
-SSP-A09-FedRAMP-High-CIS-Workbook-Template.csv,tools-templates,Various,tool-template,SSP A09 FedRAMP High CIS Workbook Template,unknown,,,CSV,no,
-SSP-A09-FedRAMP-High-CIS-Workbook-Template.xlsx,tools-templates,Various,tool-template,SSP A09 FedRAMP High CIS Workbook Template,unknown,,,XLSX,no,
-SSP-A12-FedRAMP-Laws-and-Regulations-Template.csv,tools-templates,Various,tool-template,SSP A12 FedRAMP Laws and Regulations Template,unknown,,,CSV,no,
-SSP-A12-FedRAMP-Laws-and-Regulations-Template.xlsx,tools-templates,Various,tool-template,SSP A12 FedRAMP Laws and Regulations Template,unknown,,,XLSX,no,
-SSP-A13-FedRAMP-Integrated-Inventory-Workbook-Template.csv,tools-templates,Various,tool-template,SSP A13 FedRAMP Integrated Inventory Workbook Template,unknown,,,CSV,no,
-SSP-A13-FedRAMP-Integrated-Inventory-Workbook-Template.xlsx,tools-templates,Various,tool-template,SSP A13 FedRAMP Integrated Inventory Workbook Template,unknown,,,XLSX,no,
-STUDY_UsabilityofPassphrases_20120711.pdf,tools-templates,Various,tool-template,STUDY UsabilityofPassphrases 20120711,unknown,,,PDF,no,
-The One Page Linux Manual.pdf,tools-templates,multiple,tool-template,The One Page Linux Manual,2010,linux;cheatsheet;command-reference,,PDF,yes,2026-02-22
-Ticket_Flow_Chart.pdf,tools-templates,AICPA,tool-template,SOC Ticket Flow Chart,2018,soc2;ticket-flow;operations,,PDF,yes,2026-02-22
-TSI_Type_Diagram.pdf,tools-templates,AICPA,tool-template,SOC System Type Diagram,2018,soc2;system-diagram;operations,,PDF,yes,2026-02-22
-VSA Questionnaire 2019 FULL Final.csv,tools-templates,Various,tool-template,VSA Questionnaire 2019 FULL Final,2019,,,CSV,no,
-VSA Questionnaire 2019 FULL Final.xlsx,tools-templates,Various,tool-template,VSA Questionnaire 2019 FULL Final,2019,,,XLSX,no,
-2.15.12_42_CFR_Part_2_Consent_for_release_of_info.pdf,government,HHS/SAMHSA,government,42 CFR Part 2 Consent for Release of Information,2020,cfr42-part2;substance-use-disorder;consent;privacy,https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2,PDF,yes,2026-02-22
-502_Pickles_2.pdf,government,HHS/SAMHSA,government,42 CFR Part 2 Overview Reference,2020,cfr42-part2;substance-use-disorder;privacy,,PDF,yes,2026-02-22
-appendix_d_consent_to_release_of_information_under_title_42f105169472bc604ca5b7ff000030b21a.pdf,government,HHS/SAMHSA,government,42 CFR Part 2 Appendix D - Consent Form,2020,cfr42-part2;substance-use-disorder;consent,,PDF,yes,2026-02-22
-ATA-2018-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2018 Unclassified Report,2018,,,PDF,no,
-ATA-2019-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2019 Unclassified Report,2019,,,PDF,no,
-ATA-2021-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2021 Unclassified Report,2021,,,PDF,no,
-ATA-2022-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2022 Unclassified Report,2022,,,PDF,no,
-ATA-2023-Unclassified-Report.pdf,government,US Intelligence Community,government,ATA 2023 Unclassified Report,2023,,,PDF,no,
-aws-guide-to-nydfs-cybersecurity-regulation.pdf,government,AWS,government,AWS Guide to NYDFS Cybersecurity Regulation,2019,aws;nydfs;cybersecurity-regulation;compliance,,PDF,yes,2026-02-22
-Business_Continuity_Planning_IT_Booklet.pdf,government,FFIEC,government,FFIEC IT Examination Handbook - Business Continuity Planning,2019,ffiec;it-booklet;business-continuity,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-CCPA_GDPR_Chart.pdf,government,multiple,government,CCPA and GDPR Comparison Chart,2020,ccpa;gdpr;privacy;comparison,,PDF,yes,2026-02-22
-Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.pdf,government,CISA,government,Chinese Cyber Activity Targeting Managed Service Providers,unknown,,,PDF,no,
-CISA_Advisories_Feed.md,government,CISA,government,CISA Cybersecurity Advisories (Live Feed),ongoing,"cisa,advisory,ics,malware,vulnerability,joint-advisory",https://www.cisa.gov/news-events/cybersecurity-advisories,LINK,yes,2026-02-22
-CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf,government,CISA,government,CISA Fact Sheet - Rising Ransomware Threat to OT Assets,2021,ransomware;ot;operational-technology;cisa,https://www.cisa.gov/,PDF,yes,2026-02-22
-CISA_KEV.md,government,CISA,government,CISA Known Exploited Vulnerabilities Catalog,ongoing,"cisa,kev,cve,vulnerability,exploited,patch",https://www.cisa.gov/known-exploited-vulnerabilities-catalog,LINK,yes,2026-02-22
-CISA_MS_ISAC_Ransomware_Guide_S508C.pdf,government,CISA,government,CISA MS-ISAC Ransomware Guide,2020,ransomware;incident-response;cisa;ms-isac,https://www.cisa.gov/,PDF,yes,2026-02-22
-CSP_A_FedRAMP_Authorization_Boundary_Guidance.pdf,government,FedRAMP,government,FedRAMP Authorization Boundary Guidance for Cloud Service Providers,2019,fedramp;cloud;authorization;boundary,https://www.fedramp.gov/,PDF,yes,2026-02-22
-faqs_applying_confidentiality_regulations_to_hie.pdf,government,HHS/SAMHSA,government,42 CFR Part 2 FAQs - Confidentiality and Health Information Exchange,2020,cfr42-part2;substance-use-disorder;hie;faq,,PDF,yes,2026-02-22
-FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.pdf,government,FFIEC,government,FFIEC CAT Appendix B - Mapping to NIST CSF,2015,ffiec;cat;nist-csf;mapping,https://www.ffiec.gov/cyberassessmenttool.htm,PDF,yes,2026-02-22
-FFIEC_CAT_App_C_Glossary_June_2015_PDF5.pdf,government,FFIEC,government,FFIEC CAT Appendix C - Glossary,2015,ffiec;cat;glossary,https://www.ffiec.gov/cyberassessmenttool.htm,PDF,yes,2026-02-22
-FFIEC_CAT_CybersecurityMaturity_2017.pdf,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool - Cybersecurity Maturity 2017,2017,ffiec;cat;cybersecurity-maturity;assessment,https://www.ffiec.gov/cyberassessmenttool.htm,PDF,yes,2026-02-22
-FFIEC_CAT_InherentRiskProfile_2017.pdf,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool - Inherent Risk Profile 2017,2017,ffiec;cat;inherent-risk;assessment,https://www.ffiec.gov/cyberassessmenttool.htm,PDF,yes,2026-02-22
-FFIEC_CAT_UserGuide_2017.pdf,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool User Guide 2017,2017,ffiec;cat;user-guide,https://www.ffiec.gov/cyberassessmenttool.htm,PDF,yes,2026-02-22
-ffiec_itbooklet_aio.pdf,government,FFIEC,government,FFIEC IT Examination Handbook All-In-One,2019,ffiec;it-booklet;examination,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-HealthcareSector_CSF_Implementation_Guidance.pdf,government,HHS,government,NIST CSF Healthcare Sector Implementation Guidance,2020,nist-csf;healthcare;implementation-guidance,,PDF,yes,2026-02-22
-HHS_HIPAA_Administrative_Safeguards_Guidance.pdf,government,HHS,government,HHS HIPAA Administrative Safeguards Guidance,2020,hipaa;administrative-safeguards;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_HIPAA_Physical_Safeguards_Guidance.pdf,government,HHS,government,HHS HIPAA Physical Safeguards Guidance,2020,hipaa;physical-safeguards;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_HIPAA_PnP_Requirements.pdf,government,HHS,government,HHS HIPAA Policies and Procedures Requirements,2020,hipaa;policies;procedures;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_HIPAA_PnP_Requirements_Guidance.pdf,government,HHS,government,HHS HIPAA Policies and Procedures Requirements Guidance,2020,hipaa;policies;procedures;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_HIPAA_RiskAssessmentManagement.pdf,government,HHS,government,HHS HIPAA Risk Assessment and Management Guidance,2020,hipaa;risk-assessment;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_HIPAA_Technical_Safeguards_Guidance.pdf,government,HHS,government,HHS HIPAA Technical Safeguards Guidance,2020,hipaa;technical-safeguards;hhs-guidance,https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,PDF,yes,2026-02-22
-HHS_NIST_HIPAA_Crosswalk.pdf,government,HHS,government,HHS NIST CSF and HIPAA Security Rule Crosswalk,2020,nist-csf;hipaa;crosswalk;mapping,,PDF,yes,2026-02-22
-HICP_Cyber_Practices_Large_Healthcare_Organizations_vol2_508.pdf,government,HHS,government,Health Industry Cybersecurity Practices - Vol 2 Large Organizations,2019,hicp;healthcare;cybersecurity-practices,https://www.phe.gov/preparedness/planning/405d/pages/hic-practices.aspx,PDF,yes,2026-02-22
-HICP_resources-templates-508.pdf,government,HHS,government,Health Industry Cybersecurity Practices - Resources and Templates,2019,hicp;healthcare;templates;resources,https://www.phe.gov/preparedness/planning/405d/pages/hic-practices.aspx,PDF,yes,2026-02-22
-HIPAA_CFR_reference_spreadsheet.csv,government,US Government,government,HIPAA CFR reference spreadsheet,unknown,,,CSV,no,
-HIPAA_CFR_reference_spreadsheet.xlsx,government,US Government,government,HIPAA CFR reference spreadsheet,unknown,,,XLSX,no,
-how_do_i_exchange_part2.pdf,government,HHS/SAMHSA,government,42 CFR Part 2 - How to Exchange Part 2 Records,2020,cfr42-part2;substance-use-disorder;hie,,PDF,yes,2026-02-22
-Information_Security_IT_Booklet.pdf,government,FFIEC,government,FFIEC IT Examination Handbook - Information Security,2019,ffiec;it-booklet;information-security,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"nist,nvd,cve,cvss,vulnerability,database",https://nvd.nist.gov/,LINK,yes,2026-02-22
-NSSRP_IT_Sector_Workshop_060921_Final.pdf,government,NSTAC,government,National Security Telecommunications Advisory Committee Ransomware IT Sector Workshop,2021,ransomware;it-sector;government;nstac,,PDF,yes,2026-02-22
-OCR_Audit_Protocol_2018.csv,government,US Government,government,OCR Audit Protocol 2018,2018,,,CSV,no,
-OCR_Audit_Protocol_2018.xlsx,government,US Government,government,OCR Audit Protocol 2018,2018,,,XLSX,no,
-OIG_7elementsforeffectivecompliance.pdf,government,OIG,government,OIG 7 Elements of an Effective Compliance Program,2019,compliance;oig;compliance-program;seven-elements,https://oig.hhs.gov/compliance/compliance-guidance/,PDF,yes,2026-02-22
-Operations_IT_Booklet.pdf,government,FFIEC,government,FFIEC IT Examination Handbook - Operations,2019,ffiec;it-booklet;operations,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-Outsourcing_Technology_Services_IT_Booklet.pdf,government,FFIEC,government,FFIEC IT Examination Handbook - Outsourcing Technology Services,2019,ffiec;it-booklet;outsourcing;third-party,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-PrivacyConfidentialityHealthCare_508.pdf,government,HHS/SAMHSA,government,Privacy and Confidentiality in Health Care - 42 CFR Part 2,2020,cfr42-part2;substance-use-disorder;privacy;confidentiality,,PDF,yes,2026-02-22
-Report_Provider_Alignment_HICP_2019-06-25.pdf,government,HHS,government,Provider Alignment Report - HICP 2019,2019,hicp;healthcare;provider-alignment,,PDF,yes,2026-02-22
-Section_3221_CARES_Summary.pdf,government,HHS/SAMHSA,government,CARES Act Section 3221 Summary - 42 CFR Part 2 Amendments,2020,cfr42-part2;cares-act;substance-use-disorder,,PDF,yes,2026-02-22
-substance_use_disorder_privacy_part_2_idn_workbook_unh_1017.pdf,government,HHS/SAMHSA,government,Substance Use Disorder Privacy Part 2 IDN Workbook,2017,cfr42-part2;substance-use-disorder;idn;workbook,,PDF,yes,2026-02-22
-Supervision_of_Technology_Service_Providers_IT_Booklet.pdf,government,FFIEC,government,FFIEC IT Examination Handbook - Supervision of Technology Service Providers,2019,ffiec;it-booklet;third-party;supervision,https://ithandbook.ffiec.gov/,PDF,yes,2026-02-22
-Transcript-FedRAMP-Overview.pdf,government,FedRAMP,government,FedRAMP Program Overview,2019,fedramp;overview,https://www.fedramp.gov/,PDF,yes,2026-02-22
-USNI_WWTA_2019.pdf,government,US Intelligence Community,government,USNI WWTA 2019,2019,,,PDF,no,
-AICPA_soc-for-cybersecurity-brochure.pdf,frameworks,AICPA,framework,AICPA SOC for Cybersecurity Overview,2018,soc;aicpa;cybersecurity;overview,https://www.aicpa.org/,PDF,yes,2026-02-22
-AWS_CIS_Foundations_Benchmark.pdf,frameworks,CIS,framework,AWS CIS Foundations Benchmark,2019,aws;cis;cloud;benchmark;foundations,https://www.cisecurity.org/benchmark/amazon_web_services,PDF,yes,2026-02-22
-CIS_Controls.md,frameworks,Center for Internet Security,framework,CIS Controls v8,2021,"cis,controls,hardening,safeguards,benchmark",https://www.cisecurity.org/controls,LINK,yes,2026-02-22
-CIS_Controls_7_1_Mapping_to_Implementation_Groups.csv,frameworks,Unknown,framework,CIS Controls 7 1 Mapping to Implementation Groups,unknown,,,CSV,no,
-CIS_Controls_7_1_Mapping_to_Implementation_Groups.xlsx,frameworks,Unknown,framework,CIS Controls 7 1 Mapping to Implementation Groups,unknown,,,XLSX,no,
-CIS_Controls_Cloud_Companion_Guide.pdf,frameworks,CIS,framework,CIS Controls Cloud Companion Guide,2020,cis-controls;cloud;companion-guide,,PDF,yes,2026-02-22
-CIS_Controls_v8_Guide.pdf,frameworks,CIS,framework,CIS Controls v8 Implementation Guide,2021,cis-controls;v8;implementation,https://www.cisecurity.org/controls/cis-controls-list,PDF,yes,2026-02-22
-CIS_Controls_Version_7.pdf,frameworks,CIS,framework,CIS Controls Version 7,2018,cis-controls;v7,https://www.cisecurity.org/controls/cis-controls-list,PDF,yes,2026-02-22
-CIS_Controls_Version_7_1.pdf,frameworks,CIS,framework,CIS Controls Version 7.1,2019,cis-controls;v7.1,https://www.cisecurity.org/controls/cis-controls-list,PDF,yes,2026-02-22
-CIS_Controls_Version_7_cc.csv,frameworks,Unknown,framework,CIS Controls Version 7 cc,unknown,,,CSV,no,
-CIS_Controls_Version_7_cc.xlsx,frameworks,Unknown,framework,CIS Controls Version 7 cc,unknown,,,XLSX,no,
-CIS_Controls_Version_8.csv,frameworks,Unknown,framework,CIS Controls Version 8,unknown,,,CSV,no,
-CIS_Controls_Version_8.xlsx,frameworks,Unknown,framework,CIS Controls Version 8,unknown,,,XLSX,no,
-Cloud+Computing+Compliance+Controls+Catalogue+(C5).pdf,frameworks,BSI,framework,Cloud Computing Compliance Controls Catalogue (C5),2019,cloud;c5;bsi;compliance-controls,,PDF,yes,2026-02-22
-CSF 2.0 Implementation Examples.pdf,frameworks,NIST,framework,NIST CSF 2.0 Implementation Examples,2024,nist-csf;v2.0;implementation-examples,,PDF,yes,2026-02-22
-CSF 2.0-Implementation_Examples.csv,frameworks,Unknown,framework,CSF 2.0 Implementation Examples,unknown,,,CSV,no,
-CSF 2.0-Implementation_Examples.xlsx,frameworks,Unknown,framework,CSF 2.0 Implementation Examples,unknown,,,XLSX,no,
-csf2.csv,frameworks,Unknown,framework,csf2,unknown,,,CSV,no,
-csf2.xlsx,frameworks,Unknown,framework,csf2,unknown,,,XLSX,no,
-Description-Criteria.pdf,frameworks,AICPA,framework,AICPA Trust Service Criteria Description Criteria,2022,aicpa;trust-service-criteria;soc2;description-criteria,https://www.aicpa.org/,PDF,yes,2026-02-22
-HIPAA_master_mapping.csv,frameworks,Unknown,framework,HIPAA master mapping,unknown,,,CSV,no,
-HIPAA_master_mapping.xlsx,frameworks,Unknown,framework,HIPAA master mapping,unknown,,,XLSX,no,
-MITRE_ATTACK.md,frameworks,MITRE,framework,MITRE ATT&CK Framework,ongoing,"mitre,attck,ttp,threat,tactics,techniques,procedures",https://attack.mitre.org/,LINK,yes,2026-02-22
-MITRE_D3FEND.md,frameworks,MITRE,framework,MITRE D3FEND,ongoing,"mitre,d3fend,defense,countermeasures,detection",https://d3fend.mitre.org/,LINK,yes,2026-02-22
-NIST.CSWP.29.pdf,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,nist-csf;v2.0;cybersecurity-framework,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf,PDF,yes,2026-02-22
-NIST.CSWP.32.ipd.pdf,frameworks,NIST,framework,NIST CSF 2.0 Initial Public Draft,2023,nist-csf;v2.0;draft,,PDF,yes,2026-02-22
-NIST.SP.1301.pdf,frameworks,NIST,framework,NIST SP 1301 - CSF 2.0 Small Business Quick Start Guide,2024,nist-csf;v2.0;small-business;quick-start,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1301.pdf,PDF,yes,2026-02-22
-NIST.SP.1302.pdf,frameworks,NIST,framework,NIST SP 1302 - CSF 2.0 Enterprise Risk Management Quick Start Guide,2024,nist-csf;v2.0;enterprise-risk;quick-start,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1302.pdf,PDF,yes,2026-02-22
-NIST.SP.1303.pdf,frameworks,NIST,framework,NIST SP 1303 - CSF 2.0 Getting Started Guide,2024,nist-csf;v2.0;getting-started,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1303.pdf,PDF,yes,2026-02-22
-NIST_CSF.pdf,frameworks,NIST,framework,NIST Cybersecurity Framework v1.1,2018,nist-csf;v1.1;cybersecurity-framework,https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,PDF,yes,2026-02-22
-NIST_CSF_2.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"nist,csf,framework,risk,governance",https://www.nist.gov/cyberframework,LINK,yes,2026-02-22
-NIST_CSF__v1.1_2018-04-16.csv,frameworks,Unknown,framework,NIST CSF  v1.1 2018 04 16,2018,,,CSV,no,
-NIST_CSF__v1.1_2018-04-16.xlsx,frameworks,Unknown,framework,NIST CSF  v1.1 2018 04 16,2018,,,XLSX,no,
-NIST_CSF_to_HIPAA_Mapping.csv,frameworks,Unknown,framework,NIST CSF to HIPAA Mapping,unknown,,,CSV,no,
-NIST_CSF_to_HIPAA_Mapping.xlsx,frameworks,Unknown,framework,NIST CSF to HIPAA Mapping,unknown,,,XLSX,no,
-NIST_OSCAL.md,frameworks,NIST,framework,NIST OSCAL (Open Security Controls Assessment Language),ongoing,"oscal,nist,automation,controls,compliance,json",https://github.com/usnistgov/OSCAL,LINK,yes,2026-02-22
-overview-aws-cloud-adoption-framework.pdf,frameworks,AWS,framework,AWS Cloud Adoption Framework Overview,2020,aws;caf;cloud-adoption;framework,https://aws.amazon.com/cloud-adoption-framework/,PDF,yes,2026-02-22
-PCI_DSS_Summary_of_Changes_3_2_1.pdf,frameworks,PCI SSC,framework,PCI DSS v3.2.1 Summary of Changes,2018,pci-dss;v3.2.1;changes,https://www.pcisecuritystandards.org/document_library/,PDF,yes,2026-02-22
-PCI_DSS_v3_2_1.pdf,frameworks,PCI SSC,framework,PCI DSS v3.2.1,2018,pci-dss;v3.2.1;payment-card,https://www.pcisecuritystandards.org/document_library/,PDF,yes,2026-02-22
-SOC2_Basics.pdf,frameworks,AICPA,framework,SOC 2 Basics Guide,2018,soc2;basics;trust-service-criteria,,PDF,yes,2026-02-22
-SOC_Overview_MSPAlliance_20181218.pdf,frameworks,MSPAlliance,framework,SOC Overview - MSPAlliance 2018,2018,soc;soc2;msp;overview,,PDF,yes,2026-02-22
-TSC_mapping_NIST_CSF.csv,frameworks,Unknown,framework,TSC mapping NIST CSF,unknown,,,CSV,no,
-TSC_mapping_NIST_CSF.xlsx,frameworks,Unknown,framework,TSC mapping NIST CSF,unknown,,,XLSX,no,
-Understanding_SAQs_PCI_DSS_v3.pdf,frameworks,PCI SSC,framework,Understanding PCI DSS Self-Assessment Questionnaires,2018,pci-dss;saq;self-assessment,https://www.pcisecuritystandards.org/document_library/,PDF,yes,2026-02-22
-VSA CORE FINAL 2022.csv,frameworks,Unknown,framework,VSA CORE FINAL 2022,2022,,,CSV,no,
-VSA CORE FINAL 2022.xlsx,frameworks,Unknown,framework,VSA CORE FINAL 2022,2022,,,XLSX,no,
-NIST.SP.800_53r5.pdf,standards,NIST,standard,NIST SP 800-53 Rev 5 - Security and Privacy Controls,2020,nist;sp800-53;security-controls;privacy;r5,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf,PDF,yes,2026-02-22
-NIST_CSF_to_sp800_171_mapping.csv,standards,Unknown,standard,NIST CSF to sp800 171 mapping,unknown,,,CSV,no,
-NIST_CSF_to_sp800_171_mapping.xlsx,standards,Unknown,standard,NIST CSF to sp800 171 mapping,unknown,,,XLSX,no,
-NIST_Implementing_HIPAA_SecurityRule_sp800_66r1.pdf,standards,NIST,standard,NIST SP 800-66 Rev 1 - Implementing the HIPAA Security Rule,2008,nist;hipaa;sp800-66;security-rule,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf,PDF,yes,2026-02-22
-nist_informative_references_privacy_framework_preliminary_draft.pdf,standards,NIST,standard,NIST Privacy Framework Informative References,2019,nist;privacy-framework;informative-references,https://www.nist.gov/privacy-framework,PDF,yes,2026-02-22
-NIST_ITAssetMgmt_sp1800_5.pdf,standards,NIST,standard,NIST SP 1800-5 - IT Asset Management,2018,nist;sp1800-5;asset-management,https://www.nccoe.nist.gov/it-asset-management,PDF,yes,2026-02-22
-NIST_Managing_InfoSec_Risk_sp800-39.pdf,standards,NIST,standard,NIST SP 800-39 - Managing Information Security Risk,2011,nist;sp800-39;risk-management,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf,PDF,yes,2026-02-22
-nist_pf_preliminary_core_excel_09.05.2019xlsx.csv,standards,Unknown,standard,nist pf preliminary core excel 09.05.2019xlsx,2019,,,CSV,no,
-nist_pf_preliminary_core_excel_09.05.2019xlsx.xlsx,standards,Unknown,standard,nist pf preliminary core excel 09.05.2019xlsx,2019,,,XLSX,no,
-nist_privacy_framework_preliminary_draft.pdf,standards,NIST,standard,NIST Privacy Framework Preliminary Draft,2019,nist;privacy-framework;preliminary-draft,https://www.nist.gov/privacy-framework,PDF,yes,2026-02-22
-NIST_Risk_Mgmt_Framework_sp800-37r2.pdf,standards,NIST,standard,NIST SP 800-37 Rev 2 - Risk Management Framework,2018,nist;sp800-37;risk-management-framework;rmf,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf,PDF,yes,2026-02-22
-NIST_sp800-171_Assessment_Methodology_v1.2.1_2020-06-24.pdf,standards,NIST,standard,NIST SP 800-171 Assessment Methodology v1.2.1,2020,nist;sp800-171;assessment-methodology;cui,,PDF,yes,2026-02-22
-NIST_sp800-171A.pdf,standards,NIST,standard,NIST SP 800-171A - Assessing CUI Security Requirements,2018,nist;sp800-171a;cui;assessment,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171A.pdf,PDF,yes,2026-02-22
-NIST_sp800-171r2.pdf,standards,NIST,standard,NIST SP 800-171 Rev 2 - Protecting CUI,2021,nist;sp800-171;cui;r2,https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf,PDF,yes,2026-02-22
-NIST_SP800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 (Security and Privacy Controls),2020,"nist,sp800-53,controls,rmf,federal,fisma",https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final,LINK,yes,2026-02-22
-NIST_sp800_53r5_controls.csv,standards,Unknown,standard,NIST sp800 53r5 controls,unknown,,,CSV,no,
-NIST_sp800_53r5_controls.xlsx,standards,Unknown,standard,NIST sp800 53r5 controls,unknown,,,XLSX,no,
-NIST_SP800_Series.md,standards,NIST,standard,NIST Special Publications 800 Series,ongoing,"nist,sp800,standard,controls,incident-response,cryptography",https://csrc.nist.gov/publications/sp800,LINK,yes,2026-02-22
-NIST_Tech_Guide_to_Security_Assessment_sp800-115.pdf,standards,NIST,standard,NIST SP 800-115 - Technical Guide to Information Security Testing,2008,nist;sp800-115;security-assessment;penetration-testing,https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf,PDF,yes,2026-02-22
+Anthem_20161201.md,breach-reports,Unknown,breach-report,Anthem_20161201,unknown,,,MD,yes,
+Cost-of-Data-Breach-Report-2023.md,breach-reports,Unknown,breach-report,Cost-of-Data-Breach-Report-2023,2023,,,MD,yes,
+CostofDataBreach_2022.md,breach-reports,IBM/Ponemon,breach-report,CostofDataBreach_2022,2022,,,MD,yes,
+Equifax_EX99_StatementofRecord.md,breach-reports,Unknown,breach-report,Equifax_EX99_StatementofRecord,unknown,,,MD,yes,
+Equifax_GAO_ 20180906.md,breach-reports,Unknown,breach-report,Equifax_GAO_ 20180906,unknown,,,MD,yes,
+Equifax_SenateReport_201903.md,breach-reports,Unknown,breach-report,Equifax_SenateReport_201903,unknown,,,MD,yes,
+IBM_Cost-of-a-Data-Breach-Report-2023.md,breach-reports,IBM/Ponemon,breach-report,IBM_Cost-of-a-Data-Breach-Report-2023,2023,,,MD,yes,
+Ponemon_CostofDataBreach_2018.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CostofDataBreach_2018,2018,,,MD,yes,
+Ponemon_CostofDataBreach_2019.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CostofDataBreach_2019,2019,,,MD,yes,
+Ponemon_CostofDataBreach_2020.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CostofDataBreach_2020,2020,,,MD,yes,
+Ponemon_CostofDataBreach_2021.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CostofDataBreach_2021,2021,,,MD,yes,
+Ponemon_CyberResilientOrganizationReport_2019.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CyberResilientOrganizationReport_2019,2019,,,MD,yes,
+Ponemon_CyberResilientOrganizationReport_2020.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_CyberResilientOrganizationReport_2020,2020,,,MD,yes,
+Ponemon_StateofEndpointSecurity_2020.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_StateofEndpointSecurity_2020,2020,,,MD,yes,
+Ponemon_StateofSMBCybersecurity_2017.md,breach-reports,IBM/Ponemon,breach-report,Ponemon_StateofSMBCybersecurity_2017,2017,,,MD,yes,
+Verizon_DBIR_2015.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2015,2015,,,MD,yes,
+Verizon_DBIR_2016.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2016,2016,,,MD,yes,
+Verizon_DBIR_2017.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2017,2017,,,MD,yes,
+Verizon_DBIR_2018.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2018,2018,,,MD,yes,
+Verizon_DBIR_2019.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2019,2019,,,MD,yes,
+Verizon_DBIR_2019_ExecBrief.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2019_ExecBrief,2019,,,MD,yes,
+Verizon_DBIR_2020.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2020,2020,,,MD,yes,
+Verizon_DBIR_2020_ExecutiveBrief.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2020_ExecutiveBrief,2020,,,MD,yes,
+Verizon_DBIR_2021.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2021,2021,,,MD,yes,
+Verizon_DBIR_2022.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2022,2022,,,MD,yes,
+Verizon_DBIR_2023.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2023,2023,,,MD,yes,
+Verizon_DBIR_2024_data-breach-investigations-report.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2024_data-breach-investigations-report,2024,,,MD,yes,
+Verizon_DBIR_2024_executive-summary.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2024_executive-summary,2024,,,MD,yes,
+Verizon_DBIR_2024_infographic.md,breach-reports,Verizon,breach-report,Verizon_DBIR_2024_infographic,2024,,,MD,yes,
+AICPA_soc-for-cybersecurity-brochure.md,frameworks,AICPA,framework,AICPA SOC for Cybersecurity Overview,2018,"[""soc;aicpa;cybersecurity;overview""]",https://www.aicpa.org/,MD,yes,2026-02-22
+Description-Criteria.md,frameworks,AICPA,framework,AICPA Trust Service Criteria Description Criteria,2022,"[""aicpa;trust-service-criteria;soc2;description-criteria""]",https://www.aicpa.org/,MD,yes,2026-02-22
+AWS_CIS_Foundations_Benchmark.md,frameworks,CIS,framework,AWS CIS Foundations Benchmark,2019,"[""aws;cis;cloud;benchmark;foundations""]",https://www.cisecurity.org/benchmark/amazon_web_services,MD,yes,2026-02-22
+overview-aws-cloud-adoption-framework.md,frameworks,AWS,framework,AWS Cloud Adoption Framework Overview,2020,"[""aws;caf;cloud-adoption;framework""]",https://aws.amazon.com/cloud-adoption-framework/,MD,yes,2026-02-22
+CIS_Controls_7_1_Mapping_to_Implementation_Groups.csv,frameworks,Unknown,framework,CIS Controls 7 1 Mapping to Implementation Groups,unknown,,,CSV,yes,
+CIS_Controls_Cloud_Companion_Guide.md,frameworks,CIS,framework,CIS Controls Cloud Companion Guide,2020,"[""cis-controls;cloud;companion-guide""]",,MD,yes,2026-02-22
+CIS_Controls.md,frameworks,Center for Internet Security,framework,CIS Controls v8,2021,"[""cis"", ""controls"", ""hardening"", ""safeguards"", ""benchmark""]",https://www.cisecurity.org/controls,MD,yes,2026-02-22
+CIS_Controls_v8_Guide.md,frameworks,CIS,framework,CIS Controls v8 Implementation Guide,2021,"[""cis-controls;v8;implementation""]",https://www.cisecurity.org/controls/cis-controls-list,MD,yes,2026-02-22
+CIS_Controls_Version_7.md,frameworks,CIS,framework,CIS Controls Version 7,2018,"[""cis-controls;v7""]",https://www.cisecurity.org/controls/cis-controls-list,MD,yes,2026-02-22
+CIS_Controls_Version_7_cc.csv,frameworks,Unknown,framework,CIS Controls Version 7 cc,unknown,,,CSV,yes,
+CIS_Controls_Version_7_1.md,frameworks,CIS,framework,CIS Controls Version 7.1,2019,"[""cis-controls;v7.1""]",https://www.cisecurity.org/controls/cis-controls-list,MD,yes,2026-02-22
+CIS_Controls_Version_8.csv,frameworks,Unknown,framework,CIS Controls Version 8,unknown,,,CSV,yes,
+CIS_Controls_7_1_Mapping_to_Implementation_Groups.md,frameworks,Unknown,framework,CIS_Controls_7_1_Mapping_to_Implementation_Groups,unknown,,,MD,yes,
+CIS_Controls_Version_7_cc.md,frameworks,Unknown,framework,CIS_Controls_Version_7_cc,unknown,,,MD,yes,
+CIS_Controls_Version_8.md,frameworks,Unknown,framework,CIS_Controls_Version_8,unknown,,,MD,yes,
+Cloud+Computing+Compliance+Controls+Catalogue+(C5).md,frameworks,BSI,framework,Cloud Computing Compliance Controls Catalogue (C5),2019,"[""cloud;c5;bsi;compliance-controls""]",,MD,yes,2026-02-22
+CSF 2.0-Implementation_Examples.csv,frameworks,Unknown,framework,CSF 2.0 Implementation Examples,unknown,,,CSV,yes,
+CSF 2.0-Implementation_Examples.md,frameworks,Unknown,framework,CSF 2.0-Implementation_Examples,unknown,,,MD,yes,
+csf2.csv,frameworks,Unknown,framework,csf2,unknown,,,CSV,yes,
+csf2.md,frameworks,Unknown,framework,csf2,unknown,,,MD,yes,
+HIPAA_master_mapping.csv,frameworks,Unknown,framework,HIPAA master mapping,unknown,,,CSV,yes,
+HIPAA_master_mapping.md,frameworks,Unknown,framework,HIPAA_master_mapping,unknown,,,MD,yes,
+MITRE_ATTACK.md,frameworks,MITRE,framework,MITRE ATT&CK Framework,ongoing,"[""mitre"", ""attck"", ""ttp"", ""threat"", ""tactics"", ""techniques"", ""procedures""]",https://attack.mitre.org/,MD,yes,2026-02-22
+MITRE_D3FEND.md,frameworks,MITRE,framework,MITRE D3FEND,ongoing,"[""mitre"", ""d3fend"", ""defense"", ""countermeasures"", ""detection""]",https://d3fend.mitre.org/,MD,yes,2026-02-22
+NIST_CSF__v1.1_2018-04-16.csv,frameworks,NIST,framework,NIST CSF  v1.1 2018 04 16,2018,,,CSV,yes,
+CSF 2.0 Implementation Examples.md,frameworks,NIST,framework,NIST CSF 2.0 Implementation Examples,2024,"[""nist-csf;v2.0;implementation-examples""]",,MD,yes,2026-02-22
+NIST.CSWP.32.ipd.md,frameworks,NIST,framework,NIST CSF 2.0 Initial Public Draft,2023,"[""nist-csf;v2.0;draft""]",,MD,yes,2026-02-22
+NIST_CSF_to_HIPAA_Mapping.csv,frameworks,NIST,framework,NIST CSF to HIPAA Mapping,unknown,,,CSV,yes,
+NIST.CSWP.29.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"[""nist-csf;v2.0;cybersecurity-framework""]",https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf,MD,yes,2026-02-22
+NIST_CSF_2.md,frameworks,NIST,framework,NIST Cybersecurity Framework 2.0,2024,"[""nist"", ""csf"", ""framework"", ""risk"", ""governance""]",https://www.nist.gov/cyberframework,MD,yes,2026-02-22
+NIST_CSF.md,frameworks,NIST,framework,NIST Cybersecurity Framework v1.1,2018,"[""nist-csf;v1.1;cybersecurity-framework""]",https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf,MD,yes,2026-02-22
+NIST_OSCAL.md,frameworks,NIST,framework,NIST OSCAL (Open Security Controls Assessment Language),ongoing,"[""oscal"", ""nist"", ""automation"", ""controls"", ""compliance"", ""json""]",https://github.com/usnistgov/OSCAL,MD,yes,2026-02-22
+NIST.SP.1301.md,frameworks,NIST,framework,NIST SP 1301 - CSF 2.0 Small Business Quick Start Guide,2024,"[""nist-csf;v2.0;small-business;quick-start""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1301.pdf,MD,yes,2026-02-22
+NIST.SP.1302.md,frameworks,NIST,framework,NIST SP 1302 - CSF 2.0 Enterprise Risk Management Quick Start Guide,2024,"[""nist-csf;v2.0;enterprise-risk;quick-start""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1302.pdf,MD,yes,2026-02-22
+NIST.SP.1303.md,frameworks,NIST,framework,NIST SP 1303 - CSF 2.0 Getting Started Guide,2024,"[""nist-csf;v2.0;getting-started""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1303.pdf,MD,yes,2026-02-22
+NIST_CSF__v1.1_2018-04-16.md,frameworks,NIST,framework,NIST_CSF__v1.1_2018-04-16,2018,,,MD,yes,
+NIST_CSF_to_HIPAA_Mapping.md,frameworks,NIST,framework,NIST_CSF_to_HIPAA_Mapping,unknown,,,MD,yes,
+OPA_Open_Policy_Agent.md,frameworks,Open Policy Agent / CNCF,framework,Open Policy Agent (OPA),ongoing,"[""opa"", ""rego"", ""policy-as-code"", ""authorization"", ""compliance"", ""kubernetes"", ""admission""]",https://github.com/open-policy-agent/opa,MD,yes,2026-02-22
+PCI_DSS_v3_2_1.md,frameworks,PCI SSC,framework,PCI DSS v3.2.1,2018,"[""pci-dss;v3.2.1;payment-card""]",https://www.pcisecuritystandards.org/document_library/,MD,yes,2026-02-22
+PCI_DSS_Summary_of_Changes_3_2_1.md,frameworks,PCI SSC,framework,PCI DSS v3.2.1 Summary of Changes,2018,"[""pci-dss;v3.2.1;changes""]",https://www.pcisecuritystandards.org/document_library/,MD,yes,2026-02-22
+SOC2_Basics.md,frameworks,AICPA,framework,SOC 2 Basics Guide,2018,"[""soc2;basics;trust-service-criteria""]",,MD,yes,2026-02-22
+SOC_Overview_MSPAlliance_20181218.md,frameworks,MSPAlliance,framework,SOC Overview - MSPAlliance 2018,2018,"[""soc;soc2;msp;overview""]",,MD,yes,2026-02-22
+TSC_mapping_NIST_CSF.csv,frameworks,NIST,framework,TSC mapping NIST CSF,unknown,,,CSV,yes,
+TSC_mapping_NIST_CSF.md,frameworks,NIST,framework,TSC_mapping_NIST_CSF,unknown,,,MD,yes,
+Understanding_SAQs_PCI_DSS_v3.md,frameworks,PCI SSC,framework,Understanding PCI DSS Self-Assessment Questionnaires,2018,"[""pci-dss;saq;self-assessment""]",https://www.pcisecuritystandards.org/document_library/,MD,yes,2026-02-22
+VSA CORE FINAL 2022.csv,frameworks,Unknown,framework,VSA CORE FINAL 2022,2022,,,CSV,yes,
+VSA CORE FINAL 2022.md,frameworks,Unknown,framework,VSA CORE FINAL 2022,2022,,,MD,yes,
+how_do_i_exchange_part2.md,government,HHS/SAMHSA,government,42 CFR Part 2 - How to Exchange Part 2 Records,2020,"[""cfr42-part2;substance-use-disorder;hie""]",,MD,yes,2026-02-22
+appendix_d_consent_to_release_of_information_under_title_42f105169472bc604ca5b7ff000030b21a.md,government,HHS/SAMHSA,government,42 CFR Part 2 Appendix D - Consent Form,2020,"[""cfr42-part2;substance-use-disorder;consent""]",,MD,yes,2026-02-22
+2.15.12_42_CFR_Part_2_Consent_for_release_of_info.md,government,HHS/SAMHSA,government,42 CFR Part 2 Consent for Release of Information,2020,"[""cfr42-part2;substance-use-disorder;consent;privacy""]",https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2,MD,yes,2026-02-22
+faqs_applying_confidentiality_regulations_to_hie.md,government,HHS/SAMHSA,government,42 CFR Part 2 FAQs - Confidentiality and Health Information Exchange,2020,"[""cfr42-part2;substance-use-disorder;hie;faq""]",,MD,yes,2026-02-22
+502_Pickles_2.md,government,HHS/SAMHSA,government,42 CFR Part 2 Overview Reference,2020,"[""cfr42-part2;substance-use-disorder;privacy""]",,MD,yes,2026-02-22
+ATA-2018-Unclassified-Report.md,government,US Intelligence Community,government,ATA-2018-Unclassified-Report,2018,,,MD,yes,
+ATA-2019-Unclassified-Report.md,government,US Intelligence Community,government,ATA-2019-Unclassified-Report,2019,,,MD,yes,
+ATA-2021-Unclassified-Report.md,government,US Intelligence Community,government,ATA-2021-Unclassified-Report,2021,,,MD,yes,
+ATA-2022-Unclassified-Report.md,government,US Intelligence Community,government,ATA-2022-Unclassified-Report,2022,,,MD,yes,
+ATA-2023-Unclassified-Report.md,government,US Intelligence Community,government,ATA-2023-Unclassified-Report,2023,,,MD,yes,
+aws-guide-to-nydfs-cybersecurity-regulation.md,government,AWS,government,AWS Guide to NYDFS Cybersecurity Regulation,2019,"[""aws;nydfs;cybersecurity-regulation;compliance""]",,MD,yes,2026-02-22
+Section_3221_CARES_Summary.md,government,HHS/SAMHSA,government,CARES Act Section 3221 Summary - 42 CFR Part 2 Amendments,2020,"[""cfr42-part2;cares-act;substance-use-disorder""]",,MD,yes,2026-02-22
+CCPA_GDPR_Chart.md,government,multiple,government,CCPA and GDPR Comparison Chart,2020,"[""ccpa;gdpr;privacy;comparison""]",,MD,yes,2026-02-22
+Chinese-Cyber-Activity-Targeting-Managed-Service-Providers.md,government,US Government,government,Chinese-Cyber-Activity-Targeting-Managed-Service-Providers,unknown,,,MD,yes,
+CISA_Advisories_Feed.md,government,CISA,government,CISA Cybersecurity Advisories (Live Feed),ongoing,"[""cisa"", ""advisory"", ""ics"", ""malware"", ""vulnerability"", ""joint-advisory""]",https://www.cisa.gov/news-events/cybersecurity-advisories,MD,yes,2026-02-22
+CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.md,government,CISA,government,CISA Fact Sheet - Rising Ransomware Threat to OT Assets,2021,"[""ransomware;ot;operational-technology;cisa""]",https://www.cisa.gov/,MD,yes,2026-02-22
+CISA_KEV.md,government,CISA,government,CISA Known Exploited Vulnerabilities Catalog,ongoing,"[""cisa"", ""kev"", ""cve"", ""vulnerability"", ""exploited"", ""patch""]",https://www.cisa.gov/known-exploited-vulnerabilities-catalog,MD,yes,2026-02-22
+CISA_MS_ISAC_Ransomware_Guide_S508C.md,government,CISA,government,CISA MS-ISAC Ransomware Guide,2020,"[""ransomware;incident-response;cisa;ms-isac""]",https://www.cisa.gov/,MD,yes,2026-02-22
+CSP_A_FedRAMP_Authorization_Boundary_Guidance.md,government,FedRAMP,government,FedRAMP Authorization Boundary Guidance for Cloud Service Providers,2019,"[""fedramp;cloud;authorization;boundary""]",https://www.fedramp.gov/,MD,yes,2026-02-22
+Transcript-FedRAMP-Overview.md,government,FedRAMP,government,FedRAMP Program Overview,2019,"[""fedramp;overview""]",https://www.fedramp.gov/,MD,yes,2026-02-22
+FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.md,government,FFIEC,government,FFIEC CAT Appendix B - Mapping to NIST CSF,2015,"[""ffiec;cat;nist-csf;mapping""]",https://www.ffiec.gov/cyberassessmenttool.htm,MD,yes,2026-02-22
+FFIEC_CAT_App_C_Glossary_June_2015_PDF5.md,government,FFIEC,government,FFIEC CAT Appendix C - Glossary,2015,"[""ffiec;cat;glossary""]",https://www.ffiec.gov/cyberassessmenttool.htm,MD,yes,2026-02-22
+FFIEC_CAT_CybersecurityMaturity_2017.md,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool - Cybersecurity Maturity 2017,2017,"[""ffiec;cat;cybersecurity-maturity;assessment""]",https://www.ffiec.gov/cyberassessmenttool.htm,MD,yes,2026-02-22
+FFIEC_CAT_InherentRiskProfile_2017.md,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool - Inherent Risk Profile 2017,2017,"[""ffiec;cat;inherent-risk;assessment""]",https://www.ffiec.gov/cyberassessmenttool.htm,MD,yes,2026-02-22
+FFIEC_CAT_UserGuide_2017.md,government,FFIEC,government,FFIEC Cybersecurity Assessment Tool User Guide 2017,2017,"[""ffiec;cat;user-guide""]",https://www.ffiec.gov/cyberassessmenttool.htm,MD,yes,2026-02-22
+Business_Continuity_Planning_IT_Booklet.md,government,FFIEC,government,FFIEC IT Examination Handbook - Business Continuity Planning,2019,"[""ffiec;it-booklet;business-continuity""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+Information_Security_IT_Booklet.md,government,FFIEC,government,FFIEC IT Examination Handbook - Information Security,2019,"[""ffiec;it-booklet;information-security""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+Operations_IT_Booklet.md,government,FFIEC,government,FFIEC IT Examination Handbook - Operations,2019,"[""ffiec;it-booklet;operations""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+Outsourcing_Technology_Services_IT_Booklet.md,government,FFIEC,government,FFIEC IT Examination Handbook - Outsourcing Technology Services,2019,"[""ffiec;it-booklet;outsourcing;third-party""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+Supervision_of_Technology_Service_Providers_IT_Booklet.md,government,FFIEC,government,FFIEC IT Examination Handbook - Supervision of Technology Service Providers,2019,"[""ffiec;it-booklet;third-party;supervision""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+ffiec_itbooklet_aio.md,government,FFIEC,government,FFIEC IT Examination Handbook All-In-One,2019,"[""ffiec;it-booklet;examination""]",https://ithandbook.ffiec.gov/,MD,yes,2026-02-22
+HICP_resources-templates-508.md,government,HHS,government,Health Industry Cybersecurity Practices - Resources and Templates,2019,"[""hicp;healthcare;templates;resources""]",https://www.phe.gov/preparedness/planning/405d/pages/hic-practices.aspx,MD,yes,2026-02-22
+HICP_Cyber_Practices_Large_Healthcare_Organizations_vol2_508.md,government,HHS,government,Health Industry Cybersecurity Practices - Vol 2 Large Organizations,2019,"[""hicp;healthcare;cybersecurity-practices""]",https://www.phe.gov/preparedness/planning/405d/pages/hic-practices.aspx,MD,yes,2026-02-22
+HHS_HIPAA_Administrative_Safeguards_Guidance.md,government,HHS,government,HHS HIPAA Administrative Safeguards Guidance,2020,"[""hipaa;administrative-safeguards;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_HIPAA_Physical_Safeguards_Guidance.md,government,HHS,government,HHS HIPAA Physical Safeguards Guidance,2020,"[""hipaa;physical-safeguards;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_HIPAA_PnP_Requirements.md,government,HHS,government,HHS HIPAA Policies and Procedures Requirements,2020,"[""hipaa;policies;procedures;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_HIPAA_PnP_Requirements_Guidance.md,government,HHS,government,HHS HIPAA Policies and Procedures Requirements Guidance,2020,"[""hipaa;policies;procedures;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_HIPAA_RiskAssessmentManagement.md,government,HHS,government,HHS HIPAA Risk Assessment and Management Guidance,2020,"[""hipaa;risk-assessment;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_HIPAA_Technical_Safeguards_Guidance.md,government,HHS,government,HHS HIPAA Technical Safeguards Guidance,2020,"[""hipaa;technical-safeguards;hhs-guidance""]",https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html,MD,yes,2026-02-22
+HHS_NIST_HIPAA_Crosswalk.md,government,HHS,government,HHS NIST CSF and HIPAA Security Rule Crosswalk,2020,"[""nist-csf;hipaa;crosswalk;mapping""]",,MD,yes,2026-02-22
+HIPAA_CFR_reference_spreadsheet.csv,government,US Government,government,HIPAA CFR reference spreadsheet,unknown,,,CSV,yes,
+HIPAA_CFR_list.md,government,US Government,government,HIPAA_CFR_list,unknown,,,MD,yes,
+HIPAA_CFR_reference.md,government,US Government,government,HIPAA_CFR_reference,unknown,,,MD,yes,
+HIPAA_CFR_reference_spreadsheet.md,government,US Government,government,HIPAA_CFR_reference_spreadsheet,unknown,,,MD,yes,
+NSSRP_IT_Sector_Workshop_060921_Final.md,government,NSTAC,government,National Security Telecommunications Advisory Committee Ransomware IT Sector Workshop,2021,"[""ransomware;it-sector;government;nstac""]",,MD,yes,2026-02-22
+HealthcareSector_CSF_Implementation_Guidance.md,government,HHS,government,NIST CSF Healthcare Sector Implementation Guidance,2020,"[""nist-csf;healthcare;implementation-guidance""]",,MD,yes,2026-02-22
+NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"[""nist"", ""nvd"", ""cve"", ""cvss"", ""vulnerability"", ""database""]",https://nvd.nist.gov/,MD,yes,2026-02-22
+OCR_Audit_Protocol_2018.csv,government,US Government,government,OCR Audit Protocol 2018,2018,,,CSV,yes,
+OCR_Audit_Protocol_2018.md,government,US Government,government,OCR_Audit_Protocol_2018,2018,,,MD,yes,
+OIG_7elementsforeffectivecompliance.md,government,OIG,government,OIG 7 Elements of an Effective Compliance Program,2019,"[""compliance;oig;compliance-program;seven-elements""]",https://oig.hhs.gov/compliance/compliance-guidance/,MD,yes,2026-02-22
+PrivacyConfidentialityHealthCare_508.md,government,HHS/SAMHSA,government,Privacy and Confidentiality in Health Care - 42 CFR Part 2,2020,"[""cfr42-part2;substance-use-disorder;privacy;confidentiality""]",,MD,yes,2026-02-22
+Report_Provider_Alignment_HICP_2019-06-25.md,government,HHS,government,Provider Alignment Report - HICP 2019,2019,"[""hicp;healthcare;provider-alignment""]",,MD,yes,2026-02-22
+substance_use_disorder_privacy_part_2_idn_workbook_unh_1017.md,government,HHS/SAMHSA,government,Substance Use Disorder Privacy Part 2 IDN Workbook,2017,"[""cfr42-part2;substance-use-disorder;idn;workbook""]",,MD,yes,2026-02-22
+USNI_WWTA_2019.md,government,US Intelligence Community,government,USNI_WWTA_2019,2019,,,MD,yes,
+Do_No_Harm_2.0_2019-10-16_144807_NhxCEwn.md,research,Future of Privacy Forum,research,Do No Harm 2.0 - Data Practices and Vulnerable People,2019,"[""privacy;data-ethics;health-data;research""]",,MD,yes,2026-02-22
+ENISA_Threat_Landscape.md,research,ENISA,research,ENISA Threat Landscape Report (Annual),ongoing,"[""enisa"", ""europe"", ""threat-landscape"", ""annual"", ""ransomware"", ""supply-chain""]",https://www.enisa.europa.eu/topics/cyber-threats/enisa-threat-landscape,MD,yes,2026-02-22
+Illustrative-Cybersercurity-risk-management-report.md,research,AICPA,research,Illustrative Cybersecurity Risk Management Report,2020,"[""risk-management;cybersecurity;aicpa;illustrative""]",,MD,yes,2026-02-22
+Introduction to the FAIR Controls Analytics Model (FAIR-CAM™)_.md,research,FAIR Institute,research,Introduction to the FAIR Controls Analytics Model (FAIR-CAM),2021,"[""fair;fair-cam;controls-analytics;risk-quantification""]",https://www.fairinstitute.org/,MD,yes,2026-02-22
+Minimum_Viable_Information_Risk_Management_Program.md,research,multiple,research,Minimum Viable Information Risk Management Program,2019,"[""risk-management;information-risk;minimum-viable""]",,MD,yes,2026-02-22
+Ransomware_History.md,research,multiple,research,Ransomware History and Evolution,2020,"[""ransomware;history;evolution;threat-intel""]",,MD,yes,2026-02-22
+WEF_Cybersecurity_Outlook.md,research,World Economic Forum,research,WEF Global Cybersecurity Outlook (Annual),ongoing,"[""wef"", ""cyber-resilience"", ""risk"", ""executive"", ""annual""]",https://www.weforum.org/topics/cybersecurity/,MD,yes,2026-02-22
+WEF_Global_Risks_Report_2019.md,research,World Economic Forum,research,WEF_Global_Risks_Report_2019,2019,,,MD,yes,
+WEF_The_Global_Risks_Report_2021.md,research,World Economic Forum,research,WEF_The_Global_Risks_Report_2021,2021,,,MD,yes,
+WEF_The_Global_Risks_Report_2024.md,research,World Economic Forum,research,WEF_The_Global_Risks_Report_2024,2024,,,MD,yes,
+WEIS_2019_paper_53.md,research,WEIS,research,WEIS 2019 - Vulnerability Management Economics Paper,2019,"[""vulnerability-management;economics;research;weis""]",,MD,yes,2026-02-22
+Wiz_Security_Research.md,research,Wiz,research,Wiz Security Research,ongoing,"[""wiz"", ""cloud"", ""cve"", ""research"", ""kubernetes"", ""aws"", ""azure"", ""gcp"", ""container""]",https://github.com/wiz-sec,MD,yes,2026-02-22
+CycloneDX_Specification.md,standards,OWASP / CycloneDX,standard,CycloneDX SBOM Specification,ongoing,"[""sbom"", ""cyclonedx"", ""supply-chain"", ""owasp"", ""bom"", ""vulnerability"", ""vex""]",https://github.com/CycloneDX/specification,MD,yes,2026-02-22
+NIST_CSF_to_sp800_171_mapping.csv,standards,NIST,standard,NIST CSF to sp800 171 mapping,unknown,,,CSV,yes,
+NIST_macOS_Security.md,standards,NIST,standard,NIST macOS Security Compliance Project,ongoing,"[""nist"", ""macos"", ""baseline"", ""800-53"", ""cis"", ""cmmc"", ""compliance"", ""hardening""]",https://github.com/usnistgov/macos_security,MD,yes,2026-02-22
+NIST_OSCAL_Content.md,standards,NIST,standard,NIST OSCAL Content Library (800-53 Controls in JSON/YAML),ongoing,"[""oscal"", ""nist"", ""800-53"", ""controls"", ""json"", ""yaml"", ""machine-readable""]",https://github.com/usnistgov/oscal-content,MD,yes,2026-02-22
+nist_pf_preliminary_core_excel_09.05.2019xlsx.csv,standards,NIST,standard,nist pf preliminary core excel 09.05.2019xlsx,2019,,,CSV,yes,
+nist_informative_references_privacy_framework_preliminary_draft.md,standards,NIST,standard,NIST Privacy Framework Informative References,2019,"[""nist;privacy-framework;informative-references""]",https://www.nist.gov/privacy-framework,MD,yes,2026-02-22
+nist_privacy_framework_preliminary_draft.md,standards,NIST,standard,NIST Privacy Framework Preliminary Draft,2019,"[""nist;privacy-framework;preliminary-draft""]",https://www.nist.gov/privacy-framework,MD,yes,2026-02-22
+NIST_ITAssetMgmt_sp1800_5.md,standards,NIST,standard,NIST SP 1800-5 - IT Asset Management,2018,"[""nist;sp1800-5;asset-management""]",https://www.nccoe.nist.gov/it-asset-management,MD,yes,2026-02-22
+NIST_Tech_Guide_to_Security_Assessment_sp800-115.md,standards,NIST,standard,NIST SP 800-115 - Technical Guide to Information Security Testing,2008,"[""nist;sp800-115;security-assessment;penetration-testing""]",https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf,MD,yes,2026-02-22
+NIST_sp800-171_Assessment_Methodology_v1.2.1_2020-06-24.md,standards,NIST,standard,NIST SP 800-171 Assessment Methodology v1.2.1,2020,"[""nist;sp800-171;assessment-methodology;cui""]",,MD,yes,2026-02-22
+NIST_sp800-171r2.md,standards,NIST,standard,NIST SP 800-171 Rev 2 - Protecting CUI,2021,"[""nist;sp800-171;cui;r2""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171r2.pdf,MD,yes,2026-02-22
+NIST_sp800-171A.md,standards,NIST,standard,NIST SP 800-171A - Assessing CUI Security Requirements,2018,"[""nist;sp800-171a;cui;assessment""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171A.pdf,MD,yes,2026-02-22
+NIST_Risk_Mgmt_Framework_sp800-37r2.md,standards,NIST,standard,NIST SP 800-37 Rev 2 - Risk Management Framework,2018,"[""nist;sp800-37;risk-management-framework;rmf""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf,MD,yes,2026-02-22
+NIST_Managing_InfoSec_Risk_sp800-39.md,standards,NIST,standard,NIST SP 800-39 - Managing Information Security Risk,2011,"[""nist;sp800-39;risk-management""]",https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf,MD,yes,2026-02-22
+NIST_SP800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 (Security and Privacy Controls),2020,"[""nist"", ""sp800-53"", ""controls"", ""rmf"", ""federal"", ""fisma""]",https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final,MD,yes,2026-02-22
+NIST.SP.800_53r5.md,standards,NIST,standard,NIST SP 800-53 Rev 5 - Security and Privacy Controls,2020,"[""nist;sp800-53;security-controls;privacy;r5""]",https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf,MD,yes,2026-02-22
+NIST_Implementing_HIPAA_SecurityRule_sp800_66r1.md,standards,NIST,standard,NIST SP 800-66 Rev 1 - Implementing the HIPAA Security Rule,2008,"[""nist;hipaa;sp800-66;security-rule""]",https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-66r1.pdf,MD,yes,2026-02-22
+NIST_sp800_53r5_controls.csv,standards,NIST,standard,NIST sp800 53r5 controls,unknown,,,CSV,yes,
+NIST_SP800_Series.md,standards,NIST,standard,NIST Special Publications 800 Series,ongoing,"[""nist"", ""sp800"", ""standard"", ""controls"", ""incident-response"", ""cryptography""]",https://csrc.nist.gov/publications/sp800,MD,yes,2026-02-22
+NIST_CSF_to_sp800_171_mapping.md,standards,NIST,standard,NIST_CSF_to_sp800_171_mapping,unknown,,,MD,yes,
+nist_pf_preliminary_core_excel_09.05.2019xlsx.md,standards,NIST,standard,nist_pf_preliminary_core_excel_09.05.2019xlsx,2019,,,MD,yes,
+NIST_sp800_53r5_controls.md,standards,NIST,standard,NIST_sp800_53r5_controls,unknown,,,MD,yes,
+SPDX_Specification.md,standards,Linux Foundation / SPDX,standard,SPDX SBOM Specification,ongoing,"[""sbom"", ""spdx"", ""supply-chain"", ""license"", ""software-composition"", ""iso""]",https://github.com/spdx/spdx-spec,MD,yes,2026-02-22
+2019_Webroot_Threat_Report_US_Online.md,threat-intel,Webroot,threat-intel,2019_Webroot_Threat_Report_US_Online,2019,,,MD,yes,
+Accenture_CyberSecurityConundrum_2016.md,threat-intel,Accenture,threat-intel,Accenture_CyberSecurityConundrum_2016,2016,,,MD,yes,
+Accenture_CyberThreatscape_2017.md,threat-intel,Accenture,threat-intel,Accenture_CyberThreatscape_2017,2017,,,MD,yes,
+Accenture_CyberThreatscape_2018.md,threat-intel,Accenture,threat-intel,Accenture_CyberThreatscape_2018,2018,,,MD,yes,
+Accenture_CyberThreatscape_ExecSummary_2017.md,threat-intel,Accenture,threat-intel,Accenture_CyberThreatscape_ExecSummary_2017,2017,,,MD,yes,
+Accenture_RebootingPublicSectorCyberSecurity_2016.md,threat-intel,Accenture,threat-intel,Accenture_RebootingPublicSectorCyberSecurity_2016,2016,,,MD,yes,
+Cisco_AnnualCyberSecurityReport_201802.md,threat-intel,Cisco,threat-intel,Cisco_AnnualCyberSecurityReport_201802,unknown,,,MD,yes,
+Cisco_SpecialReport_SMB_Cybersecurity_201807.md,threat-intel,Cisco,threat-intel,Cisco_SpecialReport_SMB_Cybersecurity_201807,unknown,,,MD,yes,
+Coveware_RansomewareReport_2022Q2.md,threat-intel,Coveware,threat-intel,Coveware_RansomewareReport_2022Q2,2022,,,MD,yes,
+Coveware_RansomwareReport_2020Q3.md,threat-intel,Coveware,threat-intel,Coveware_RansomwareReport_2020Q3,2020,,,MD,yes,
+Coveware_RansomwareReport_2020Q4.md,threat-intel,Coveware,threat-intel,Coveware_RansomwareReport_2020Q4,2020,,,MD,yes,
+pfpt-us-tr-data-loss-landscape-report-2024.md,threat-intel,Proofpoint,threat-intel,pfpt-us-tr-data-loss-landscape-report-2024,2024,,,MD,yes,
+pfpt-us-tr-state-of-the-phish-2024.md,threat-intel,Proofpoint,threat-intel,pfpt-us-tr-state-of-the-phish-2024,2024,,,MD,yes,
+Proofpoint_HumanFactor_2018.md,threat-intel,Proofpoint,threat-intel,Proofpoint_HumanFactor_2018,2018,,,MD,yes,
+Proofpoint_QuarterlyThreatReport_Q1_2018.md,threat-intel,Proofpoint,threat-intel,Proofpoint_QuarterlyThreatReport_Q1_2018,2018,,,MD,yes,
+Proofpoint_QuarterlyThreatReport_Q2_2018.md,threat-intel,Proofpoint,threat-intel,Proofpoint_QuarterlyThreatReport_Q2_2018,2018,,,MD,yes,
+Proofpoint_QuarterlyThreatReport_Q3_2018.md,threat-intel,Proofpoint,threat-intel,Proofpoint_QuarterlyThreatReport_Q3_2018,2018,,,MD,yes,
+SSC-2018Healthcare-Report-c06.md,threat-intel,SecurityScorecard,threat-intel,SSC-2018Healthcare-Report-c06,2018,,,MD,yes,
+SSC-2019-Healthcare-Report.md,threat-intel,SecurityScorecard,threat-intel,SSC-2019-Healthcare-Report,2019,,,MD,yes,
+Symantec_ISTR20_2015.md,threat-intel,Symantec,threat-intel,Symantec_ISTR20_2015,2015,,,MD,yes,
+Symantec_ISTR22_2017.md,threat-intel,Symantec,threat-intel,Symantec_ISTR22_2017,2017,,,MD,yes,
+Symantec_ISTR23_2018.md,threat-intel,Symantec,threat-intel,Symantec_ISTR23_2018,2018,,,MD,yes,
+Symantec_ISTR24_2019.md,threat-intel,Symantec,threat-intel,Symantec_ISTR24_2019,2019,,,MD,yes,
+Symantec_ISTR_SpecialReport_EmailThreats_2017.md,threat-intel,Symantec,threat-intel,Symantec_ISTR_SpecialReport_EmailThreats_2017,2017,,,MD,yes,
+_FFIEC_CCAT_v0.2_20190124.csv,tools-templates,Unknown,tool-template, FFIEC CCAT v0.2 20190124,unknown,,,CSV,yes,
+_FFIEC_CCAT_v0.2_20190124.md,tools-templates,Unknown,tool-template,_FFIEC_CCAT_v0.2_20190124,unknown,,,MD,yes,
+ActiveDirectoryDesignGuide.md,tools-templates,Microsoft,tool-template,Active Directory Design Guide,2012,"[""active-directory;ad;design;microsoft""]",,MD,yes,2026-02-22
+AD_DesignRecommendations.md,tools-templates,Unknown,tool-template,AD_DesignRecommendations,unknown,,,MD,yes,
+AuditScripts_Critical_Security_Control_Executive_Assessment_Tool_v7.0c.csv,tools-templates,Unknown,tool-template,AuditScripts Critical Security Control Executive Assessment Tool v7.0c,unknown,,,CSV,yes,
+AuditScripts_Critical_Security_Control_Manual_Assessment_Tool_v7.0b.csv,tools-templates,Unknown,tool-template,AuditScripts Critical Security Control Manual Assessment Tool v7.0b,unknown,,,CSV,yes,
+AuditScripts_Critical_Security_Control_Master_Mappings_v7.0d.csv,tools-templates,Unknown,tool-template,AuditScripts Critical Security Control Master Mappings v7.0d,unknown,,,CSV,yes,
+AuditScripts_Critical_Security_Control_Executive_Assessment_Tool_v7.0c.md,tools-templates,Unknown,tool-template,AuditScripts_Critical_Security_Control_Executive_Assessment_Tool_v7.0c,unknown,,,MD,yes,
+AuditScripts_Critical_Security_Control_Manual_Assessment_Tool_v7.0b.md,tools-templates,Unknown,tool-template,AuditScripts_Critical_Security_Control_Manual_Assessment_Tool_v7.0b,unknown,,,MD,yes,
+AuditScripts_Critical_Security_Control_Master_Mappings_v7.0d.md,tools-templates,Unknown,tool-template,AuditScripts_Critical_Security_Control_Master_Mappings_v7.0d,unknown,,,MD,yes,
+AWS_Security_Samples.md,tools-templates,Amazon Web Services,tool-template,AWS Security Automation Samples,ongoing,"[""aws"", ""cloud"", ""security"", ""automation"", ""lambda"", ""config"", ""reference-implementation""]",https://github.com/aws-samples,MD,yes,2026-02-22
+AWS_Security_Services_Best_Practices.md,tools-templates,Amazon Web Services,tool-template,AWS Security Services Best Practices,ongoing,"[""aws"", ""cloud"", ""security"", ""best-practices"", ""config"", ""guardduty"", ""securityhub""]",https://github.com/aws-samples/aws-security-services-best-practices,MD,yes,2026-02-22
+Azure_Policy_Definitions.md,tools-templates,Microsoft,tool-template,Azure Policy Definitions (JSON),ongoing,"[""azure"", ""microsoft"", ""cloud"", ""policy-as-code"", ""compliance"", ""json"", ""governance""]",https://github.com/Azure/azure-policy,MD,yes,2026-02-22
+Checkov_IaC_Scanner.md,tools-templates,Bridgecrew / Prisma Cloud,tool-template,Checkov -- IaC Security and Compliance Scanner,ongoing,"[""checkov"", ""iac"", ""terraform"", ""cloudformation"", ""kubernetes"", ""cis"", ""nist"", ""soc2""]",https://github.com/bridgecrewio/checkov,MD,yes,2026-02-22
+small_business_budget_implementation_20_security_controls_33744.md,tools-templates,CIS,tool-template,CIS Small Business Budget for Implementing CIS Controls,2019,"[""cis-controls;small-business;budget""]",,MD,yes,2026-02-22
+CIS_CAT_Centralized_Reporting.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Centralized Compliance Reporting,ongoing,"[""cis"", ""benchmark"", ""compliance"", ""reporting"", ""dashboard""]",https://github.com/CISecurity/CIS-CAT-Centralized-Reporting,MD,yes,2026-02-22
+CIS_CAT_Pro_Assessor.md,tools-templates,Center for Internet Security,tool-template,CIS-CAT Pro Assessor v4,ongoing,"[""cis"", ""benchmark"", ""assessment"", ""compliance"", ""hardening"", ""scanner""]",https://github.com/CISecurity/CIS-CAT-Pro-Assessor-v4,MD,yes,2026-02-22
+CISO_Mindmap_SANS.md,tools-templates,SANS,tool-template,CISO Mind Map,2019,"[""ciso;mind-map;security-program;sans""]",,MD,yes,2026-02-22
+Cloud_Custodian.md,tools-templates,Cloud Custodian / CNCF,tool-template,Cloud Custodian -- Multi-Cloud Governance as Code,ongoing,"[""cloud-custodian"", ""aws"", ""azure"", ""gcp"", ""governance"", ""compliance"", ""policy-as-code""]",https://github.com/cloud-custodian/cloud-custodian,MD,yes,2026-02-22
+Cloudflare_Docs.md,tools-templates,Cloudflare,tool-template,Cloudflare Documentation (Markdown),ongoing,"[""cloudflare"", ""docs"", ""waf"", ""zero-trust"", ""workers"", ""access"", ""configuration""]",https://github.com/cloudflare/cloudflare-docs,MD,yes,2026-02-22
+Cloudflare_Terraform_Provider.md,tools-templates,Cloudflare,tool-template,Cloudflare Terraform Provider,ongoing,"[""cloudflare"", ""terraform"", ""iac"", ""infrastructure-as-code"", ""waf"", ""dns"", ""security""]",https://github.com/cloudflare/terraform-provider-cloudflare,MD,yes,2026-02-22
+Copy_of_Financial_Services_Sector_Cybersecurity_Profile_MacroEnabled_Assessment_w_User_Guide_and_Mappings.csv,tools-templates,Unknown,tool-template,Copy of Financial Services Sector Cybersecurity Profile MacroEnabled Assessment w User Guide and Mappings,unknown,,,CSV,yes,
+Copy_of_Financial_Services_Sector_Cybersecurity_Profile_MacroEnabled_Assessment_w_User_Guide_and_Mappings.md,tools-templates,Unknown,tool-template,Copy_of_Financial_Services_Sector_Cybersecurity_Profile_MacroEnabled_Assessment_w_User_Guide_and_Mappings,unknown,,,MD,yes,
+CrowdStrike_GitHub_Org.md,tools-templates,CrowdStrike,tool-template,CrowdStrike GitHub Organization,ongoing,"[""crowdstrike"", ""falcon"", ""api"", ""threat-intel"", ""edr"", ""integration"", ""sdk""]",https://github.com/CrowdStrike,MD,yes,2026-02-22
+20_CRI_Ransomware_Playbook.md,tools-templates,CRI,tool-template,Cyber Readiness Institute Ransomware Playbook,2020,"[""ransomware;playbook;incident-response;cri""]",https://cyberreadinessinstitute.org/,MD,yes,2026-02-22
+Effective_Compliance_Program.md,tools-templates,Unknown,tool-template,Effective_Compliance_Program,unknown,,,MD,yes,
+External_Service_Provider_and_Geolocation_Policy.md,tools-templates,Unknown,tool-template,External_Service_Provider_and_Geolocation_Policy,unknown,,,MD,yes,
+ExternalProvider_GeoLocation_Policy.md,tools-templates,Unknown,tool-template,ExternalProvider_GeoLocation_Policy,unknown,,,MD,yes,
+FedRAMP-Initial-Authorization-Package-Checklist.csv,tools-templates,Unknown,tool-template,FedRAMP Initial Authorization Package Checklist,unknown,,,CSV,yes,
+FedRAMP-POAM-Template.csv,tools-templates,Unknown,tool-template,FedRAMP POAM Template,unknown,,,CSV,yes,
+FedRAMP-ATO-Letter-Template.md,tools-templates,Unknown,tool-template,FedRAMP-ATO-Letter-Template,unknown,,,MD,yes,
+FedRAMP-Initial-Authorization-Package-Checklist.md,tools-templates,Unknown,tool-template,FedRAMP-Initial-Authorization-Package-Checklist,unknown,,,MD,yes,
+FedRAMP-POAM-Template.md,tools-templates,Unknown,tool-template,FedRAMP-POAM-Template,unknown,,,MD,yes,
+FedRAMP-SAP-Template.md,tools-templates,Unknown,tool-template,FedRAMP-SAP-Template,unknown,,,MD,yes,
+FedRAMP-SAR-Template.md,tools-templates,Unknown,tool-template,FedRAMP-SAR-Template,unknown,,,MD,yes,
+FedRAMP-SSP-High-Baseline-Template.md,tools-templates,Unknown,tool-template,FedRAMP-SSP-High-Baseline-Template,unknown,,,MD,yes,
+FFIEC_CCAT_v2.csv,tools-templates,Unknown,tool-template,FFIEC CCAT v2,unknown,,,CSV,yes,
+FFIEC_Cyber_Assessment_Tool_v2.1_locked.csv,tools-templates,Unknown,tool-template,FFIEC Cyber Assessment Tool v2.1 locked,unknown,,,CSV,yes,
+FFIEC_CCAT_v2.md,tools-templates,Unknown,tool-template,FFIEC_CCAT_v2,unknown,,,MD,yes,
+FFIEC_Cyber_Assessment_Tool_v2.1_locked.md,tools-templates,Unknown,tool-template,FFIEC_Cyber_Assessment_Tool_v2.1_locked,unknown,,,MD,yes,
+FSSCC_ACAT_November_2015_V1_0_TLP_WHITE.csv,tools-templates,Unknown,tool-template,FSSCC ACAT November 2015 V1 0 TLP WHITE,2015,,,CSV,yes,
+FSSCC_ACAT_November_2015_V1_0_TLP_WHITE.md,tools-templates,Unknown,tool-template,FSSCC_ACAT_November_2015_V1_0_TLP_WHITE,2015,,,MD,yes,
+HHS_FaxMail_PHI_Checklist.md,tools-templates,Unknown,tool-template,HHS_FaxMail_PHI_Checklist,unknown,,,MD,yes,
+HIPAA_Compliance_Checklist_Download.md,tools-templates,multiple,tool-template,HIPAA Compliance Checklist,2020,"[""hipaa;checklist;compliance""]",,MD,yes,2026-02-22
+hipaajournal.com-HIPAA Encryption Requirements.md,tools-templates,HIPAA Journal,tool-template,HIPAA Encryption Requirements Guide,2020,"[""hipaa;encryption;requirements""]",,MD,yes,2026-02-22
+HIPAA_Overview.md,tools-templates,Unknown,tool-template,HIPAA_Overview,unknown,,,MD,yes,
+HIPAA_PnP_TEMPLATE_AuditGuru.md,tools-templates,Unknown,tool-template,HIPAA_PnP_TEMPLATE_AuditGuru,unknown,,,MD,yes,
+IPD - Active Directory Domain Services version 2.2.md,tools-templates,Unknown,tool-template,IPD - Active Directory Domain Services version 2.2,unknown,,,MD,yes,
+Microsoft_Security_Code_Samples.md,tools-templates,Microsoft,tool-template,Microsoft Security Code Samples,ongoing,"[""microsoft"", ""security"", ""automation"", ""code-samples"", ""defender"", ""sentinel""]",https://github.com/microsoft/security-code-samples,MD,yes,2026-02-22
+Microsoft_PasswordGuidance.md,tools-templates,Unknown,tool-template,Microsoft_PasswordGuidance,unknown,,,MD,yes,
+MITRE_CAR.md,tools-templates,MITRE,tool-template,MITRE Cyber Analytics Repository (CAR),ongoing,"[""mitre"", ""car"", ""analytics"", ""detection"", ""splunk"", ""sigma""]",https://car.mitre.org/,MD,yes,2026-02-22
+NIST_CSF_GapAssessment_TEMPLATE.csv,tools-templates,NIST,tool-template,NIST CSF GapAssessment TEMPLATE,unknown,,,CSV,yes,
+NIST_OSCAL_CLI.md,tools-templates,NIST,tool-template,NIST OSCAL CLI Tool,ongoing,"[""oscal"", ""nist"", ""cli"", ""validation"", ""conversion"", ""compliance-automation""]",https://github.com/usnistgov/oscal-cli,MD,yes,2026-02-22
+NIST_CSF_GapAssessment_TEMPLATE.md,tools-templates,NIST,tool-template,NIST_CSF_GapAssessment_TEMPLATE,unknown,,,MD,yes,
+Office_365___Customer_Security_Considerations_Workbook.csv,tools-templates,Unknown,tool-template,Office 365   Customer Security Considerations Workbook,unknown,,,CSV,yes,
+Office_365___Customer_Security_Considerations_Workbook.md,tools-templates,Unknown,tool-template,Office_365___Customer_Security_Considerations_Workbook,unknown,,,MD,yes,
+SAQ_InstrGuidelines_v3_2_1.md,tools-templates,PCI SSC,tool-template,PCI DSS SAQ Instructions and Guidelines v3.2.1,2018,"[""pci-dss;saq;self-assessment;v3.2.1""]",https://www.pcisecuritystandards.org/document_library/,MD,yes,2026-02-22
+PCI___DSS_Version_3.2__Feb_2018__PCIDSS_QRGv3_2.md,tools-templates,PCI SSC,tool-template,PCI DSS v3.2 Quick Reference Guide,2018,"[""pci-dss;v3.2;quick-reference""]",https://www.pcisecuritystandards.org/document_library/,MD,yes,2026-02-22
+PHI_18_Identifiers.md,tools-templates,Unknown,tool-template,PHI_18_Identifiers,unknown,,,MD,yes,
+Tenable_Python_SDK.md,tools-templates,Tenable,tool-template,pyTenable -- Tenable Python SDK,ongoing,"[""tenable"", ""vulnerability"", ""api"", ""sdk"", ""python"", ""scan"", ""automation""]",https://github.com/tenable/pyTenable,MD,yes,2026-02-22
+RiskRegister_ControlsLibrary_TEMPLATE.csv,tools-templates,Unknown,tool-template,RiskRegister ControlsLibrary TEMPLATE,unknown,,,CSV,yes,
+RiskRegister_ControlsLibrary_TEMPLATE.md,tools-templates,Unknown,tool-template,RiskRegister_ControlsLibrary_TEMPLATE,unknown,,,MD,yes,
+SANS_ISC.md,tools-templates,SANS,tool-template,SANS Internet Storm Center,ongoing,"[""sans"", ""isc"", ""threat-intel"", ""daily-brief"", ""honeypot""]",https://isc.sans.edu/,MD,yes,2026-02-22
+SAP-AA-FedRAMP-High-Security-Test-Case-Procedures-Template.csv,tools-templates,Unknown,tool-template,SAP AA FedRAMP High Security Test Case Procedures Template,unknown,,,CSV,yes,
+SAP-AA-FedRAMP-High-Security-Test-Case-Procedures-Template.md,tools-templates,Unknown,tool-template,SAP-AA-FedRAMP-High-Security-Test-Case-Procedures-Template,unknown,,,MD,yes,
+SAR-AA-FedRAMP-Risk-Exposure-Table-Template.csv,tools-templates,Unknown,tool-template,SAR AA FedRAMP Risk Exposure Table Template,unknown,,,CSV,yes,
+SAR-AA-FedRAMP-Risk-Exposure-Table-Template.md,tools-templates,Unknown,tool-template,SAR-AA-FedRAMP-Risk-Exposure-Table-Template,unknown,,,MD,yes,
+TSI_Type_Diagram.md,tools-templates,AICPA,tool-template,SOC System Type Diagram,2018,"[""soc2;system-diagram;operations""]",,MD,yes,2026-02-22
+Ticket_Flow_Chart.md,tools-templates,AICPA,tool-template,SOC Ticket Flow Chart,2018,"[""soc2;ticket-flow;operations""]",,MD,yes,2026-02-22
+SSP-A09-FedRAMP-High-CIS-Workbook-Template.csv,tools-templates,Unknown,tool-template,SSP A09 FedRAMP High CIS Workbook Template,unknown,,,CSV,yes,
+SSP-A12-FedRAMP-Laws-and-Regulations-Template.csv,tools-templates,Unknown,tool-template,SSP A12 FedRAMP Laws and Regulations Template,unknown,,,CSV,yes,
+SSP-A13-FedRAMP-Integrated-Inventory-Workbook-Template.csv,tools-templates,Unknown,tool-template,SSP A13 FedRAMP Integrated Inventory Workbook Template,unknown,,,CSV,yes,
+SSP-A04-FedRAMP-PIA-Template.md,tools-templates,Unknown,tool-template,SSP-A04-FedRAMP-PIA-Template,unknown,,,MD,yes,
+SSP-A05-FedRAMP-RoB-Template.md,tools-templates,Unknown,tool-template,SSP-A05-FedRAMP-RoB-Template,unknown,,,MD,yes,
+SSP-A06-FedRAMP-ISCP-Template.md,tools-templates,Unknown,tool-template,SSP-A06-FedRAMP-ISCP-Template,unknown,,,MD,yes,
+SSP-A09-FedRAMP-High-CIS-Workbook-Template.md,tools-templates,Unknown,tool-template,SSP-A09-FedRAMP-High-CIS-Workbook-Template,unknown,,,MD,yes,
+SSP-A12-FedRAMP-Laws-and-Regulations-Template.md,tools-templates,Unknown,tool-template,SSP-A12-FedRAMP-Laws-and-Regulations-Template,unknown,,,MD,yes,
+SSP-A13-FedRAMP-Integrated-Inventory-Workbook-Template.md,tools-templates,Unknown,tool-template,SSP-A13-FedRAMP-Integrated-Inventory-Workbook-Template,unknown,,,MD,yes,
+STUDY_UsabilityofPassphrases_20120711.md,tools-templates,Unknown,tool-template,STUDY_UsabilityofPassphrases_20120711,unknown,,,MD,yes,
+The One Page Linux Manual.md,tools-templates,multiple,tool-template,The One Page Linux Manual,2010,"[""linux;cheatsheet;command-reference""]",,MD,yes,2026-02-22
+GPG_CLI_Cheatsheet.md,tools-templates,Unknown,tool-template,THE Windows GPG CLI CHEATSHEET,unknown,,,MD,yes,
+VSA_Questionnaire_Vendor_Security_Alliance.md,tools-templates,Vendor Security Alliance,tool-template,VSA Questionnaire (Vendor Security Alliance),ongoing,"[""vendor-assessment"", ""questionnaire"", ""tprm"", ""third-party-risk"", ""scrm"", ""supply-chain-risk"", ""vsa"", ""security-assessment""]",https://vendorsecurityalliance.org/,MD,yes,2026-02-22
+VSA Questionnaire 2019 FULL Final.csv,tools-templates,Unknown,tool-template,VSA Questionnaire 2019 FULL Final,2019,,,CSV,yes,
+VSA Questionnaire 2019 FULL Final.md,tools-templates,Unknown,tool-template,VSA Questionnaire 2019 FULL Final,2019,,,MD,yes,
+191028-MWB-CTNT_2019_Healthcare_FINAL.md,z_Misc,Unknown,misc,191028-MWB-CTNT_2019_Healthcare_FINAL,2019,,,MD,yes,
+BBB_StateofCyberSecuritySMB_2017.md,z_Misc,Unknown,misc,BBB_StateofCyberSecuritySMB_2017,2017,,,MD,yes,
+Checkpoint_cyber-security-report-2020.md,z_Misc,Unknown,misc,Checkpoint_cyber-security-report-2020,2020,,,MD,yes,
+CSIS_SignificantCyberEventsList_201812.md,z_Misc,Unknown,misc,CSIS_SignificantCyberEventsList_201812,unknown,,,MD,yes,
+stats.md,z_Misc,Unknown,misc,Cybersecurity Statistics & Statements,unknown,,,MD,yes,
+DamageControl_CybeInsuranceebook.md,z_Misc,Unknown,misc,DamageControl_CybeInsuranceebook,unknown,,,MD,yes,
+FBI_Flash_ChinaAPT10_20190102_TLPWHITE.md,z_Misc,Unknown,misc,FBI_Flash_ChinaAPT10_20190102_TLPWHITE,unknown,,,MD,yes,
+Gone_Phishing_Tournament_Global_Benchmark_Report_2020.md,z_Misc,Unknown,misc,Gone_Phishing_Tournament_Global_Benchmark_Report_2020,2020,,,MD,yes,
+NCSA_SMBCyberSecurityAwarenessToolkit_20180824.md,z_Misc,Unknown,misc,NCSA_SMBCyberSecurityAwarenessToolkit_20180824,unknown,,,MD,yes,
+NTTSecurity_GTIR_KeyFindings_2017.md,z_Misc,Unknown,misc,NTTSecurity_GTIR_KeyFindings_2017,2017,,,MD,yes,
+PedagogicCyberSecurityFramework_201810.md,z_Misc,Unknown,misc,PedagogicCyberSecurityFramework_201810,unknown,,,MD,yes,
+Switchfast_SMBCybersecurityReport_20180827.md,z_Misc,Unknown,misc,Switchfast_SMBCybersecurityReport_20180827,unknown,,,MD,yes,
+UK_DCMS_CyberSecurityBreachesSurvey_2017.md,z_Misc,Unknown,misc,UK_DCMS_CyberSecurityBreachesSurvey_2017,2017,,,MD,yes,
+USFED_WorldwideThreatAssessment_20170511.md,z_Misc,Unknown,misc,USFED_WorldwideThreatAssessment_20170511,unknown,,,MD,yes,
