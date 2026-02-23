@@ -1,0 +1,215 @@
+Unnamed: 0,Unnamed: 1
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,"The Financial Services Sector Cybersecurity Profile (Profile), v1.0"
+,- An Overview and User Guide -
+,
+,
+,Table of Contents
+,I. Introduction
+,II. Which Types of Financial Institutions Is the Profile Designed For?
+,III. Benefits to the Profile Approach
+,Benefits to Financial Institutions
+,Benefits to Regulatory Community
+,IV. Core Profile Components
+,V. How to Use the Profile
+,VI. Version 1.0 and Governance Process Going Forward
+,VII. Points of Contact and Adding Trade Association Support through Logo Usage
+,
+,
+,I.                   Introduction
+,
+,"Background:  With the increasing volume and sophistication of cyber attacks and a projected global shortfall of two million cybersecurity professionals by 2019, the financial services and supervisory community are struggling to find an efficient approach to cybersecurity risk management that effectively counters the dynamic, evolving threat and provides adequate assurance to government supervisors."
+,
+,"However, when surveyed two years ago, Chief Information Security Officers for financial services institutions reported that up to 40% of their time was spent on the compliance requirements of various regulatory frameworks, not cybersecurity."
+,
+,The Financial Services Sector Cybersecurity Profile (Profile or FSP) is a framework based on:
+,"National Institute of Standards and Technology’s “Framework for Improving Critical Infrastructure Cybersecurity” (NIST Framework or CSF), CPMI-IOSCO’s “Guidance on cyber resilience for financial market structures,” assessment questions based on relevant supervisory guidance and frameworks, and direct correlative mappings to ISO/IEC 27001/2 controls."
+,
+,"Profile Structure:  Starting in October 2016, the financial services industry began mapping the many financial services regulations, guidance, and supervisory expectations with the NIST Cybersecurity Framework, CPMI-IOSCO, and the ISO standards.  With multiple mappings, a pattern emerged.  Over 80% of the supervisory instructions had a similar focus, but used different language, or had marginally different compliance requirements.  Industry began developing the Profile to reduce the compliance time needed to reconcile these differences.  As the Profile evolved, its design became rooted in the NIST Cybersecurity Framework’s five functions, categories, and subcategories.  To more correctly reflect supervisory emphasis, the NIST-like framework was extended to include two new functions – Governance and Supply/Dependency Management.  Borrowing from the Federal Financial Institutions Examination Council (FFIEC) Cybersecurity Assessment Tool, the Profile adopted Diagnostic Statements, which synthesize and simplify overlapping requirements from multiple supervisors."
+,
+,"To enhance the Profile’s assessment capabilities (and with the regulatory community’s encouragement), the industry developed an “Impact Tiering” questionnaire to identify the potential market risk presented by financial institutions of differing complexity, and sizes.[1]  "
+,
+,"Purpose and Intent:  In addition to aligning cybersecurity regulatory expectations and authorities, the Profile also provides a flexible structure to absorb future supervisory expectations within its organization, vocabulary, and taxonomy.  Institutions and supervisory agencies and organizations can focus on the core elements of their cybersecurity risk management missions.  With the efficiencies gained, more resources can then be applied to cybersecurity."
+,
+,
+,II.                 Which Types of Financial Institutions Is the Profile Designed For?
+,
+,"The Profile is designed for all financial institutions, financial services companies, financial firms, and their third-party providers.  A broad cross-section of the financial services industry— banking, insurance, asset management, market utilities, broker-dealers—designed the Profile to scale across institutions of varying complexity, interconnectedness, and criticality.  Regulatory issuances and best practices from across the sector (and around the globe) are incorporated.  "
+,
+,"Through the impact tiering questionnaire, the Profile segments the financial services sector into four tiers of criticality. Each tier corresponds with the impact that an institution would have on the global, national, sector, or local market if substantially impacted by a cybersecurity event.  These “Impact Tiers” are as follows:"
+,
+,"Tier 1: National/Super-National Impact – These institutions are designated most critical by one or more U.S. or North American regulatory agencies and/or bodies (e.g., GSIB designation; Executive Order 13636, Section 9 designation).  This category assumes the gross cyber risk exposure of an institution or service categorized as Tier 1 would have the most potential adverse impact to the overall stability of the North American economy, and potentially, the global market."
+,
+,"Tier 2: Subnational Impact – These institutions provide mission critical services with millions of customer accounts.  This category assumes the gross cyber risk exposure of an institution or service would have the potential for a substantial adverse impact to the financial services sector and subnational regional economy, but does not rise to the level of Tier 1."
+,
+,"Tier 3: Sector Impact – These institutions have a high degree of interconnectedness, with certain institutions acting as key nodes within and for the sector.  The nature of the services that these institutions provide to the sector plays a significant role in determining their criticality."
+,
+,"Tier 4: Localized Impact – These institutions have a limited impact on the overall financial services sector and national economy. Typical characteristics include: (a) institutions with a local presence and less than 1 million customers (e.g., community banks, state banks); and (b) providers of low criticality services."
+,
+,"Upon determining an institution’s impact category, the Profile is customized to meet the institution’s likely cybersecurity risk. The user is then prompted to answer a set of self-assessment questions – the Diagnostic Statements – coded by function, category, subcategory, and associated numbering with the CPMI-IOSCO and NIST Cybersecurity Framework.  "
+,
+,"Financial institutions can use the Profile as the baseline examination assessment, and extend the functionality to evaluate partners, vendors, and third-party service providers."
+,
+,
+,III.              Benefits to the Profile Approach
+,
+,The numerous and substantial benefits to the financial services sector are: 
+,·         Focuses senior executive and boardroom review of cybersecurity risks and budgeting;
+,"·         Brings plain language to benchmarking, risk management, audit, and in-house education;"
+,·         Offers compliance efficiencies that grow with a financial institution’s complexity;
+,·         Aids prioritization and focused use of resources;
+,"·         Eases collaboration with other financial institutions, third-parties, and innovative non-bank financial companies;"
+,"·         Supports tailored supervision, examinations, and collaboration among state, federal, and international supervisors;"
+,"·         Enhances understanding of systemic risk within the sector, across sectors, and among institutions and third-parties;"
+,·         Creates a common baseline security threshold; and
+,·         Improves data collection and comparison.
+,
+,Benefits to Financial Institutions
+,"Boardroom Engagement to Advance Investment:  For C-Suite and board directors, cybersecurity is a top concern and supervisors expect institutions to track their progress in mitigating identified security gaps.  By using the Profile over several cycles, financial institutions can benchmark their programs with the Profile’s recommended practices, identify gaps, articulate those gaps to the C-Suite and board directors in plain language, discuss appropriate resourcing for mitigation, and track the advancement in mitigation efforts over time.   "
+,
+,"Efficiencies:  The Profile promises to reduce the time a financial institution needs to complete a comprehensive assessment by offering a tailored set of diagnostic assessment questions, the Diagnostic Statements, reflecting the institution’s risk to the broader economy.  "
+,"·         73% Reduction for Community Institution Assessment Questions. For the least complex and interconnected institutions, it is expected that they would answer a total of 145 questions (9 tiering questions + 136 Diagnostic Statement questions).  As compared to another widely-used assessment tool’s 533 questions, this represents a 73% reduction.  "
+,"·         49% Reduction in Assessment Questions for the Largest Institutions. For the most complex and interconnected institutions, the reduction also is significant.  With the Profile, it is expected that such institutions would answer 279 questions (2 tiering questions + 277 Diagnostic Statement questions) as compared to the other widely-used assessment’s 533, a 49% reduction.  "
+,
+,"Additional Benefits:  While increased time and focus on cybersecurity projects and activities is a substantial benefit, continued use of the Profile would bring additional benefits.  Immediate benefits for financial institutions include: "
+,"·         Enhanced internal and external oversight, due diligence and risk identification using consistent terms and concepts;"
+,·         More efficient third-party vendor management review and oversight;
+,"·         Greater intra-sector, cross-sector and international cybersecurity collaboration due to the common use of ISO standards, CPMI-IOSCO and the NIST Cybersecurity Framework; and"
+,"·         Encouraging innovation and adoption of emerging technology, as FinTech firms and startups can more readily demonstrate adherence to financial services sector cybersecurity requirements and supervisory expectations."
+,
+,Benefits to Regulatory Community
+,"For the regulatory community, the benefits also are numerous and substantial.  With the Profile, state, federal, and global supervisors could:"
+,·         Tailor examinations to institutional complexity and conduct “deeper dives” in those areas of greater importance;
+,·         Better discern the sector’s systemic risk by comparing answers across institutions using common terms and concepts;
+,"·         Understand an institution’s baseline security status quickly, affording additional time for specialization, testing and validation;"
+,"·         Broaden the ability to take collective supervisory action to address identified global, national, sector and institution risks;"
+,·         Improve data analysis and data comparisons from other agencies and jurisdictions; and
+,·         Enhance supervisors’ visibility into non-sector and third-party risks.
+,
+,
+,IV.              Core Profile Components
+,
+,"The Core Profile Components represented in columns A-K on Tab 3 of the companion spreadsheet consist of the core Profile components, namely: "
+,·         Functions;
+,·         Categories;
+,·         Subcategories;
+,·         Diagnostic Statements;
+,·         Response/Evidence for each impact tier;
+,"·         Financial Sector Reference (i.e., where in existing regulations, guidance or other supervisory documents the concept is applied to the Financial Sector); and "
+,"·         Informative references (i.e., where the corresponding concept is expressed in international standards and best practices).  "
+,
+,"There are seven overarching functions:  Governance, Identify, Detect, Protect, Respond, Recover and Supply Chain/Dependency management. These are adapted from the NIST Framework and CPMI-IOSCO to more closely align with the financial services sector approach to cybersecurity.  "
+,
+,Functions are subdivided into more specific concept categories (Categories). 
+,
+,"Categories are sub-divided into subcategories (Subcategories), which are designed to reflect a particular element of an effective cyber risk management program.  "
+,
+,Each Subcategory is associated with at least one Diagnostic Statement.  Institutions use Diagnostic Statements to assess their own cyber risk management program.  Institutions would then note their outcome of their assessment selecting between eight potential Diagnostic Statement Responses: 
+,1)      Yes – An institution would select this response if it can confidently answer Yes;
+,2)      No – An institution would select this response if it has not fulfilled the Diagnostic; 
+,"3)      Partial – An institution would select this response if it has not fully met the Diagnostic, but is currently working through an action plan to achieve a Yes outcome;"
+,"4)      Not Applicable – An institution might select this response if, after evaluating its business and security program, the Diagnostic is not applicable even though it was suggested by its Impact Tier;"
+,5)      Not Tested – An institution might select this response if it has yet to test controls associated with that particular Diagnostic; 
+,"6)      Yes-Risk Based – An institution might select this response if the Diagnostic, in using supervisory language, requires a more nuanced, risk-based answer and explanation than the Diagnostic Statement otherwise suggests;"
+,7)      Yes-Compensating Controls Used – An institution might select this response if it meets the intent of the Diagnostic using compensating controls; and
+,8)      I don’t know – An individual assessment user might select this response as a note to check with other relevant stakeholders within the institution to determine the most accurate response.  
+,
+,Institutions would then collect and maintain documentation and other evidence to support their assessment and response.
+,
+,"Impact Tiers and the Impact Tier Questionnaire are a scaling device to customize the Profile based on an individual institution’s risk and activities. Completing the questionnaire results in a determination of which of the four categories of impact are most reflective of the institution’s impact: National, Subnational, Sectoral, or Localized. These are the Impact Tiers. The institution would then answer a set of Diagnostic Statements corresponding to its impact tier.  "
+,
+,These Tiers are for guidance purposes only. Subcategories and Diagnostic Statements not associated with a particular tier may be included by a supervisor or other institution that is using the Profile to evaluate cyber risk management programs.
+,
+,"The two reference libraries – Financial Sector References and the Informative References – act as guideposts to assist institutions in understanding the origins of the concepts (and, at times, the language) reflected in each Diagnostic Statement. In most cases, the Diagnostic Statements merge state and federal financial services sector regulation, guidance, supervisory documentation and issuances, as well as international standards and common best practices."
+,
+,V.                How to Use the Profile  
+,
+,"The Profile may be used in multiple ways, from self-assessment and third-party risk management, to providing a common supervisory engagement approach among state, federal, and international regulatory bodies.  "
+,
+,"Cybersecurity Self-Assessment in 4 Easy and Repeatable Steps:  The Profile may assist institutions in assessing their cybersecurity risk management governance, processes, capabilities, and regulatory compliance posture as expected with the various Impact Tiers to which they correspond.  In understanding their posture, institutions can then develop plans to close any identified gaps.  This process can be reduced to four repeatable steps as depicted and further described below:"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Step 1 – The Institution determines its Impact Tier by completing the Impact Tiering Questionnaire.  The Questionnaire consists of 9 questions that identify an institution’s Impact Tier:   
+,·         Tier 1: National/Super-National Impact; 
+,·         Tier 2: Subnational Impact; 
+,·         Tier 3: Sector Impact; and
+,·         Tier 4: Localized Impact.  
+,
+,"Step 2 – Based on the Institution’s Impact Tie, the Institution assesses itself with the corresponding Diagnostic Statement questions:"
+,·         Tier 1: 277 Diagnostic Statement questions;
+,·         Tier 2: 262 Diagnostic Statement questions; 
+,·         Tier 3: 188 Diagnostic Statement questions; and
+,·         Tier 4: 136 Diagnostic Statement questions.  
+,
+,"Step 3 – Based on the self-assessment, the Institution identifies shortcomings and gaps in its cybersecurity risk management governance, processes, capabilities, and regulatory compliance posture.  "
+,
+,"Step 4 – Once gaps are identified, the Institution develops and implements a plan to close gaps and address shortcomings to satisfy the cybersecurity expectations of its Impact Tier."
+,·         The reference libraries are included to assist an Institution in developing a roadmap to address gaps and shortcomings. Many of the references have specific instructions or detail correct security approaches and best practices.
+,
+,"Repeat – The Institution repeats the self-assessment and gap-closing process periodically, or upon an event, which warrants a re-evaluation of their Impact Tier, such as:"
+,·         Acquisition of another entity;
+,·         Introduction of a new business line;
+,"·         Significant growth in number of accounts, delivery of critical services, or interconnectedness;"
+,·         A significant change in a threat landscape;
+,·         The Institution believes that their Impact Tier has changed; and/or
+,·         A regulatory or supervisory body believes that the Institution’s self-assessed Impact Tier is inaccurate or has changed.
+,
+,"Profile as Third-Party Risk Management Tool:  Similar to self-assessment, a financial institution could evaluate partners, vendors and service providers with the four impact tiers based upon the third-parties’ criticality and interconnectivity. The financial institution could then request the third-party to provide evidence against the corresponding set of Diagnostic Statements identified by their impact tier. "
+,
+,"Profile as a Common Supervisory Approach:  The organization, vocabulary, and taxonomy of the Profile offers a credible method of cybersecurity risk management and a basis for conducting supervisory exams. Supervisors may allow financial institutions to use the evidence in their Profile self-assessment exercise for supervisory reporting and analysis. This consistency will allow supervisors to evaluate and compare peer institutions and clearly identify gaps for remediation.  This approach is more efficient for the institution and supervisor and provides consistency for an institution in communicating its program, internally and externally. "
+,
+,"The use of the Profile’s approach does not limit what a supervisor can review or require.  Rather, it provides an examination approach allowing financial institutions to confidently produce baseline evidence for review and more quickly respond to iterative and follow-up questions from the supervisor.  This shared approach would produce a more efficient and consistent examination process for supervisors and financial institutions. "
+,
+,
+,VI.              Version 1.0 and Governance Process Going Forward
+,
+,"The Financial Sector Coordinating Council (FSSCC), the trade associations, financial institutions, and other Profile development stakeholders recognize that future maintenance of the Profile is essential for its ultimate success.  Numerous trade associations and financial institutions involved in the Profile’s development are forming a sustained coalition to manage Profile update activities and to educate and engage jurisdictions around the world on its benefits and usage.  Interested parties will continue committing resources, such as their own subject matter experts and expertise, full time personnel, and funds for external experts and advisors."
+,
+,"This coalition has also committed to a 2-3 year update cycle to iterate a new, full version similar to the cycles used by other standards bodies, such as the National Institute of Standards and Technology (NIST) and International Standards Organization (ISO) for a full version.  The coalition has also committed to more flexible update timeframes to include additional global supervisory expectations as well as any newly issued supervisory expectations."
+,
+,"The coalition recognizes that users may suggest potential enhancements and new cyber risk management concepts between Profile versions.  As these recommendations surface, the coalition will evaluate their applicability within the regulatory landscape, utility to a cyber risk management program, and the feasibility of incorporation into a Profile’s next version.  This process of evaluation will include a review by a coalition executive committee and other stakeholders, as appropriate, as was done to develop the Profile from concept to a Version 1.0."
+,
+,
+,VII.         Points of Contact and Adding Trade Association Support through Logo Usage
+,
+,"To Learn More:  To learn more about the Profile initiative, please feel free to contact Profile leads:  Josh Magri of Bank Policy Institute (BPI) - BITS and Denyette DePierro of the American Bankers Association."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,"Adding Trade Association Support:  We are collecting logos of trades that are supportive of the Profile.  By allowing usage of the logo on the Profile and Profile related documents, it means that the trade association and its member institutions recognize:"
+,
+,The Financial Services Sector Cybersecurity Profile represents a comprehensive compilation of cybersecurity risk management best practices that could represent a basis for regulatory/supervisory harmonization for the financial services sector. 
+,
+,
+,"[1] While the original impact tiering focused on the North American financial sector, it could be expanded to include international jurisdictions."

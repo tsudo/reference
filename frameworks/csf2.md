@@ -1,0 +1,16 @@
+# csf2
+
+Original format: `xlsx`
+
+Primary sheet: `Introduction`
+
+CSV companion: `csf2.csv`
+
+## Preview (first 50 rows)
+
+| Unnamed: 0     | NIST Cybersecurity Framework (CSF) 2.0 Reference Tool                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:---------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Title          | The NIST Cybersecurity Framework (CSF) 2.0                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Read Me        | This is a download from the CSF 2.0 Reference Tool, which assists users in exploring the CSF 2.0 Core. This export is a user generated version of the Core versus an official NIST publication. In this download, each of the Functions is collapsible for ease of use in focusing on specific Functions, Categories, and Subcategories. This tool is in its initial phase and intended to stimulate public comment. NIST invites feedback via cprt@nist.gov. |
+| Change Log     | Final                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Generated Date | 2025-04-23 09:53:09.264000                                                                                                                                                                                                                                                                                                                                                                                                                                    |

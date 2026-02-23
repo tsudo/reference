@@ -1,0 +1,55 @@
+# HIPAA_CFR_reference_spreadsheet
+
+Original format: `xlsx`
+
+Primary sheet: `QuickRef`
+
+CSV companion: `HIPAA_CFR_reference_spreadsheet.csv`
+
+## Preview (first 50 rows)
+
+| Standard                                           | Section        | Safeguard      | Safeguard                                    | Required or   |
+|                                                    |                | Category       |                                              | Addressable   |
+|:---------------------------------------------------|:---------------|:---------------|:---------------------------------------------|:--------------|
+| Security Management Process                        | §164.308(a)(1) | Administrative | Risk Analysis                                | R             |
+| Security Management Process                        | §164.308(a)(1) | Administrative | Risk Management                              | R             |
+| Security Management Process                        | §164.308(a)(1) | Administrative | Sanction Policy                              | R             |
+| Security Management Process                        | §164.308(a)(1) | Administrative | Information System Activity Review           | R             |
+| Assigned Security Responsibility                   | §164.308(a)(2) | Administrative | nan                                          | R             |
+| Workforce Security                                 | §164.308(a)(3) | Administrative | Authorization and/or Supervision             | A             |
+| Workforce Security                                 | §164.308(a)(3) | Administrative | Workforce Clearance Procedure                | A             |
+| Workforce Security                                 | §164.308(a)(3) | Administrative | Termination Procedures                       | A             |
+| Information Access Management                      | §164.308(a)(4) | Administrative | Isolating Health Care Clearinghouse Function | R             |
+| Information Access Management                      | §164.308(a)(4) | Administrative | Access Authorization                         | A             |
+| Information Access Management                      | §164.308(a)(4) | Administrative | Access Establishment and Modification        | A             |
+| Security Awareness and Training                    | §164.308(a)(5) | Administrative | Security Reminders                           | A             |
+| Security Awareness and Training                    | §164.308(a)(5) | Administrative | Protection from Malicious Software           | A             |
+| Security Awareness and Training                    | §164.308(a)(5) | Administrative | Log-in Monitoring                            | A             |
+| Security Awareness and Training                    | §164.308(a)(5) | Administrative | Password Mangement                           | A             |
+| Security Incident Procedures                       | §164.308(a)(6) | Administrative | Response and Reporting                       | R             |
+| Contigency Plan                                    | §164.308(a)(7) | Administrative | Data Backup Plan                             | R             |
+| Contigency Plan                                    | §164.308(a)(7) | Administrative | Disaster Recovery Plan                       | R             |
+| Contigency Plan                                    | §164.308(a)(7) | Administrative | Emergency Mode Operation Plan                | R             |
+| Contigency Plan                                    | §164.308(a)(7) | Administrative | Testing and Revision Procedure               | A             |
+| Contigency Plan                                    | §164.308(a)(7) | Administrative | Applications and Data Criticality Analysis   | A             |
+| Evaluation                                         | §164.308(a)(8) | Administrative | nan                                          | R             |
+| Business Associate Contracts and Other Arrangement | §164.308(b)(1) | Administrative | Written Contract or Other Arrangement        | R             |
+| Facility Access Controls                           | §164.310(a)(1) | Physical       | Contigency Operations                        | A             |
+| Facility Access Controls                           | §164.310(a)(1) | Physical       | Facility Security Plan                       | A             |
+| Facility Access Controls                           | §164.310(a)(1) | Physical       | Access Control and Validation Procedures     | A             |
+| Facility Access Controls                           | §164.310(a)(1) | Physical       | Maintenance Records                          | A             |
+| Workstation Use                                    | §164.310(b)    | Physical       | nan                                          | R             |
+| Workstation Security                               | §164.310(c)    | Physical       | nan                                          | R             |
+| Device and Medial Controls                         | §164.310(d)    | Physical       | Disposal                                     | R             |
+| Device and Medial Controls                         | §164.310(d)    | Physical       | Media Re-use                                 | R             |
+| Device and Medial Controls                         | §164.310(d)    | Physical       | Accountability                               | A             |
+| Device and Medial Controls                         | §164.310(d)    | Physical       | Data Backup and Storage                      | A             |
+| Access Control                                     | §164.312(a)(1) | Technical      | Unique User Identification                   | R             |
+| Access Control                                     | §164.312(a)(1) | Technical      | Emergency Access Procedure                   | R             |
+| Access Control                                     | §164.312(a)(1) | Technical      | Automatic Logoff                             | A             |
+| Access Control                                     | §164.312(a)(1) | Technical      | Encryption and Decryption                    | A             |
+| Audit Controls                                     | §164.312(b)    | Technical      | nan                                          | R             |
+| Integrity                                          | §164.312(c)(1) | Technical      | Mechanism to Authenticate ePHI               | A             |
+| Person or Entity Authentication                    | §164.312(d)    | Technical      | nan                                          | R             |
+| Transmission Security                              | §164.312(e)(1) | Technical      | Integrity Controls                           | A             |
+| Transmission Security                              | §164.312(e)(1) | Technical      | Encryption                                   | A             |
