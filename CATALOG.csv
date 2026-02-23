@@ -120,6 +120,8 @@ HIPAA_CFR_list.md,government,US Government,government,HIPAA CFR list,unknown,,,M
 HIPAA_CFR_reference.md,government,US Government,government,HIPAA CFR reference,unknown,,,MD,yes,,government/HIPAA_CFR_reference.md
 HIPAA_CFR_reference_spreadsheet.csv,government,US Government,government,HIPAA CFR reference spreadsheet,unknown,,,CSV,yes,,government/HIPAA_CFR_reference_spreadsheet.csv
 HIPAA_CFR_reference_spreadsheet.md,government,US Government,government,HIPAA CFR reference spreadsheet,unknown,,,MD,yes,,government/HIPAA_CFR_reference_spreadsheet.md
+known_exploited_vulnerabilities.csv,government,CISA,government,known exploited vulnerabilities,unknown,,,CSV,yes,,government/known_exploited_vulnerabilities.csv
+known_exploited_vulnerabilities.md,government,CISA,government,Known Exploited Vulnerabilities Catalog,2026,[],https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv,MD,yes,2026-02-23,government/known_exploited_vulnerabilities.md
 NSSRP_IT_Sector_Workshop_060921_Final.md,government,NSTAC,government,National Security Telecommunications Advisory Committee Ransomware IT Sector Workshop,2021,"[""ransomware;it-sector;government;nstac""]",,MD,yes,2026-02-22,government/NSSRP_IT_Sector_Workshop_060921_Final.md
 HealthcareSector_CSF_Implementation_Guidance.md,government,HHS,government,NIST CSF Healthcare Sector Implementation Guidance,2020,"[""nist-csf;healthcare;implementation-guidance""]",,MD,yes,2026-02-22,government/HealthcareSector_CSF_Implementation_Guidance.md
 NIST_NVD.md,government,NIST,government,NIST National Vulnerability Database (NVD),ongoing,"[""nist"", ""nvd"", ""cve"", ""cvss"", ""vulnerability"", ""database""]",https://nvd.nist.gov/,LINK,link,2026-02-22,government/NIST_NVD.md

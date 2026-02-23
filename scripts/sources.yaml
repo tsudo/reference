@@ -90,18 +90,18 @@ sources:
   - org: CISA
     name: Cybersecurity Advisories (Joint Advisories)
     content_type: government
-    url_pattern: https://www.cisa.gov/resources-tools/resources/cybersecurity-advisories
+    url_pattern: https://www.cisa.gov/news-events/cybersecurity-advisories
     latest_known_year: null
     cadence: ongoing
-    notes: "Ad hoc. Add key joint advisories (AA series) on significant threats."
+    notes: "Landing page for advisories (non-direct downloads). Use for discovery of key AA-series advisories."
 
   - org: CISA
     name: Known Exploited Vulnerabilities Catalog
     content_type: government
-    url_pattern: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+    url_pattern: https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv
     latest_known_year: null
     cadence: ongoing
-    notes: "Live catalog — export CSV for machine-readable version."
+    notes: "Direct machine-readable CSV endpoint."
 
   - org: US Intelligence Community
     name: Annual Threat Assessment (WWTA)

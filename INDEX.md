@@ -1,6 +1,6 @@
 # Reference Library Index
 
-_Auto-generated 2026-02-23 — 292 documents_
+_Auto-generated 2026-02-23 — 294 documents_
 
 This index includes direct links to files in this repo and source links where available.
 
@@ -83,8 +83,10 @@ This index includes direct links to files in this repo and source links where av
 | [AWS Guide to NYDFS Cybersecurity Regulation](government/aws-guide-to-nydfs-cybersecurity-regulation.md) | AWS | 2019 |  |
 | [CISA MS ISAC Ransomware Guide](government/CISA_MS_ISAC_Ransomware_Guide_S508C.md) | CISA | 2020 | [source](https://www.cisa.gov/) |
 | [CISA Fact Sheet   Rising Ransomware Threat to OT Assets](government/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.md) | CISA | 2021 | [source](https://www.cisa.gov/) |
+| [Known Exploited Vulnerabilities Catalog](government/known_exploited_vulnerabilities.md) | CISA | 2026 | [source](https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv) |
 | [CISA Cybersecurity Advisories (Live Feed)](government/CISA_Advisories_Feed.md) | CISA | ongoing | [source](https://www.cisa.gov/news-events/cybersecurity-advisories) |
 | [CISA Known Exploited Vulnerabilities Catalog](government/CISA_KEV.md) | CISA | ongoing | [source](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) |
+| [known exploited vulnerabilities](government/known_exploited_vulnerabilities.csv) | CISA | unknown |  |
 | [FFIEC CAT Appendix B   Mapping to NIST CSF](government/FFIEC_CAT_App_B_Map_to_NIST_CSF_June_2015_PDF4.md) | FFIEC | 2015 | [source](https://www.ffiec.gov/cyberassessmenttool.htm) |
 | [FFIEC CAT Appendix C   Glossary](government/FFIEC_CAT_App_C_Glossary_June_2015_PDF5.md) | FFIEC | 2015 | [source](https://www.ffiec.gov/cyberassessmenttool.htm) |
 | [FFIEC Cybersecurity Assessment Tool   Cybersecurity Maturity 2017](government/FFIEC_CAT_CybersecurityMaturity_2017.md) | FFIEC | 2017 | [source](https://www.ffiec.gov/cyberassessmenttool.htm) |
@@ -407,8 +409,10 @@ This index includes direct links to files in this repo and source links where av
 
 - [CISA MS ISAC Ransomware Guide](government/CISA_MS_ISAC_Ransomware_Guide_S508C.md) (2020) · [source](https://www.cisa.gov/)
 - [CISA Fact Sheet   Rising Ransomware Threat to OT Assets](government/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.md) (2021) · [source](https://www.cisa.gov/)
+- [Known Exploited Vulnerabilities Catalog](government/known_exploited_vulnerabilities.md) (2026) · [source](https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv)
 - [CISA Cybersecurity Advisories (Live Feed)](government/CISA_Advisories_Feed.md) (ongoing) · [source](https://www.cisa.gov/news-events/cybersecurity-advisories)
 - [CISA Known Exploited Vulnerabilities Catalog](government/CISA_KEV.md) (ongoing) · [source](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- [known exploited vulnerabilities](government/known_exploited_vulnerabilities.csv) (unknown)
 
 ### CRI
 
