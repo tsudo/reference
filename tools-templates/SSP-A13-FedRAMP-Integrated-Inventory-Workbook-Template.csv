@@ -1,0 +1,27 @@
+Unnamed: 0,                    SSP ATTACHMENT 13 - FedRAMP Integrated Inventory Workbook Template,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6, 
+,,,,,,,
+Overview:,,,,,,,
+"When completed, FedRAMP will accept this inventory workbook as the inventory information required by the following:",,,,,,,
+"  - System Security Plan 
+  - Security Assessment Plan
+  - Security Assessment Report 
+","  - Information System Contingency Plan
+  - Monthly Continuous Monitoring. ",,,,,,
+"Where the above documents require an inventory, include or refer to this document.",,,,,,,
+Note: This document replaces the separate inventory templates or tabs that existed in the above documents.,,,,,,,
+Instructions:,,,,,,,
+"1. The CSP should use this inventory template to capture inventory items for the entire OS/Infrastructure, software, and data bases as part of preparing for the Readiness Assessment and for the initial authorization of the system (for either a JAB Provisional-Authorization to Operate (P-ATO) or an Agency ATO.)
+2. This inventory format should also be used for Assessment Testing efforts by the 3PAO. 
+3. Once the service offering is in the Monitoring Phase of its lifecycle, the CSP should use this template to capture and submit inventory for monthly Continuous Monitoring efforts.  Ensure to ""save-as"" the inventory to keep month-to-month submissions of the inventory.  The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.
+4. Optional fields should be left blank indicating no data instead of inserting ""n/a,"""" N/A,"" ""na"" or other variants.
+5. Before submission, please delete the following: 
+    -  ""INSTRUCTIONS"" and ""Record of Changes"" tabs
+    -  Rows 3-11 in the Inventory tab (which contain guidance and examples)
+    -  Column A of the Inventory tab (which contains comments and row headers)
+
+The above documents are available on the FedRAMP website, at:
+https://www.fedramp.gov/resources/templates-3/
+
+",,,,,,,
+,,,,,,,
+Controlled Unclassified Information,,,,,,,

@@ -1,0 +1,108 @@
+System Name,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+CSP Name,,,,,,,
+Categorization Level,High,,,,,,
+,,,,,,,
+,,,,,,,
+Implementation Status,,,,,,,
+Total Controls,,421,,,,,
+Implemented,,0,,,,,
+Partially Implemented,,0,,,,,
+Planned,,0,,,,,
+Alternative Implementation,,0,,,,,
+Not Applicable,,0,,,,,
+Total,,0,,,,,
+,,,,,,,
+,,,,,,,
+Assessment Result,Assessment Results (Current),Assessment Results (Prior),,,,,
+Satisfied,0,0,,,,,
+Other than Satisfied,0,0,,,,,
+Percent Satisfied,0,0,,,,,
+,,,,,,,
+,,,,,,,
+Combined Summary,,,,,,,
+Risk Exposure Level,Count,Percentage,,,,,
+High,0,0,,,,,
+Moderate,0,0,,,,,
+Low,0,0,,,,,
+,,,,,,,
+,,,,,,,
+Access Control Summary,,,Awareness and Training Summary,,,Security Assessment and Authorization Summary,
+SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count
+Yes,0,,Yes,0,,Yes,0
+No,0,,No,0,,No,0
+Risk Exposure Level,Count,,Risk Exposure Level,Count,,Risk Exposure Level,Count
+High,0,,High,0,,High,0
+Moderate,0,,Moderate,0,,Moderate,0
+Low,0,,Low,0,,Low,0
+,,,,,,,
+Audit and Accountability Summary,,,Configuration Management Summary,,,Planning Summary,
+SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count
+Yes,0,,Yes,0,,Yes,0
+No,0,,No,0,,No,0
+Risk Exposure Level,Count,,Risk Exposure Level,Count,,Risk Exposure Level,Count
+High,0,,High,0,,High,0
+Moderate,0,,Moderate,0,,Moderate,0
+Low,0,,Low,0,,Low,0
+,,,,,,,
+Identification and Authentication Summary,,,Contingency Planning Summary,,,Risk Assessment Summary,
+SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count
+Yes,0,,Yes,0,,Yes,0
+No,0,,No,0,,No,0
+Risk Exposure Level,Count,,Risk Exposure Level,Count,,Risk Exposure Level,Count
+High,0,,High,0,,High,0
+Moderate,0,,Moderate,0,,Moderate,0
+Low,0,,Low,0,,Low,0
+,,,,,,,
+System and Communications Protection Summary,,,Incident Response Summary,,,System and Services Acquisition Summary,
+SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count,,SSP Imp. Statement Differential,Count
+Yes,0,,Yes,0,,Yes,0
+No,0,,No,0,,No,0
+Risk Exposure Level,Count,,Risk Exposure Level,Count,,Risk Exposure Level,Count
+High,0,,High,0,,High,0
+Moderate,0,,Moderate,0,,Moderate,0
+Low,0,,Low,0,,Low,0
+,,,,,,,
+,,,Maintenance Control Summary,,,,
+,,,SSP Imp. Statement Differential,Count,,,
+,,,Yes,0,,,
+,,,No,0,,,
+,,,Risk Exposure Level,Count,,,
+,,,High,0,,,
+,,,Moderate,0,,,
+,,,Low,0,,,
+,,,,,,,
+,,,Media Protection Summary,,,,
+,,,SSP Imp. Statement Differential,Count,,,
+,,,Yes,0,,,
+,,,No,0,,,
+,,,Risk Exposure Level,Count,,,
+,,,High,0,,,
+,,,Moderate,0,,,
+,,,Low,0,,,
+,,,,,,,
+,,,Physical and Environmental Protection Summary,,,,
+,,,SSP Imp. Statement Differential,Count,,,
+,,,Yes,0,,,
+,,,No,0,,,
+,,,Risk Exposure Level,Count,,,
+,,,High,0,,,
+,,,Moderate,0,,,
+,,,Low,0,,,
+,,,,,,,
+,,,Personnel Security Summary,,,,
+,,,SSP Imp. Statement Differential,Count,,,
+,,,Yes,0,,,
+,,,No,0,,,
+,,,Risk Exposure Level,Count,,,
+,,,High,0,,,
+,,,Moderate,0,,,
+,,,Low,0,,,
+,,,,,,,
+,,,System and Information Integrity Summary,,,,
+,,,SSP Imp. Statement Differential,Count,,,
+,,,Yes,0,,,
+,,,No,0,,,
+,,,Risk Exposure Level,Count,,,
+,,,High,0,,,
+,,,Moderate,0,,,
+,,,Low,0,,,

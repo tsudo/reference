@@ -1,0 +1,370 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+TSC REF,Trust Services Criteria,POINTS OF FOCUS,NIST REF,NIST CSF CUB-CATEGORY
+,CONTROL ENVIRONMENT,,,
+CC 1.1,COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.,,,
+CC 1.1.1,,"Sets the Tone at the Top—The board of directors and management, at all levels, demonstrate through their directives, actions, and behavior the importance of integrity and ethical values to support the functioning of the system of internal control.",PR.AT-4,Senior executives understand roles & responsibilities 
+CC 1.1.2,,Establishes Standards of Conduct—The expectations of the board of directors and senior management concerning integrity and ethical values are defined in the entity’s standards of conduct and understood at all levels of the entity and by outsourced service providers and business partners.,,
+CC 1.1.3,,Evaluates Adherence to Standards of Conduct—Processes are in place to evaluate the performance of individuals and teams against the entity’s expected standards of conduct.,,
+CC 1.1.4,,Addresses Deviations in a Timely Manner—Deviations from the entity’s expected standards of conduct are identified and remedied in a timely and consistent manner.,,
+CC 1.1.5,,"Considers Contractors and Vendor Employees in Demonstrating Its Commitment—Management and the board of directors consider the use of contractors and vendor employees in its processes for establishing standards of conduct, evaluating adherence to those standards, and addressing deviations in a timely manner. ",,
+CC 1.2,COSO Principle 2: The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control.,,,
+CC 1.2.1,,Establishes Oversight Responsibilities—The board of directors identifies and accepts its oversight responsibilities in relation to established requirements and expectations.,,
+CC 1.2.2,,"Applies Relevant Expertise—The board of directors defines, maintains, and periodically evaluates the skills and expertise needed among its members to enable them to ask probing questions of senior management and take commensurate action.",,
+CC 1.2.3,,Operates Independently—The board of directors has sufficient members who are independent from management and objective in evaluations and decision making.,,
+CC 1.2.4,,"Supplements Board Expertise—The board of directors supplements its expertise relevant to security, availability, processing integrity, confidentiality, and privacy, as needed, through the use of a subcommittee or consultants.",,
+CC 1.3,"COSO Principle 3: Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",,,
+CC 1.3.1,,"Considers All Structures of the Entity—Management and the board of directors consider the multiple structures used (including operating units, legal entities, geographic distribution, and outsourced service providers) to support the achievement of objectives.",,
+CC 1.3.2,,Establishes Reporting Lines—Management designs and evaluates lines of reporting for each entity structure to enable execution of authorities and responsibilities and flow of information to manage the activities of the entity.,,
+CC 1.3.3,,"Defines, Assigns, and Limits Authorities and Responsibilities—Management and the board of directors delegate authority, define responsibilities, and use appropriate processes and technology to assign responsibility and segregate duties as necessary at the various levels of the organization.",ID.AM-6,"Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established"
+CC 1.3.4,,"Addresses Specific Requirements When Defining Authorities and Responsibilities—Management and the board of directors consider requirements relevant to security, availability, processing integrity, confidentiality, and privacy when defining authorities and responsibilities. ",,
+CC 1.3.5,,"Considers Interactions With External Parties When Establishing Structures, Reporting Lines, Authorities, and Responsibilities—Management and the board of directors consider the need for the entity to interact with and monitor the activities of external parties when establishing structures, reporting lines, authorities, and responsibilities. ",,
+CC 1.4,"COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.",,,
+CC 1.4.1,,Establishes Policies and Practices—Policies and practices reflect expectations of competence necessary to support the achievement of objectives.,,
+CC 1.4.2,,Evaluates Competence and Addresses Shortcomings—The board of directors and management evaluate competence across the entity and in outsourced service providers in relation to established policies and practices and act as necessary to address shortcomings.,,
+CC 1.4.3,,"Attracts, Develops, and Retains Individuals—The entity provides the mentoring and training needed to attract, develop, and retain sufficient and competent personnel and outsourced service providers to support the achievement of objectives.",,
+CC 1.4.4,,Plans and Prepares for Succession—Senior management and the board of directors develop contingency plans for assignments of responsibility important for internal control.,,
+CC 1.4.5,,"Considers the Background of Individuals—The entity considers the background of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ",PR.IP-11,"Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)"
+CC 1.4.6,,"Considers the Technical Competency of Individuals—The entity considers the technical competency of potential and existing personnel, contractors, and vendor employees when determining whether to employ and retain the individuals. ",,
+CC 1.4.7,,"Provides Training to Maintain Technical Competencies— The entity provides training programs, including continuing education and training, to ensure skill sets and technical competency of existing personnel, contractors, and vendor employees are developed and maintained.",,
+CC 1.5,COSO Principle 5: The entity holds individuals accountable for their internal control responsibilities in the pursuit of objectives.,,,
+CC 1.5.1,,"Enforces Accountability Through Structures, Authorities, and Responsibilities—Management and the board of directors establish the mechanisms to communicate and hold individuals accountable for performance of internal control responsibilities across the entity and implement corrective action as necessary.",,
+CC 1.5.2,,"Establishes Performance Measures, Incentives, and Rewards—Management and the board of directors establish performance measures, incentives, and other rewards appropriate for responsibilities at all levels of the entity, reflecting appropriate dimensions of performance and expected standards of conduct, and considering the achievement of both short-term and longer-term objectives.",,
+CC 1.5.3,,"Evaluates Performance Measures, Incentives, and Rewards for Ongoing Relevance—Management and the board of directors align incentives and rewards with the fulfillment of internal control responsibilities in the achievement of objectives.",,
+CC 1.5.4,,"Considers Excessive Pressures—Management and the board of directors evaluate and adjust pressures associated with the achievement of objectives as they assign responsibilities, develop performance measures, and evaluate performance.",,
+CC 1.5.5,,"Evaluates Performance and Rewards or Disciplines Individuals—Management and the board of directors evaluate performance of internal control responsibilities, including adherence to standards of conduct and expected levels of competence, and provide rewards or exercise disciplinary action, as appropriate.",,
+,COMMUNICATION AND INFORMATION ,,,
+CC2.1,"COSO Principle 13: The entity obtains or generates and uses relevant, quality information to support the functioning of internal control.",,,
+,,Identifies Information Requirements—A process is in place to identify the information required and expected to support the functioning of the other components of internal control and the achievement of the entity’s objectives.,,
+,,Captures Internal and External Sources of Data—Information systems capture internal and external sources of data.,,
+,,Processes Relevant Data Into Information—Information systems process and transform relevant data into information.,,
+,,"Maintains Quality Throughout Processing—Information systems produce information that is timely, current, accurate, complete, accessible, protected, verifiable, and retained. Information is reviewed to assess its relevance in supporting the internal control components. ",,
+CC2.2,"COSO Principle 14: The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control. ",,,
+,,Communicates Internal Control Information—A process is in place to communicate required information to enable all personnel to understand and carry out their internal control responsibilities.,PR.AT-1,All users are informed and trained 
+,,,PR.AT-2,Privileged users understand roles & responsibilities 
+,,,PR.AT-5,Physical and information security personnel understand roles & responsibilities 
+,,Communicates With the Board of Directors—Communication exists between management and the board of directors so that both have information needed to fulfill their roles with respect to the entity’s objectives.,PR.AT-4,Senior executives understand roles & responsibilities 
+,,"Provides Separate Communication Lines—Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",,
+,,"Selects Relevant Method of Communication—The method of communication considers the timing, audience, and nature of the information.",,
+,,"Communicates Responsibilities—Entity personnel with responsibility for designing, developing, implementing, operating, maintaining, or monitoring system controls receive communications about their responsibilities, including changes in their responsibilities, and have the information necessary to carry out those responsibilities. ",PR.AT-1,All users are informed and trained 
+,,,PR.AT-2,Privileged users understand roles & responsibilities 
+,,"Communicates Information on Reporting Failures, Incidents, Concerns, and Other Matters—Entity personnel are provided with information on how to report systems failures, incidents, concerns, and other complaints to personnel.",PR.AT-1,All users are informed and trained 
+,,Communicates Objectives and Changes to Objectives —The entity communicates its objectives and changes to those objectives to personnel in a timely manner. ,,
+,,Communicates Information to Improve Security Knowledge and Awareness—The entity communicates information to improve security knowledge and awareness and to model appropriate security behaviors to personnel through a security awareness training program. ,PR.AT-1,All users are informed and trained 
+,,Communicates Information About System Operation and Boundaries—The entity prepares and communicates information about the design and operation of the system and its boundaries to authorized personnel to enable them to understand their role in the system and the results of system operation.,,
+,,Communicates System Objectives—The entity communicates its objectives to personnel to enable them to carry out their responsibilities. ,PR.AT-1,All users are informed and trained 
+ ,,Communicates System Changes—System changes that affect responsibilities or the achievement of the entity's objectives are communicated in a timely manner. ,,
+CC2.3,COSO Principle 15: The entity communicates with external parties regarding matters affecting the functioning of internal control. ,,,
+,,"Communicates to External Parties—Processes are in place to communicate relevant and timely information to external parties, including shareholders, partners, owners, regulators, customers, financial analysts, and other external parties.",PR.IP-8,Effectiveness of protection technologies is shared with appropriate parties
+,,"Enables Inbound Communications—Open communication channels allow input from customers, consumers, suppliers, external auditors, regulators, financial analysts, and others, providing management and the board of directors with relevant information.",,
+,,Communicates With the Board of Directors—Relevant information resulting from assessments conducted by external parties is communicated to the board of directors.,,
+,,"Provides Separate Communication Lines—Separate communication channels, such as whistle-blower hotlines, are in place and serve as fail-safe mechanisms to enable anonymous or confidential communication when normal channels are inoperative or ineffective.",,
+,,"Selects Relevant Method of Communication—The method of communication considers the timing, audience, and nature of the communication and legal, regulatory, and fiduciary requirements and expectations. ",,
+,,"Communicates Objectives Related to Confidentiality and Changes to Objectives— The entity communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives and changes to objectives related to confidentiality.  ",,
+,,"Communicates Objectives Related to Privacy and Changes to Objectives—The entity communicates, to external users, vendors, business partners and others whose products and services are part of the system, objectives related to privacy and changes to those objectives. ",,
+,,Communicates Information About System Operation and Boundaries—The entity prepares and communicates information about the design and operation of the system and its boundaries to authorized external users to permit users to understand their role in the system and the results of system operation. ,,
+,,Communicates System Objectives—The entity communicates its system objectives to appropriate external users. ,,
+,,"Communicates System Responsibilities—External users with responsibility for designing, developing, implementing, operating, maintaining, and monitoring system controls receive communications about their responsibilities and have the information necessary to carry out those responsibilities.",PR.AT-1,All users are informed and trained 
+,,,PR.AT-3,"Third-party stakeholders (e.g., suppliers, customers, partners) understand roles & responsibilities "
+,,"Communicates Information on Reporting System Failures, Incidents, Concerns, and Other Matters—External users are provided with information on how to report systems failures, incidents, concerns, and other complaints to appropriate personnel. ",PR.AT-1,All users are informed and trained 
+,RISK ASSESSMENT ,,,
+CC3.1,COSO Principle 6: The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives. ,,,
+,,Operations Ojectives,,
+,,"Reflects Management's Choices—Operations objectives reflect management's choices about structure, industry considerations, and performance of the entity.",ID.BE-1,The organization’s role in the supply chain is identified and communicated
+,,,ID.BE-2,The organization’s place in critical infrastructure and its industry sector is identified and communicated
+,,,ID.BE-3,"Priorities for organizational mission, objectives, and activities are established and communicated"
+,,,ID.BE-4,Dependencies and critical functions for delivery of critical services are established
+,,,ID.BE-5,"Resilience requirements to support delivery of critical services are established for all operating states (e.g. under duress/attack, during recovery, normal operations)"
+,,Considers Tolerances for Risk—Management considers the acceptable levels of variation relative to the achievement of operations objectives.,ID.RM-2,Organizational risk tolerance is determined and clearly expressed
+,,,ID.RM-3,The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis
+,,Includes Operations and Financial Performance Goals—The organization reflects the desired level of operations and financial performance for the entity within operations objectives.,ID.GV-4,Governance and risk management processes address cybersecurity risks
+,,Forms a Basis for Committing of Resources—Management uses operations objectives as a basis for allocating resources needed to attain desired operations and financial performance.,ID.RM-3,The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis
+,,External Financial Reporting Objectives,,
+,,Complies With Applicable Accounting Standards—Financial reporting objectives are consistent with accounting principles suitable and available for that entity. The accounting principles selected are appropriate in the circumstances.,,
+,,Considers Materiality—Management considers materiality in financial statement presentation.,ID.RM-2,Organizational risk tolerance is determined and clearly expressed
+,,Reflects Entity Activities—External reporting reflects the underlying transactions and events to show qualitative characteristics and assertions.,,
+,,External Nonfinancial Reporting Objectives,,
+,,Complies With Externally Established Frameworks—Management establishes objectives consistent with laws and regulations or standards and frameworks of recognized external organizations.,,
+,,Considers the Required Level of Precision—Management reflects the required level of precision and accuracy suitable for user needs and based on criteria established by third parties in nonfinancial reporting.,ID.RM-2,Organizational risk tolerance is determined and clearly expressed
+,,Reflects Entity Activities—External reporting reflects the underlying transactions and events within a range of acceptable limits.,,
+,,Internal Reporting Objectives,,
+,,Reflects Management's Choices—Internal reporting provides management with accurate and complete information regarding management's choices and information needed in managing the entity.,,
+,,Considers the Required Level of Precision—Management reflects the required level of precision and accuracy suitable for user needs in nonfinancial reporting objectives and materiality within financial reporting objectives.,ID.RM-2,Organizational risk tolerance is determined and clearly expressed
+,,Reflects Entity Activities—Internal reporting reflects the underlying transactions and events within a range of acceptable limits.,,
+,,Compliance Objectives,,
+,,"Reflects External Laws and Regulations—Laws and regulations establish minimum standards of conduct, which the entity integrates into compliance objectives.",ID.GV-3,"Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed"
+,,Considers Tolerances for Risk—Management considers the acceptable levels of variation relative to the achievement of operations objectives.,ID.RM-3,The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis
+,,"Establishes Sub-objectives to Support Objectives—Management identifies sub-objectives related to security, availability, processing integrity, confidentiality, and privacy to support the achievement of the entity’s objectives related to reporting, operations, and compliance.",ID.RM-2,Organizational risk tolerance is determined and clearly expressed
+CC3.2,COSO Principle 7: The entity identifies risks to the achievement of its objectives across the entity and analyzes risks as a basis for determining how the risks should be managed. ,,,
+,,"Includes Entity, Subsidiary, Division, Operating Unit, and Functional Levels—The entity identifies and assesses risk at the entity, subsidiary, division, operating unit, and functional levels relevant to the achievement of objectives.",ID.RA-1,Asset vulnerabilities are identified and documented
+,,,ID.RA-2,Cyber threat intelligence and vulnerability information is received from information sharing forums and sources
+,,Analyzes Internal and External Factors—Risk identification considers both internal and external factors and their impact on the achievement of objectives.,ID.RA-1,Asset vulnerabilities are identified and documented
+,,,ID.RA-2,Cyber threat intelligence and vulnerability information is received from information sharing forums and sources
+,,,ID.RA-3,"Threats, both internal and external, are identified and documented"
+,,,ID.RA-5,"Threats, vulnerabilities, likelihoods, and impacts are used to determine risk"
+,,Involves Appropriate Levels of Management—The entity puts into place effective risk assessment mechanisms that involve appropriate levels of management.,,
+,,Estimates Significance of Risks Identified—Identified risks are analyzed through a process that includes estimating the potential significance of the risk. ,ID.RA-4,Potential business impacts and likelihoods are identified
+,,"Determines How to Respond to Risks—Risk assessment includes considering how the risk should be managed and whether to accept, avoid, reduce, or share the risk.",ID.RA-6,Risk responses are identified and prioritized
+,,"Identifies and Assesses Criticality of Information Assets and Identifies Threats and Vulnerabilities—The entity's risk identification and assessment process includes (1) identifying information assets, including physical devices and systems, virtual devices, software, data and data flows, external information systems, and organizational roles; (2) assessing the criticality of those information assets; (3) identifying the threats to the assets from intentional (including malicious) and unintentional acts and environmental events; and (4) identifying the vulnerabilities of the identified assets.",ID.AM-1,Physical devices and systems within the organization are inventoried
+,,,ID.AM-2,Software platforms and applications within the organization are inventoried
+,,,ID.AM-3,Organizational communication and data flows are mapped
+,,,ID.AM-4,External information systems are catalogued
+,,,ID.AM-5,"Resources (e.g., hardware, devices, data, time, and software) are prioritized based on their classification, criticality, and business value "
+,,"Analyzes Threats and Vulnerabilities From Vendors, Business Partners, and Other Parties—The entity's risk assessment process includes the analysis of potential threats and vulnerabilities arising from vendors providing goods and services, as well as threats and vulnerabilities arising from business partners, customers, and others with access to the entity's information systems. ",,
+,,"Considers the Significance of the Risk—The entity’s consideration of the potential significance of the identified risks includes (1) determining the criticality of identified assets in meeting objectives; (2) assessing the impact of identified threats and vulnerabilities in meeting objectives; (3) assessing the likelihood of identified threats; and (4) determining the risk associated with assets based on asset criticality, threat impact, and likelihood.",,
+CC3.3,COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives. ,,,
+,,"Considers Various Types of Fraud—The assessment of fraud considers fraudulent reporting, possible loss of assets, and corruption resulting from the various ways that fraud and misconduct can occur.",,
+,,Assesses Incentives and Pressures—The assessment of fraud risks considers incentives and pressures.,,
+,,"Assesses Opportunities—The assessment of fraud risk considers opportunities for unauthorized acquisition, use, or disposal of assets, altering the entity’s reporting records, or committing other inappropriate acts.",,
+,,Assesses Attitudes and Rationalizations—The assessment of fraud risk considers how management and other personnel might engage in or justify inappropriate actions.,,
+,,Considers the Risks Related to the Use of IT and Access to Information—The assessment of fraud risks includes consideration of threats and vulnerabilities that arise specifically from the use of IT and access to information. ,,
+CC3.4,COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control. ,,,
+,,"Assesses Changes in the External Environment—The risk identification process considers changes to the regulatory, economic, and physical environment in which the entity operates.",,
+,,"Assesses Changes in the Business Model—The entity considers the potential impacts of new business lines, dramatically altered compositions of existing business lines, acquired or divested business operations on the system of internal control, rapid growth, changing reliance on foreign geographies, and new technologies.",,
+,,Assesses Changes in Leadership—The entity considers changes in management and respective attitudes and philosophies on the system of internal control.,,
+,,Assess Changes in Systems and Technology—The risk identification process considers changes arising from changes in the entity’s systems and changes in the technology environment. ,,
+,,Assess Changes in Vendor and Business Partner Relationships—The risk identification process considers changes in vendor and business partner relationships. ,,
+,MONITORING ACTIVITIES,,,
+CC4.1,"COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning. ",,,
+,,Considers a Mix of Ongoing and Separate Evaluations—Management includes a balance of ongoing and separate evaluations.,,
+,,Considers Rate of Change—Management considers the rate of change in business and business processes when selecting and developing ongoing and separate evaluations.,,
+,,Establishes Baseline Understanding—The design and current state of an internal control system are used to establish a baseline for ongoing and separate evaluations.,,
+,,Uses Knowledgeable Personnel—Evaluators performing ongoing and separate evaluations have sufficient knowledge to understand what is being evaluated.,,
+,,Integrates With Business Processes—Ongoing evaluations are built into the business processes and adjust to changing conditions.,,
+,,Adjusts Scope and Frequency—Management varies the scope and frequency of separate evaluations depending on risk.,,
+,,Objectively Evaluates—Separate evaluations are performed periodically to provide objective feedback.,,
+,,"Considers Different Types of Ongoing and Separate Evaluations—Management uses a variety of different types of ongoing and separate evaluations, including penetration testing, independent certification made against established specifications (for example, ISO certifications), and internal audit assessments.  ",,
+CC4.2,"COSO Principle 17: The entity evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate. ",,,
+,,"Assesses Results—Management and the board of directors, as appropriate, assess results of ongoing and separate evaluations.",PR.IP-7,Protection processes are continuously improved
+,,"Communicates Deficiencies—Deficiencies are communicated to parties responsible for taking corrective action and to senior management and the board of directors, as appropriate.",PR.IP-7,Protection processes are continuously improved
+,,Monitors Corrective Action—Management tracks whether deficiencies are remedied on a timely basis.,PR.IP-7,Protection processes are continuously improved
+,CONTROL ACTIVITIES ,,,
+CC5.1,COSO Principle 10: The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels.,,,
+,,Integrates With Risk Assessment—Control activities help ensure that risk responses that address and mitigate risks are carried out.  ,PR.IP-7,Protection processes are continuously improved
+,,,ID.RM-1,"Risk management processes are established, managed, and agreed to by organizational stakeholders"
+,,"Considers Entity-Specific Factors—Management considers how the environment, complexity, nature, and scope of its operations, as well as the specific characteristics of its organization, affect the selection and development of control activities.",,
+,,Determines Relevant Business Processes—Management determines which relevant business processes require control activities.,,
+,,"Evaluates a Mix of Control Activity Types—Control activities include a range and variety of controls and may include a balance of approaches to mitigate risks, considering both manual and automated controls, and preventive and detective controls.",,
+,,Considers at What Level Activities Are Applied—Management considers control activities at various levels in the entity.,,
+,,"Addresses Segregation of Duties—Management segregates incompatible duties, and where such segregation is not practical, management selects and develops alternative control activities.",,
+CC5.2,COSO Principle 11: The entity also selects and develops general control activities over technology to support the achievement of objectives.,,,
+,,"Determines Dependency Between the Use of Technology in Business Processes and Technology General Controls—Management understands and determines the dependency and linkage between business processes, automated control activities, and technology general controls.",,
+,,"Establishes Relevant Technology Infrastructure Control Activities—Management selects and develops control activities over the technology infrastructure, which are designed and implemented to help ensure the completeness, accuracy, and availability of technology processing.",,
+,,Establishes Relevant Security Management Process Controls Activities—Management selects and develops control activities that are designed and implemented to restrict technology access rights to authorized users commensurate with their job responsibilities and to protect the entity’s assets from external threats.,,
+,,"Establishes Relevant Technology Acquisition, Development, and Maintenance Process Control Activities—Management selects and develops control activities over the acquisition, development, and maintenance of technology and its infrastructure to achieve management’s objectives.",,
+CC5.3,COSO Principle 12: The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action. ,,,
+,,Establishes Policies and Procedures to Support Deployment of Management ‘s Directives—Management establishes control activities that are built into business processes and employees’ day-to-day activities through policies establishing what is expected and relevant procedures specifying actions.,ID.GV-1,Organizational information security policy is established
+,,Establishes Responsibility and Accountability for Executing Policies and Procedures—Management establishes responsibility and accountability for control activities with management (or other designated personnel) of the business unit or function in which the relevant risks reside.,ID.GV-2,Information security roles & responsibilities are coordinated and aligned with internal roles and external partners
+,,Performs in a Timely Manner—Responsible personnel perform control activities in a timely manner as defined by the policies and procedures.,,
+,,Takes Corrective Action—Responsible personnel investigate and act on matters identified as a result of executing control activities.,,
+,,Performs Using Competent Personnel—Competent personnel with sufficient authority perform control activities with diligence and continuing focus.,,
+,,Reassesses Policies and Procedures—Management periodically reviews control activities to determine their continued relevance and refreshes them when necessary.,PR.IP-7,Protection processes are continuously improved
+,,,PR.IP-12,A vulnerability management plan is developed and implemented
+,,,DE.DP-5,Detection processes are continuously improved
+,Logical and Physical Access Controls,,,
+CC6.1  ,"The entity implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the entity's objectives. ",,,
+,,"Identifies and Manages the Inventory of Information Assets—The entity identifies, inventories, classifies, and manages information assets.  ",ID.AM-1,Physical devices and systems within the organization are inventoried
+,,,ID.AM-2,Software platforms and applications within the organization are inventoried
+,,,ID.AM-3,Organizational communication and data flows are mapped
+,,,ID.AM-4,External information systems are catalogued
+,,,PR.DS-3,"Assets are formally managed throughout removal, transfers, and disposition"
+,,"Restricts  Logical Access—Logical access to information assets, including hardware, data (at-rest, during processing, or in transmission), software, administrative authorities, mobile devices, output, and offline system components is restricted through the use of access control software and rule sets. ",PR.AC-5,"Network integrity is protected, incorporating network segregation where appropriate"
+,,,PR.PT-3, The principle of least functionality is incorporated by configuring systems to provide only essential capabilities
+,,,PR.DS-1,Data-at-rest is protected
+,,,PR.DS-2,Data-in-transit is protected
+,,,PR.DS-3,"Assets are formally managed throughout removal, transfers, and disposition"
+,,,PR.PT-3, The principle of least functionality is incorporated by configuring systems to provide only essential capabilities
+,,"Identifies and Authenticates Users—Persons, infrastructure and software are identified and authenticated prior to accessing information assets, whether locally or remotely. ",PR.AC-6,"Identities are proofed and bound to credentials, and asserted in interactions when appropriate"
+,,Considers Network Segmentation—Network segmentation permits unrelated portions of the entity's information system to be isolated from each other. ,PR.AC-5,"Network integrity is protected, incorporating network segregation where appropriate"
+,,"Manages Points of Access—Points of access by outside entities and the types of data that flow through the points of access are identified, inventoried, and managed. The types of individuals and systems using each point of access are identified, documented, and managed. ",PR.AC-5,"Network integrity is protected, incorporating network segregation where appropriate"
+,,"Restricts Access to Information Assets—Combinations of data classification, separate data structures, port restrictions, access protocol restrictions, user identification, and digital certificates are used to establish access control rules for information assets.  ",,
+,,"Manages Identification and Authentication—Identification and authentication requirements are established, documented, and managed for individuals and systems accessing entity information, infrastructure and software.",,
+,,"Manages Credentials for Infrastructure and Software—New internal and external infrastructure and software  are registered, authorized, and documented prior to being granted access credentials and implemented on the network or access point. Credentials are removed and access is disabled when access is no longer required or the infrastructure and software are no longer in use. ",PR.AC-1,"Identities and credentials are issued, managed, revoked, and audited for authorized devices, users, and processes"
+,,"Uses Encryption to Protect Data—The entity uses encryption to supplement other measures used to protect data-at-rest, when such protections are deemed appropriate based on assessed risk.",,
+,,"Protects Encryption Keys—Processes are in place to protect encryption keys during generation, storage, use, and destruction.",,
+CC6.2  ,"Prior to issuing system credentials and granting system access, the entity registers and authorizes new internal and external users whose access is administered by the entity. For those users whose access is administered by the entity, user system credentials are removed when user access is no longer authorized. ",,,
+,,Controls Access Credentials to Protected Assets—Information asset access credentials are created based on an authorization from the system's asset owner or authorized custodian.,PR.AC-1,"Identities and credentials are issued, managed, revoked, and audited for authorized devices, users, and processes"
+,,Removes Access to Protected Assets When Appropriate—Processes are in place to remove credential access when an individual no longer requires such access.,PR.AC-1,"Identities and credentials are issued, managed, revoked, and audited for authorized devices, users, and processes"
+,,,PR.IP-11,"Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)"
+,,Reviews Appropriateness of Access Credentials—The appropriateness of access credentials is reviewed on a periodic basis for unnecessary and inappropriate individuals with credentials. ,PR.AC-1,"Identities and credentials are issued, managed, revoked, and audited for authorized devices, users, and processes"
+,,,PR.IP-11,"Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)"
+CC6.3 ,"The entity authorizes, modifies, or removes access to data, software, functions, and other protected information assets based on roles, responsibilities, or the system design and changes, giving consideration to the concepts of least privilege and segregation of duties, to meet the entity’s objectives. ",,,
+,,Creates or Modifies Access to Protected Information Assets—Processes are in place to create or modify access to protected information assets based on authorization  from the asset’s owner.,PR.AC-4,"Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties"
+,,Removes Access to Protected Information Assets—Processes are in place to remove access to protected information assets when an individual no longer requires access.,PR.AC-4,"Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties"
+,,Uses Role-Based Access Controls—Role-based access control is utilized to support segregation of incompatible functions.,PR.AC-4,"Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties"
+,,,PR.AC-4,"Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties"
+CC6.4  ,"The entity restricts physical access to facilities and protected information assets (for example, data center facilities,  back-up media storage, and other sensitive locations) to authorized personnel to meet the entity’s objectives. ",,,
+,,,PR.AC-2,Physical access to assets is managed and protected
+,,,PR.AC-2,Physical access to assets is managed and protected
+,,,PR.AC-2,Physical access to assets is managed and protected
+,,"Creates or Modifies Physical Access—Processes are in place to create or modify physical access to facilities such as data centers, office spaces, and work areas, based on authorization from the system's asset owner.",PR.AC-2,Physical access to assets is managed and protected
+,,Removes Physical Access—Processes are in place to remove access to physical resources when an individual no longer requires access.,PR.AC-2,Physical access to assets is managed and protected
+,,Reviews Physical Access—Processes are in place to periodically review physical access to ensure consistency with job responsibilities.,PR.AC-2,Physical access to assets is managed and protected
+CC6.5  ,The entity discontinues logical and physical protections over physical assets only after the ability to read or recover data and software from those assets has been diminished and is no longer required to meet the entity’s objectives.    ,,,
+,,Identifies Data and Software for Disposal—Procedures are in place to identify data and software stored on equipment to be disposed and to render such data and software unreadable.,PR.DS-3,"Assets are formally managed throughout removal, transfers, and disposition"
+,,Removes Data and Software From Entity Control—Procedures are in place to remove data and software stored on equipment to be removed from the physical control of the entity and to render such data and software unreadable.,PR.DS-3,"Assets are formally managed throughout removal, transfers, and disposition"
+,,,PR.DS-3,"Assets are formally managed throughout removal, transfers, and disposition"
+CC6.6,The entity implements logical access security measures to protect against threats from sources outside its system boundaries.  ,,,
+,,"Restricts Access—The types of activities that can occur through a communication channel (for example, FTP site, router port) are restricted. ",PR.AC-3,Remote access is managed
+,,Protects Identification and Authentication Credentials—Identification and authentication credentials are protected during transmission outside its system boundaries.,PR.AC-3,Remote access is managed
+,,Requires Additional Authentication or Credentials—Additional authentication information or credentials are required when accessing the system from outside its boundaries.,PR.AC-3,Remote access is managed
+,,"Implements Boundary Protection Systems—Boundary protection systems (for example, firewalls, demilitarized zones, and intrusion detection systems) are implemented to protect external access points from attempts and unauthorized access and are monitored to detect such attempts.",PR.DS-5,Protections against data leaks are implemented
+CC6.7 ,"The entity restricts the transmission, movement, and removal of information to authorized internal and external users and processes, and protects it during transmission, movement, or removal to meet the entity’s objectives.   ",,,
+,,"Restricts the Ability to Perform Transmission—Data loss prevention processes and technologies are used to restrict ability to authorize and execute transmission, movement and removal of information.",,
+,,Uses Encryption Technologies or Secure Communication Channels to Protect Data—Encryption technologies or secured communication channels are used to protect transmission of data and other communications beyond connectivity access points.,PR.PT-4,Communications and control networks are protected
+,,"Protects Removal Media—Encryption technologies and physical asset protections are used for removable media (such as USB drives and back-up tapes), as appropriate.",PR.PT-2,Removable media is protected and its use restricted according to policy
+,,"Protects Mobile Devices—Processes are in place to protect mobile devices (such as laptops, smart phones and tablets) that serve as information assets.",,
+CC6.8 ,The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity’s objectives. ,,,
+,,Restricts Application and Software Installation—The ability to install applications and software is restricted to authorized individuals.,,
+,,Detects Unauthorized Changes to Software and Configuration Parameters—Processes are in place to detect changes to software and configuration parameters that may be indicative of unauthorized or malicious software.,,
+,,Uses a Defined Change Control Process—A management-defined change control process is used for the implementation of software. ,,
+,,Uses Antivirus and Anti-Malware Software—Antivirus and anti-malware software is implemented and maintained to provide for the interception or detection and remediation of malware.,DE.CM-4,Malicious code is detected
+,,Scans Information Assets from Outside the Entity for Malware and Other Unauthorized Software—Procedures are in place to scan information assets that have been transferred or returned to the entity’s custody for malware and other unauthorized software and to remove any items detected prior to its implementation on the network. ,DE.CM-5,Unauthorized mobile code is detected
+,System Operations,,,
+CC7.1,"To meet its objectives, the entity uses detection and monitoring procedures to identify (1) changes to configurations that result in the introduction of new vulnerabilities, and (2) susceptibilities to newly discovered vulnerabilities. ",,,
+,,Uses Defined Configuration Standards—Management has defined configuration standards. ,PR.IP-1,A baseline configuration of information technology/industrial control systems is created and maintained incorporating appropriate security principles (e.g. concept of least functionality)
+,,"Monitors Infrastructure and Software—The entity monitors infrastructure and software for noncompliance with the standards, which could threaten the achievement of the entity's objectives.  ",PR.IP-1,A baseline configuration of information technology/industrial control systems is created and maintained incorporating appropriate security principles (e.g. concept of least functionality)
+,,"Implements Change-Detection Mechanisms—The IT system includes a change-detection mechanism (for example, file integrity monitoring tools) to alert personnel to unauthorized modifications of critical system files, configuration files, or content files. ",PR.DS-8,Integrity checking mechanisms are used to verify hardware integrity
+,,,PR.DS-6,"Integrity checking mechanisms are used to verify software, firmware, and information integrity"
+,,Detects Unknown or Unauthorized Components—Procedures are in place to detect the introduction of unknown or unauthorized components.  ,PR.DS-6,"Integrity checking mechanisms are used to verify software, firmware, and information integrity"
+,,Conducts Vulnerability Scans—The entity conducts vulnerability scans designed to identify potential vulnerabilities or misconfigurations on a periodic basis and after any significant change in the environment and takes action to remediate identified deficiencies on a timely basis.,PR.IP-12,A vulnerability management plan is developed and implemented
+,,,DE.CM-8,Vulnerability scans are performed
+CC7.2,"The entity monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the entity's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events. ",,,
+,,"Implements Detection Policies, Procedures, and Tools—Detection policies and procedures are defined and implemented, and detection tools are implemented on Infrastructure and software to identify anomalies in the operation or unusual activity on systems. Procedures may include (1) a defined governance process for security event detection and management that includes provision of resources; (2) use of intelligence sources to identify newly discovered threats and vulnerabilities; and (3) logging of unusual system activities. ",PR.DS-5,Protections against data leaks are implemented
+,,,PR.PT-1,"Audit/log records are determined, documented, implemented, and reviewed in accordance with policy"
+,,,DE.CM-1,The network is monitored to detect potential cybersecurity events
+,,,DE.DP-1,Roles and responsibilities for detection are well defined to ensure accountability
+,,,DE.DP-2,Detection activities comply with all applicable requirements
+,,,DE.DP-4,Event detection information is communicated to appropriate parties
+,,Designs Detection Measures—Detection measures are designed to identify anomalies that could result from actual or attempted (1) compromise of physical barriers; (2) unauthorized actions of authorized personnel; (3) use of compromised identification and authentication credentials; (4) unauthorized access from outside the system boundaries; (5) compromise of authorized external parties; and (6) implementation or connection of unauthorized hardware and software. ,PR.DS-5,Protections against data leaks are implemented
+,,,DE.AE-1,A baseline of network operations and expected data flows for users and systems is established and managed
+,,,DE.CM-1,The network is monitored to detect potential cybersecurity events
+,,,DE.CM-2,The physical environment is monitored to detect potential cybersecurity events
+,,,DE.CM-3,Personnel activity is monitored to detect potential cybersecurity events
+,,,DE.CM-4,Malicious code is detected
+,,,DE.CM-5,Unauthorized mobile code is detected
+,,,DE.CM-6,External service provider activity is monitored to detect potential cybersecurity events
+,,,DE.CM-7,"Monitoring for unauthorized personnel, connections, devices, and software is performed"
+,,,DE.CM-8,Vulnerability scans are performed
+,,"Implements Filters to Analyze Anomalies—Management has implemented procedures to filter, summarize, and analyze anomalies to identify security events.",DE.AE-2,Detected events are analyzed to understand attack targets and methods
+,,,DE.AE-3,Event data are aggregated and correlated from multiple sources and sensors
+,,,DE.AE-5,Incident alert thresholds are established
+,,,DE.DP-4,Event detection information is communicated to appropriate parties
+,,,RS.AN-4,Incidents are categorized consistent with response plans
+,,Monitors Detection Tools for Effective Operation—Management has implemented processes to monitor the effectiveness of detection tools.,DE.DP-3,Detection processes are tested
+,,,DE.DP-5,Detection processes are continuously improved
+CC7.3,"The entity evaluates security events to determine whether they could or have resulted in a failure of the entity to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures. ",,,
+,,Responds to Security Incidents—Procedures are in place for responding to security incidents and evaluating the effectiveness of those policies and procedures on a periodic basis. ,PR.IP-9,Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed
+,,,DE.AE-4,Impact of events is determined
+,,,DE.AE-5,Incident alert thresholds are established
+,,,PR.IP-10,Response and recovery plans are tested
+,,"Communicates and Reviews Detected Security Events—Detected security events are communicated to and reviewed by the individuals responsible for the management of the security program and actions are taken, if necessary.",RS.CO-2,Events are reported consistent with established criteria
+,,,RS.CO-3,Information is shared consistent with response plans
+,,Develops and Implements Procedures to Analyze Security Incidents—Procedures are in place to analyze security incidents and determine system impact.,DE.AE-4,Impact of events is determined
+,,,RS.AN-1,Notifications from detection systems are investigated 
+,,,RS.AN-2,The impact of the incident is understood
+,,Assesses the Impact on Personal Information—Detected security events are evaluated to determine whether they could or did result in the unauthorized disclosure or use of personal information and whether there has been a failure to comply with applicable laws or regulations. ,,
+,,"Determines Personal Information Used or Disclosed—When an unauthorized use or disclosure of personal information has occurred, the affected information is identified.  ",,
+CC7.4,"The entity responds to identified security incidents by executing a defined incident response program to understand, contain, remediate, and communicate security incidents, as appropriate.  ",,,
+,,"Assigns Roles and Responsibilities—Roles and responsibilities for the design, implementation, maintenance, and execution of the incident response program are assigned, including the use of external resources when necessary.",RS.CO-1,Personnel know their roles and order of operations when a response is needed
+,,Contains Security Incidents—Procedures are in place to contain security incidents that actively threaten entity objectives. ,RS.RP-1,Response plan is executed during or after an event
+,,,RS.MI-1,Incidents are contained
+,,Mitigates Ongoing Security Incidents—Procedures are in place to mitigate the effects of ongoing security incidents.,RS.MI-2,Incidents are mitigated
+,,"Ends Threats Posed by Security Incidents—Procedures are in place to end the threats posed by security incidents through closure of the vulnerability, removal of unauthorized access, and other remediation actions. ",PR.IP-12,A vulnerability management plan is developed and implemented
+,,Restores Operations—Procedures are in place to restore data and business operations to an interim state that permits the achievement of entity objectives.,RS.RP-1,Response plan is executed during or after an event
+,,Develops and Implements Communication Protocols for Security Incidents—Protocols for communicating security incidents and actions taken to affected parties are developed and implemented to meet the entity's objectives. ,RS.CO-3,Information is shared consistent with response plans
+,,,RS.CO-4,Coordination with stakeholders occurs consistent with response plans
+,,,RS.CO-5,Voluntary information sharing occurs with external stakeholders to achieve broader cybersecurity situational awareness 
+,,"Obtains Understanding of Nature of Incident and Determines Containment Strategy—An understanding of the nature (for example, the method by which the incident occurred and the affected system resources) and severity of the security incident is obtained to determine the appropriate containment strategy, including (1) a determination of the appropriate response time frame, and (2) the determination and execution of the containment approach. ",,
+,,Remediates Identified Vulnerabilities—Identified vulnerabilities are remediated through the development and execution of remediation activities.  ,RS.MI-3,Newly identified vulnerabilities are mitigated or documented as accepted risks
+,,Communicates Remediation Activities—Remediation activities are documented and communicated in accordance with the incident response program. ,RC.CO-1,Public relations are managed
+,,Evaluates the Effectiveness of Incident Response—The design of incident response activities is evaluated for effectiveness on a periodic basis.  ,RC.CO-3,Recovery activities are communicated to internal stakeholders and executive and management teams
+,,"Periodically Evaluates Incidents—Periodically, management reviews incidents related to security, availability, processing integrity, confidentiality, and privacy and identifies the need for system changes based on incident patterns and root causes.",,
+,,"Communicates Unauthorized Use and Disclosure—Events that resulted in unauthorized use or disclosure of personal information are communicated to the data subjects, legal and regulatory authorities, and others as required.  ",,
+,,"Application of Sanctions—The conduct of individuals and organizations operating under the authority of the entity and involved in the unauthorized use or disclosure of personal information is evaluated and, if appropriate, sanctioned in accordance with entity policies and legal and regulatory requirements.  ",,
+CC7.5 ,"The entity identifies, develops, and implements activities to recover from identified security incidents. ",,,
+,,"Restores the Affected Environment—The activities restore the affected environment to functional operation by rebuilding systems, updating software, installing patches, and changing configurations, as needed. ",RC.RP-1,Recovery plan is executed during or after an event
+,,"Communicates Information About the Event—Communications about the nature of the incident, recovery actions taken, and activities required for the prevention of future security events are made to management and others as appropriate (internal and external).   ",,
+,,Determines Root Cause of the Event—The root cause of the event is determined. ,RS.AN-3,Forensics are performed
+,,"Implements Changes to Prevent and Detect Recurrences—Additional architecture or changes to preventive and detective controls, or both, are implemented to prevent and detect recurrences on a timely basis.  ",,
+,,"Improves Response and Recovery Procedures—Lessons learned are analyzed, and the incident response plan and recovery procedures are improved. ",RS.IM-1,Response plans incorporate lessons learned
+,,Implements Incident Recovery Plan Testing—Incident recovery plan testing is performed on a periodic basis. The testing includes (1) development of testing scenarios based on threat likelihood and magnitude; (2) consideration of relevant system components from across the entity that can impair availability; (3) scenarios that consider the potential for the lack of availability of key personnel; and (4) revision of continuity plans and systems based on test results.,RS.IM-2,Response strategies are updated
+,,,RC.IM-1,Recovery plans incorporate lessons learned
+,,,RC.IM-2,Recovery strategies are updated
+,Change Management ,,,
+CC8.1  ,"The entity authorizes, designs, develops or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.  ",,,
+,,"Manages Changes Throughout the System Lifecycle—A process for managing system changes throughout the lifecycle of the system and its components (infrastructure, data, software and procedures) is used to support system availability and processing integrity. ",PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,,PR.IP-3,Configuration change control processes are in place
+,,,PR.IP-3,Configuration change control processes are in place
+,,Authorizes Changes—A process is in place to authorize system changes prior to development.,,
+,,Designs and Develops Changes—A process is in place to design and develop system changes.,,
+,,Documents Changes—A process is in place to document system changes to support ongoing maintenance of the system and to support system users in performing their responsibilities. ,,
+,,Tracks System Changes—A process is in place to track system changes prior to implementation. ,PR.MA-1,"Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools"
+,,,PR.MA-2,"Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access"
+,,Configures Software—A process is in place to select and implement the configuration parameters used to control the functionality of software. ,,
+,,Tests System Changes—A process is in place to test system changes prior to implementation. ,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,Approves System Changes—A process is in place to approve system changes prior to implementation.  ,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,,PR.IP-3,Configuration change control processes are in place
+,,,PR.MA-1,"Maintenance and repair of organizational assets is performed and logged in a timely manner, with approved and controlled tools"
+,,,PR.MA-2,"Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access"
+,,,PR.DS-7,The development and testing environment(s) are separate from the production environment
+,,Deploys System Changes—A process is in place to implement system changes.,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,,PR.IP-3,Configuration change control processes are in place
+,,"Identifies and Evaluates System Changes—Objectives affected by system changes are identified, and the ability of the modified system to meet the objectives is evaluated throughout the system development life cycle.",PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,"Identifies Changes in Infrastructure, Data, Software, and Procedures Required to Remediate Incidents—Changes in infrastructure, data, software, and procedures required to remediate incidents to continue to meet objectives are identified, and the change process is initiated upon identification. ",PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,Creates Baseline Configuration of IT Technology—A baseline configuration of IT and control systems is created and maintained.,PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,"Provides for Changes Necessary in Emergency Situations —A process is in place for authorizing, designing, testing, approving and implementing changes necessary in emergency situations (that is, changes that need to be implemented in an urgent timeframe). ",PR.IP-3,Configuration change control processes are in place
+,,"Protects Confidential Information—The entity protects confidential information during system design, development, testing, implementation, and change processes to meet the entity’s objectives related to confidentiality.  ",PR.IP-2,A System Development Life Cycle to manage systems is implemented
+,,"Protects Personal Information—The entity protects personal information during system design, development, testing, implementation, and change processes to meet the entity’s objectives related to privacy.  ",,
+,Risk Mitigation,,,
+CC9.1  ,"The entity identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions. ",,,
+,,"Considers Mitigation of Risks of Business Disruption—Risk mitigation activities include the development of planned policies, procedures, communications, and alternative processing solutions to respond to, mitigate, and recover from security events that disrupt business operations. Those policies and procedures include monitoring processes and information and communications to meet the entity's objectives during response, mitigation, and recovery efforts.  ",PR.IP-9,Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed
+,,,ID.SC-5,Response and recovery planning and testing are conducted with critical suppliers/providers
+,,Considers the Use of Insurance to Mitigate Financial Impact Risks—The risk management activities consider the use of insurance to offset the financial impact of loss events that would otherwise impair the ability of the entity to meet its objectives.,,
+CC9.2,The entity assesses and manages risks associated with vendors and business partners. ,,,
+,,"Establishes Requirements for Vendor and Business Partner Engagements—The entity establishes specific requirements for a vendor and business partner engagement that includes (1) scope of services and product specifications, (2) roles and responsibilities, (3) compliance requirements, and (4) service levels. ",ID.SC-1,"Cyber supply chain risk management processes are identified, established, assessed, managed, and agreed to by organizational stakeholders"
+,,,ID.SC-3,Suppliers and partners are required by contract to implement appropriate measures designed to meet the objectives of the Information Security program or Cyber Supply Chain Risk Management Plan.
+,,"Assesses Vendor and Business Partner Risks—The entity assesses, on a periodic basis, the risks that vendors and business partners (and those entities’ vendors and business partners) represent to the achievement of the entity's objectives.  ",ID.SC-2,"Identify, prioritize and assess suppliers and partners of critical information systems, components and services using a cyber supply chain risk assessment process"
+,,Assigns Responsibility and Accountability for Managing Vendors and Business Partners—The entity assigns responsibility and accountability for the management of risks associated with vendors and business partners. ,,
+,,Establishes Communication Protocols for Vendors and Business Partners—The entity establishes communication and resolution protocols for service or product issues related to vendors and business partners.  ,,
+,,Establishes Exception Handling Procedures From Vendors and Business Partners —The entity establishes exception handling procedures for service or product issues related to vendors and business partners. ,,
+,,Assesses Vendor and Business Partner Performance—The entity periodically assesses the performance of vendors and business partners. ,ID.SC-4,"Suppliers and partners are monitored to confirm that they have satisfied their obligations as required. Reviews of audits, summaries of test results, or other equivalent evaluations of suppliers/providers are conducted"
+,,Implements Procedures for Addressing Issues Identified During Vendor and Business Partner Assessments—The entity implements procedures for addressing issues identified with vendor and business partner relationships.   ,,
+,,Implements Procedures for Terminating Vendor and Business Partner Relationships — The entity implements procedures for terminating vendor and business partner relationships.,,
+,,Obtains Confidentiality Commitments from Vendors and Business Partners—The entity obtains confidentiality commitments that are consistent with the entity’s confidentiality commitments and requirements from vendors and business partners who have access to confidential information. ,,
+,,"Assesses Compliance With Confidentiality Commitments of Vendors and Business Partners — On a periodic and as-needed basis, the entity assesses compliance by vendors and business partners with the entity’s confidentiality commitments and requirements. ",,
+,,"Obtains Privacy Commitments from Vendors and Business Partners—The entity obtains privacy commitments, consistent with the entity’s privacy commitments and requirements, from vendors and business partners who have access to personal information. ",,
+,,"Assesses Compliance with Privacy Commitments of Vendors and Business Partners— On a periodic and as-needed basis, the entity assesses compliance by vendors and business partners with the entity’s privacy commitments and requirements and takes corrective action as necessary.",,
+,,,PR.AT-3,"Third-party stakeholders (e.g., suppliers, customers, partners) understand roles & responsibilities "
+,,,ID.SC-4,"Suppliers and partners are monitored to confirm that they have satisfied their obligations as required. Reviews of audits, summaries of test results, or other equivalent evaluations of suppliers/providers are conducted"
+,ADDITIONAL CRITERIA FOR AVAILABILITY,,,
+A1.1,"The entity maintains, monitors, and evaluates current processing capacity and use of system components (infrastructure, data, and software) to manage capacity demand and to enable the implementation of additional capacity to help meet its objectives. ",,,
+,,Measures Current Usage—The use of the system components is measured to establish a baseline for capacity management and to use when evaluating the risk of impaired availability due to capacity constraints. ,PR.DS-4,Adequate capacity to ensure availability is maintained
+,,Forecasts Capacity—The expected average and peak use of system components is forecasted and compared to system capacity and associated tolerances. Forecasting considers capacity in the event of the failure of system components that constrain capacity. ,PR.DS-4,Adequate capacity to ensure availability is maintained
+,,Makes Changes Based on Forecasts—The system change management process is initiated when forecasted usage exceeds capacity tolerances. ,PR.DS-4,Adequate capacity to ensure availability is maintained
+A1.2,"The entity authorizes, designs, develops or acquires, implements, operates, approves, maintains, and monitors environmental protections, software, data back-up processes, and recovery infrastructure to meet its objectives.  ",,,
+,,"Identifies Environmental Threats—As part of the risk assessment process, management identifies environmental threats that could impair the availability of the system, including threats resulting from adverse weather, failure of environmental control systems, electrical discharge, fire, and water.  ",PR.IP-5,Policy and regulations regarding the physical operating environment for organizational assets are met
+,,Designs Detection Measures—Detection measures are implemented to identify anomalies that could result from environmental threat events. ,,
+,,Implements and Maintains Environmental Protection Mechanisms— Management implements and maintains environmental protection mechanisms to prevent and mitigate against environmental events.  ,,
+,,Implements Alerts to Analyze Anomalies—Management implements alerts that are communicated to personnel for analysis to identify environmental threat events.,,
+,,"Responds to Environmental Threat Events—Procedures are in place for responding to environmental threat events and for evaluating the effectiveness of those policies and procedures on a periodic basis. This includes automatic mitigation systems (for example, uninterruptable power system and generator back-up subsystem).",PR.PT-5,"Systems operate in pre-defined functional states to achieve availability (e.g. under duress, under attack, during recovery, normal operations)."
+,,"Communicates and Reviews Detected Environmental Threat Events—Detected environmental threat events are communicated to and reviewed by the individuals responsible for the management of the system, and actions are taken, if necessary.",,
+,,Determines Data Requiring Backup—Data is evaluated to determine whether backup is required. ,PR.IP-4,"Backups of information are conducted, maintained, and tested periodically"
+,,"Performs Data Backup—Procedures are in place for backing up data, monitoring to detect back-up failures, and initiating corrective action when such failures occur. ",PR.IP-4,"Backups of information are conducted, maintained, and tested periodically"
+,,,PR.IP-4,"Backups of information are conducted, maintained, and tested periodically"
+,,Addresses Offsite Storage—Back-up data is stored in a location at a distance from its principal storage location sufficient that the likelihood of a security or environmental threat event affecting both sets of data is reduced to an appropriate level.  ,PR.IP-4,"Backups of information are conducted, maintained, and tested periodically"
+,,Implements Alternate Processing Infrastructure—Measures are implemented for migrating processing to alternate infrastructure in the event normal processing infrastructure becomes unavailable.  ,PR.PT-5,"Systems operate in pre-defined functional states to achieve availability (e.g. under duress, under attack, during recovery, normal operations)."
+A1.3,The entity tests recovery plan procedures supporting system recovery to meet its objectives.  ,,,
+,,Implements Business Continuity Plan Testing—Business continuity plan testing is performed on a periodic basis. The testing includes (1) development of testing scenarios based on threat likelihood and magnitude; (2) consideration of system components from across the entity that can impair the availability; (3) scenarios that consider the potential for the lack of availability of key personnel; and (4) revision of continuity plans and systems based on test results.,PR.IP-10,Response and recovery plans are tested
+,,,ID.SC-5,Response and recovery planning and testing are conducted with critical suppliers/providers
+,,Tests Integrity and Completeness of Back-Up Data—The integrity and completeness of back-up information is tested on a periodic basis. ,PR.IP-4,"Backups of information are conducted, maintained, and tested periodically"
+,ADDITIONAL CRITERIA FOR CONFIDENTIALITY ,,,
+C1.1 ,The entity identifies and maintains confidential information to meet the entity’s objectives related to confidentiality. ,,,
+,,Identifies Confidential information—Procedures are in place to identify and designate confidential information when it is received or created and to determine the period over which the confidential information is to be retained.,,
+,,Protects Confidential Information from Destruction—Procedures are in place to protect confidential information from erasure or destruction during the specified retention period of the information. ,,
+C1.2  ,The entity disposes of confidential information to meet the entity’s objectives related to confidentiality.  ,,,
+,,Identifies Confidential Information for Destruction—Procedures are in place to identify confidential information requiring destruction when the end of the retention period is reached. ,PR.IP-6,Data is destroyed according to policy
+,,Destroys Confidential Information—Procedures are in place to erase or otherwise destroy confidential information that has been identified for destruction.,PR.IP-6,Data is destroyed according to policy
+"Legend for Trust Services Criteria References: ""CC"" denotes common criteria that are applicable to the categories of Security, Availability, Confidentiality, and Processing Integrity. ""A"" denotes additional criteria specific to Availability, ""C"" denotes additional criteria specific to Cofidentiality, and ""PI"" denotes additional criteria specific to Processing Integrity.",,,,
+ © 2015 American Institute of CPAs.,,,,

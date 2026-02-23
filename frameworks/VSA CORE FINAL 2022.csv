@@ -1,0 +1,51 @@
+VSA CORE Questionnaire 2022 FINAL
+""
+What is new?
+"The VSA CORE has been updated to reflect key legal updates: The CCPA has been over a year in force, and the CPRA will come into effect in just over a year. Due diligence to prepare for the CPRA is reflected in the USA_Privacy tab. GDPR Privacy tab has been updated to reflect the 2021 update to the Standard Contractual Clauses (and to date no replacement for Privacy Shield has entered into effect).
+The Security questionnaire has also been updated to reflect shifting security priorities and attack vectors."
+""
+What is the CORE Questionnaire?
+"The VSA CORE questionnaire focuses on security and privacy principles and practices. From a security viewpoint, it does not go into the same depth as the full VSA FULL questionnaire but hits the key points. It also adds the Privacy section(s), required by companies based in the USA and worldwide"
+"The VSA CORE questionnaire should be used when companies wish  to ensure the vendor has well designed security & privacy operations. The VSA FULL focuses on security only, and goes into more depth than the VSA Core"
+""
+Why Audit Vendors?
+"When we do business with a vendor, it is not safe to assume we are doing business just with the party under contract. Vendors rely on other parties. If we are to rely on a chain, then all the links must be tested, not just the first link. We must also apply the same standard of testing to all the links, which is why we created this questionnaire."
+""
+Approaches Taken
+1) Data-Risk Based: Not all vendors should be held to the same standard. The risk is proprtionate to the sensitivity of the data they are accessing (and the volume of data). The controls vendors should have in place must be proprtionate to their risk.
+"2) Integrated Security: Great security is not achieved by purchasing a product. It is achieved by thinking about security from the start; how a product is designed, how a product is tested, how it is patched and maintained, what steps have been taken to minimise a breach and what happens during a security incident. All of these and more are covered in this questionnaire."
+"3) Service oriented. Many companies have multiple offerings of services and products. Rather than audit the company, we focus on just the services that are being delivered. Only the security policies and controls in the scope of the service under review are relevant. Vendors should fill the questionnaire out for each specific product or package that is being evaluated."
+""
+Automated Scoring?
+"There are those who strive to automate scoring. In our experience this has a negative correlation with true security status. As a result, we ask many open questions. The nuances of the answers reveal both good and bad security practices and philosophies, something automated scoring cannot."
+The Privacy sections are far more compatible with automated scoring than the Security section
+""
+How should a non-VSA member use this questionnaire?
+"a) Send this questionnaire to your vendors to assess their cybersecurity risk. They will return it directly to you, and you can assess their risk, and"
+"b) Use this questionnaire to benchmark the cybersecurity risk of services you provide, and find areas to improve"
+""
+How should a VSA member use this questionnaire?
+"(i) You have the same options as non-VSA members, or"
+(ii) You can leverage VSA to have independent third party auditors carry out your third party audits. This will greatly shorten the time and cost to vendor approval or rejection decisions.
+""
+How can I become a VSA member?
+Email us at membership@vendorsecurityalliance.org
+""
+What is the VSA?
+"The VSA is a coalition of companies focused on measuring and reducing vendor risk, with the goal of making the internet safer for everyone. The VSA is a non-profit entity."
+""
+FAQs
+"Scope: If a question is ambiguous regarding scope, answer it within the scope of delivery of the service under audit."
+What is the definition of 'X': Please see the final tab in this document
+""
+Special thanks to the Working Group that created this document:
+Ken Baylor https://www.linkedin.com/in/kenbaylor
+Azure Shen https://www.linkedin.com/in/azureshen/
+Jack Baylor https://www.linkedin.com/in/jackbaylor/
+Janet Lawless https://www.linkedin.com/in/janet-lawless-210916/
+Kevin Qiu https://www.linkedin.com/in/kevinmqiu/
+Nate Jones https://www.linkedin.com/in/nathanjones/
+Pratik Savla https://www.linkedin.com/in/pratiksavla/
+Priya Balakrishnan https://www.linkedin.com/in/priya-balakrishnan-33867811/
+Vijay Anand https://www.linkedin.com/in/vijayobserveai/
+Jan Encina https://www.linkedin.com/in/jan-martin-encina-0b4b8445/

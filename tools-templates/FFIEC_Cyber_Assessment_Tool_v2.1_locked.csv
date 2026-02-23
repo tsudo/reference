@@ -1,0 +1,54 @@
+Watkins Consulting,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,User Manual
+,,,,,FFIEC Cybersecurity Assessment Tool (May 2017),,,,Workbook Information
+ Excel Workbook Version: 2.1,,,,,,,,,Disclaimer
+,,,,,,,,,
+"Please click here to register with us to receive periodic tool updates or to provide feedback. 
+_x000D_We greatly appreciate your comments.",,,,,"Watkins is proud to be a trusted advisor to our clients. To that end, we are making this Tool available for use by the banking community.  Should your institution require additional support understanding or evaluating the FFIEC Cybersecurity Assessment, please contact us by email at solutions@watkinsconsulting.com or calling 240-479-7273. ",,,,
+,,,,,,,,,
+,,,,,,,,,
+"Copyright (c) 2017, Watkins Consulting, Inc.",,,,,,,,,
+All rights reserved.,,,,,"This workbook is an Excel realization of the FFIEC Cybersecurity Assessment Tool released in May 2017. The organizational approach and text within this Excel workbook was derived from the FFIEC Cybersecurity Assessment Tool.
+
+This tool is an assessment only. It is not a certification or a standard. It is intended to help businesses identify their risks and determine their preparedness. Repeated assessments should provide a measurable evaluation of cybersecurity readiness over time. 
+
+",,,,
+,,,,,,,,,
+"Watkins Consulting, Inc.",,,,,,,,,
+"888 Bestgate Rd., Suite 401",,,,,,,,,
+"Annapolis, MD 21401",,,,,,,,,
+240 479 7273,,,,,,,,,
+888 320 2320,,,,,,,,,
+,,,,,"Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+      • Redistributions of source code must retain the copyright notice (cells A8:A9), this list of conditions and the following disclaimer.
+      • Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+      • Neither the name of the Watkins Consulting, Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ""AS IS"" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL WATKINS CONSULTING, INC. BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.",,,,
+Customization,,,,,,,,,
+Firm Name,,,,,,,,,
+Date,,,,,,,,,
+Responsible Person,,,,,,,,,
+General Notes,,,,,,,,,
+,,,,,,,,,
+Watkins Resources,,,,,,,,,
+Watkins website,watkinsconsulting.com,,,,,,,,
+Watkins Cybersecurity,cybersecurity-governance,,,,,,,,
+User Guide,Watkins-FFIEC-CAT-Excel-User-Guide-v2.00.pdf,,,2.1,,,,,
+,,,,Workbook Version Information,,,,,
+FFIEC Resources,,,,Version,Date,Author,Description,,
+Website,https://www.ffiec.gov/,,,1,2015-10-09 00:00:00,jmj,completed import from PDF and scoring,,
+Cybersecurity,https://www.ffiec.gov/cybersecurity.htm,,,1.01,2015-10-19 00:00:00,jmj,minor formatting,,
+Cybersecurity Assesment Tool,https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_May_2017.pdf,,,1.02,2015-12-03 00:00:00,jmj,added maturity summary; unlocked data input sheets; updated version ID; minor formatting/view updates,,
+Appendix A: Mapping Baseline Statements to FFIEC IT Examination Handbook,https://www.ffiec.gov/pdf/cybersecurity/FFIEC_CAT_Appendix_A_May_2017.pdf,,,2,2017-07-27 00:00:00,jmj,"update for latest FFIEC CAT release (May 2017); better identification (date, name of firm, responsible party, general notes); make links to web references easier to fix when broken; clean up title area; clarified maturity summary explanatory note for shading; improved printing for key sheets; add future improvements table; eliminated duplicate risk table; added controlled risk indicator; added log worksheet; fixed typos; verified 2015 to 2017 changes; cleaned up risk rollup to make weighting clearer;  removed unused cells; broke up unintentionally grouped declarative statements (Risk Management/Training and Culture/Culture/Evolving)",,
+FFIEC IT Examination Handbook Infobase,https://ithandbook.ffiec.gov/,,,2.01,2017-11-21 00:00:00,jmj,Remove bug when pasting into declarative statement repsonses; allow weighting changes; use names instead of references for weighting calculation,,
+"If the FFIEC moves the links to the PDF versions of the handbooks, you can update the links below
+(shouldn't be a hyperlink, just the text for the link)",,,,2.1,2018-08-31 00:00:00,jmj,Update handbook links for latest web location. Update all web links (incomplete before). Disable alt PDF links. Update infomration page FFIEC links. Corrected license language to refer to current copyright location.,,
+Booklet,Booklet URL,Page Offset,,Future Improvements,,,,,
+Business Continuity Planning Booklet,https://ithandbook.ffiec.gov/media/274725/ffiec_itbooklet_businesscontinuityplanning.pdf,3,,Date,Impact,Difficulty,Description,,
+E-Banking Booklet,https://ithandbook.ffiec.gov/media/274777/ffiec_itbooklet_e-banking.pdf,3,,2017-07-27 00:00:00,Low,Medium,"automated logging, but would require VBA",,
+Information Security Booklet,https://ithandbook.ffiec.gov/media/274793/ffiec_itbooklet_informationsecurity.pdf,3,,2017-08-11 00:00:00,Low,Low,"add a warning when an entire maturity level is scored as ""N/A.""  The current workbook scoring equates this to an unpassed maturity level; current workaround is to answer one question with a ""Yes"" value so that the maturity level is marked as passed.",,
+Outsourcing Booklet,https://ithandbook.ffiec.gov/media/274841/ffiec_itbooklet_outsourcingtechnologyservices.pdf,3,,2018-08-31 00:00:00,Low,Medium,"Add in CAT Appendix A with links, this would improve the useful links",,
+Audit Booklet,https://ithandbook.ffiec.gov/media/274709/ffiec_itbooklet_audit.pdf,2,,2018-09-01 00:00:00,Medium,Medium,Add comparison to another workbook. Add transfer answers/notes from another workbook.,,
+Operations Booklet,https://ithandbook.ffiec.gov/media/274825/ffiec_itbooklet_operations.pdf,3,,,,,,,
+Development and Acquisition Booklet,https://ithandbook.ffiec.gov/media/274741/ffiec_itbooklet_developmentandacquisition.pdf,4,,,,,,,
+Wholesale Payments Booklet,https://ithandbook.ffiec.gov/media/274899/ffiec_itbooklet_wholesalepaymentsystems.pdf,3,,,,,,,

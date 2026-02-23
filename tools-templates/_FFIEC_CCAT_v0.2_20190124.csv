@@ -1,0 +1,199 @@
+Unnamed: 0,Document Overview and Instructions,Unnamed: 2
+,,
+,Workbook Tabs,
+,,"Throughout the tool, orange-filled cells require input and blue-colored tabs will display results of your input."
+,,Instructions - This tab provides key FFIEC links and general instructions for completing the Inherent Risk Profile and use of the Inherent Risk Summary for reporting.
+,,"Inherent Risk Profile Input - This tab contains the Risk Categories, risk criteria, and risk levels for identification of the overall inherent risk of the institution."
+,,Inherent Risk Results - This tab contains summary tables and graphs based on the results from the Inherent Risk Profile Input.
+,,Maturity Tool Input - This tab contains the declaritive statements in the maturity assessment.
+,,"Maturity Results - This tab contains a chart that displays the maturity of each component, assessment factor, and domain based on the input entered into the Maturity Tool Input tab."
+,,"Charts of Assessment Factor - This tab contains a graph for each domain and the maturity results of the individual assessment factors.  Also, select your institution's target maturity in this tab."
+,,Charts of Component - This tab contains a graph for each domain and the maturity results of the individual components.
+,,Ref - This is a hidden tab containing references across the other tabs to standardize inputs.
+,,
+,Part One: Complete the Inherent Risk Profile,
+,,
+,"Select ""Inherent Risk Profile"" Tab.",
+,,
+,Complete each category in Inherent Risk Profile:,
+,,
+,1,"Each ""+"" sign can be clicked to expand the Inherent Risk Category to present the risk statements for selection.    "
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,2,Read the risk statement and determine the appropriate risk level based on the criteria to the right of the statement. Select from the drop down in Column C the criteria that is closest to your institution's environment.
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,3,"If needed, enter any comments in the Comments section (Column J) to capture additional information to support the selection of the specific risk level."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,Inherent Risk Results,
+,,
+,,Inherent Risk Results Tab contains the summary results of your selections
+,,
+,,"NOTE: If there is an ""incomplete"" in the Inherent Risk column, then all the risk criteria have not been selected. Please return to the Inherent Risk Profile Input tab to complete the selections."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,Defining a Maturity Target,
+,,
+,,FFIEC provided a general chart which shows the intersection of the Inherent Risk Level obtained using this Risk Profile and the Cybersecurity Maturity Levels.  
+,,
+,,"For Example - if the results of completing the Inherent Risk Profile indicated ""Moderate"" - then the institution should strive to have a Cybersecurity Maturity of ""Evolving"", ""Intermediate"" or ""Advanced."""
+,,
+,,The Inherent Risk Results Tab calculates what your Cybersecurity Maturity Level is expected to be.
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,Part Two: Complete the Maturity Tool Assessment,
+,,
+,"Select ""Maturity Tool Input"" Tab.",
+,,
+,Complete each question in the Maturity Tool Assessment:,
+,,
+,1,"Each ""+"" sign can be clicked to expand the Domain, Assessment Factor, Component and Maturity Level that categorize the declaritive statements. The second ""+"" sign expands the mappings to NIST Cybersecurity Framework."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,2,"Read the declarative statement and determine the appropriate response of Yes, No, or N/A for your institution."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,3,"If needed, enter any comments in the Comments section (Column J) to capture additional information to support the selection of the response."
+,,
+,Maturity Tool Results,
+,,
+,,"The ""Maturity Results"" tab contains a summary results of all your selections on the tool input.  Columns F-J contain the % to which your institution answered ""Yes"" or ""N/A"" for each maturity level in each component.
+
+Column D rolls those results up to the assessment factor level.  Column B rolls those results up to the Domain level.
+
+NOTE: If there is an ""incomplete"" in the Assessed Maturity Level column, then all the responses have not been selected. Please return to the Maturity Tool Input tab to complete the selections."
+,Charts of Assessment Factor and Charts of Component,
+,,"These two tabs display the same information as the ""Maturity Tool Results"" tab but in graphical form."
+,,
+,,"On the Charts of Assessment Factor tab, select the Target Maturity your institution desires for each Domain (orange-colored cells) to influence where the red lines are drawn on the graphs."
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,Part Three: Helpful Hints for Identifying Areas for Improvement,
+,,
+,,"Use Excel’s filter function to group results based on “below baseline” ranking and, thus, identify areas to focus efforts to move to the next level.  For example:"
+,, Go to the Maturity Tool Input tab;
+,, Expand all columns
+,,Highlight the worksheet
+,,"Select ""Data"" on the menu bar"
+,,"Select ""Filter"""
+,,"Select only ""Baseline"" in Column D (Maturity Level) filter"
+,,"Select only ""No"" in Column I (Yes, No, and N/A) filter"
+,,
+,,This remaining results indicate the areas that are below baseline and in most need of immediate attention.
+,,
+,,"For additional information and actionable ways to prioritize next steps to take to protect your organization’s security architecture, please refer to the SANS Top 20 CIS Critical Security Controls. The controls prioritize security functions that are effective against the latest threats, with a strong emphasis on security controls where products, processes, architectures and services are in use that have demonstrated real world effectiveness."
+,,https://www.sans.org/critical-security-controls/
+,,
+,,Inherent Risk - Categories
+,,
+,,"Technologies and Connection Types. Certain types of connections and technologies may pose a higher inherent risk depending on the complexity and maturity, connections, and nature of the specific technology products or services. This category includes the number of Internet service provider (ISP) and third-party connections, whether systems are hosted internally or outsourced, the number of unsecured connections, the use of wireless access, volume of network devices, end-of-life systems, extent of cloud services, and use of personal devices."
+,,
+,,Delivery Channels. Various delivery channels for products and services may pose a higher inherent risk depending on the nature of the specific product or service offered. Inherent risk increases as the variety and number of delivery channels increases. This category addresses whether products and services are available through online and mobile delivery channels and the extent of automated teller machine (ATM) operations.
+,,
+,,"Online/Mobile Products and Technology Services. Different products and technology services offered by institutions may pose a higher inherent risk depending on the nature of the specific product or service offered. This category includes various payment services, such as debit and credit cards, person-to-person payments, originating automated clearing house (ACH), retail wire transfers, wholesale payments, merchant remote deposit capture, treasury services and clients and trust services, global remittances, correspondent banking, and merchant acquiring activities. This category also includes consideration of whether the institution provides technology services to other organizations."
+,,
+,,"Organizational Characteristics. This category considers organizational characteristics, such as mergers and acquisitions, number of direct employees and cybersecurity contractors, changes in security staffing, the number of users with privileged access, changes in information technology (IT) environment, locations of business presence, and locations of operations and data centers."
+,,
+,,External Threats. The volume and type of attacks (attempted or successful) affect an institution’s inherent risk exposure. This category considers the volume and sophistication of the attacks targeting the institution.
+,,
+,,Inherent Risk - Risk Levels
+,,
+,,"Least Inherent Risk. An institution with a Least Inherent Risk Profile generally has very limited use of technology. It has few computers, applications, systems, and no connections. The variety of products and services are limited. The institution has a small geographic footprint and few employees."
+,,
+,,Minimal Inherent Risk. An institution with a Minimal Inherent Risk Profile generally has limited complexity in terms of the technology it uses. It offers a limited variety of less risky products and services. The institution’s mission-critical systems are outsourced. The institution primarily uses established technologies. It maintains a few types of connections to customers and third parties with limited complexity.
+,,
+,,"Moderate Inherent Risk. An institution with a Moderate Inherent Risk Profile generally uses technology that may be somewhat complex in terms of volume and sophistication. The institution may outsource mission-critical systems and applications, and may support elements internally. There is a greater variety of products and services offered through diverse channels."
+,,
+,,Significant Inherent Risk. An institution with a Significant Inherent Risk Profile generally uses complex technology in terms of scope and sophistication. The institution offers high-risk products and services that may include emerging technologies. The institution may host a significant number of applications internally. The institution allows either a large number of personal devices or a large variety of device types. The institution maintains a substantial number of connections to customers and third parties. A variety of payment services are offered directly rather than through a third party and may reflect a significant level of transaction volume.
+,,
+,,"Most Inherent Risk. An institution with a Most Inherent Risk Profile uses extremely complex technologies to deliver myriad products and services. Many of the products and services are at the highest level of risk, including those offered to other organizations. New and emerging technologies are utilized across multiple delivery channels. The institution may outsource some mission-critical systems or applications, but many are hosted internally. The institution maintains a large number of connection types to transfer data with customers and third parties."
