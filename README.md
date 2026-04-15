@@ -7,18 +7,36 @@ A curated collection of cybersecurity threat intelligence reports, breach analys
 
 ---
 
+## Machine-Readable Access
+
+Agents and downstream tooling should start here.
+
+| Artifact | Purpose |
+| --- | --- |
+| [CATALOG.csv](CATALOG.csv) | Primary discovery surface. One row per document. Columns: `filename, folder, organization, content_type, title, year, tags, source_url, format, md_available, date_ingested, doc_path`. `format=LINK` entries are external-reference stubs — follow `source_url`. `format=MD/PDF/XLSX` entries are stored in-repo at `doc_path`. |
+| [INDEX.md](INDEX.md) | Human-oriented grouping of the same content by content_type and organization. Useful for browsing; not the canonical parse target. |
+| [scripts/sources.yaml](scripts/sources.yaml) | Upstream source registry — maps logical source names to live URLs and update frequency. Consume this to know where canonical versions live. |
+
+**Consumption pattern for agents:** filter CATALOG.csv by `content_type` and/or `tags`, resolve `doc_path` for local files or `source_url` for LINK entries, cross-reference `scripts/sources.yaml` for freshness.
+
+**Bucket taxonomy (content_type values):** `breach-report`, `threat-intel`, `government`, `research`, `framework`, `standard`, `tool-template`, `misc`.
+
+---
+
 ## Collection Structure
 
 | Folder | Contents |
-|--------|----------|
-| `breach-reports/` | DBIR, Ponemon/IBM Cost of Breach, incident summaries |
-| `threat-intel/` | Annual threat reports and vendor intelligence |
-| `government/` | CISA advisories, ATA/WWTA reports, regulatory guidance |
-| `research/` | WEF Global Risks and related research |
-| `frameworks/` | CIS Controls, NIST CSF, SOC/VSA mappings |
-| `standards/` | NIST SP and related standards references |
-| `tools-templates/` | Checklists, playbooks, worksheets, policy templates |
-| `z_Misc/` | Overflow and uncategorized references |
+| --- | --- |
+| [breach-reports/](breach-reports/) | DBIR, Ponemon/IBM Cost of Breach, named-incident records |
+| [threat-intel/](threat-intel/) | Annual and quarterly vendor threat reports |
+| [government/](government/) | CISA advisories, ATA/WWTA reports, FFIEC, HHS/HIPAA |
+| [research/](research/) | FAIR-CAM, WEF Global Risks, academic and methodology content |
+| [frameworks/](frameworks/) | CIS Controls, NIST CSF, SOC/VSA mappings, cloud benchmarks |
+| [standards/](standards/) | NIST SPs (53r5, 37, 39, 171), OSCAL, SBOM specs, Privacy Framework |
+| [tools-templates/](tools-templates/) | Assessment tools, playbooks, IaC scanners, policy scaffolds |
+| [z_Misc/](z_Misc/) | Overflow and uncategorized references |
+
+Each bucket has a `README.md` explaining its scope, contents, and how to filter CATALOG.csv.
 
 ---
 
